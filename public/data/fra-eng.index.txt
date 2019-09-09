@@ -1,0 +1,8511 @@
+ à	8m	7
+00databasealphabet	BgU2	2
+00databasedictfmt1121	B	b
+00databaseinfo	c	4u
+00databaseshort	5K	u
+00databaseurl	54	e
+00databaseutf8	A	B
+abaissement	ITf	CE
+abaisser	IVj	DC
+abandon	IYl	CZ
+abandonner	Ia+	CR
+abandonné	IdP	4
+abaque	IeH	7
+abasourdir	IfC	/
+abasourdissement	IgB	BE
+abatjour	IhF	q
+abats	Ihv	c
+abattage	IiL	BB
+abattant	IjM	k
+abattement	Ijw	B9
+abattis	Ilt	BH
+abattoir	Im0	3
+abattre	Inr	DI
+abbatial	Iqz	c
+abbaye	IrP	d
+abbesse	Irs	g
+abbé	IsM	8
+abc	ItI	Y
+abcès	Itg	h
+abdication	IuB	BA
+abdiquer	IvB	Bw
+abdomen	Iwx	l
+abdominal	IxW	n
+abducteur	Ix9	q
+abeille	Iyn	d
+aberrant	IzE	Ba
+aberration	I0e	BJ
+abhorrer	I1n	w
+abiogenèse	I2X	x
+abject	I3I	CR
+abjection	I5Z	t
+abjuration	I6G	+
+abjurer	I7E	BM
+abkhasie	94	f
+abkhasien	+X	n
+abkhasien	I8Q	j
+ablatif	I8z	h
+ablation	I9U	o
+able	6W	b
+abnégation	I98	v
+abois	I+r	q
+abolir	I/V	o
+abolition	I/9	4
+abolitionniste	JA1	2
+abominable	JBr	BX
+abomination	JDC	BP
+abominer	JER	w
+abondamment	JFB	9
+abondance	JF+	0
+abondant	JGy	m
+abonder	JHY	e
+abonnement	JH2	v
+abonné	JIl	m
+abord	JJL	B+
+abordable	JLJ	Bv
+aborder	JM4	C7
+abords	JPz	+
+aborigène	JQx	9
+abortif	JRu	6
+aboucher	JSo	z
+abouler	JTb	Z
+abouter	JT0	c
+aboutir	JUQ	CP
+aboutissement	JWf	Bk
+aboyer	JYD	e
+aboyer à	JYh	BZ
+abracadabrant	JZ6	BT
+abrasif	JbN	i
+abreuver	Jbv	BJ
+abreuvoir	Jc4	r
+abri	Jdj	Ba
+abricot	Je9	k
+abricotier	Jfh	w
+abriter	JgR	BO
+abrogation	Jhf	7
+abroger	Jia	BI
+abrupt	Jji	q
+abruptement	JkM	s
+abrégement	Jk4	BA
+abréger	Jl4	Bz
+abrégé	Jnr	BG
+abrévation	Jox	y
+abscisse	Jpj	j
+absence	JqG	k
+absent	Jqq	e
+absinthe	JrI	l
+absolu	Jrt	g
+absolument	JsN	BF
+absolutisme	JtS	v
+absorbant	JuB	p
+absorber	Juq	l
+absorption	JvP	w
+abstension totale dalcool	Jv/	Bf
+abstention	Jxe	8
+abstinence	Jya	t
+abstraction	JzH	y
+abstraire	Jz5	k
+abstrait	J0d	j
+absurde	J1A	f
+absurdité	J1f	BB
+abus	J2g	b
+abuser	J27	Z
+abusif	J3U	x
+abusivement	J4F	t
+abyssin	++	i
+abyssin	J4y	k
+abyssinie	/g	i
+abécédaire	J5W	t
+abêtir	J6D	c
+abîme	J6f	BD
+abîmer	J7/	BF
+abîmé	J7i	d
+acabit	J9E	k
+acacia	J9o	h
+académicien	J+J	v
+académie	J+4	l
+académique	J/d	m
+acajou	LKc	j
+acanthe	KAD	k
+acarien	KAn	g
+accaparer	KBH	s
+accent	KBz	BW
+accent circonflexe	KDJ	9
+accentuer	KEG	BD
+acceptable	KFJ	p
+accepter	KFy	3
+accepteur	KGp	r
+accepté	KHU	j
+accessible	KH3	5
+accessoire	KIw	4
+accessoire	KJo	2
+accident	KKe	o
+accidentel	KLG	BK
+accidentellement	KMQ	BF
+accidenté	KNV	l
+acclamation	KN6	BD
+acclamer	KO9	n
+acclimatation	KPk	4
+acclimatement	KQc	5
+accolade	KRV	l
+accommodant	KR6	8
+accommodement	KS2	BK
+accommoder	KUA	q
+accomodation	KUq	2
+accompagnateur	KVg	BD
+accompagnatrice	KWj	9
+accompagnement	KXg	BI
+accompagner	KYo	p
+accompli	KZR	1
+accomplir	KaG	BI
+accomplissement	KbO	BI
+accord	KcW	Bc
+accordailles	Kdy	y
+accorder	Kek	d
+accordé	KfB	g
+accordée	Kfh	u
+accordéon	KgP	t
+accordéoniste	Kg8	2
+accotement	Khy	BF
+accoter	Ki3	s
+accotoir	Kjj	s
+accoucher	KkP	4
+accoucheur	KlH	u
+accoucheuse	Kl1	2
+accouchée	Kmr	s
+accoudoir	KnX	t
+accouplement	KoE	BJ
+accoupler	KpN	w
+accoutumer	Kp9	i
+accoutumé	Kqf	BB
+accrocher	Krg	3
+accroissement	KsX	Bn
+accroître	Kt+	BK
+accréditation	KvI	4
+accréditer	KwA	l
+accu	Kwl	9
+accueil	Kxi	BQ
+accueillir	Kyy	Ba
+accumulateur	K0M	BM
+accumulation	K1Y	9
+accumulator	K2V	BL
+accumuler	K3g	5
+accusateur	K4Z	k
+accusatif	K49	p
+accusation	K5m	BV
+accuser	K67	l
+accusé	K7g	t
+accusé de réception	K8N	BR
+accès	K9e	BQ
+accéleration	K+u	3
+accélerer	K/l	x
+accélérateur	LAW	BJ
+accélération	LBf	3
+accélérer	LCW	+
+acerbe	LDU	/
+achat	LET	t
+acheteur	LFA	5
+achever	LF5	p
+achevé	LGi	g
+achille	BAC	c
+achillée	LHC	i
+achopper	LHk	f
+achéron	BAe	i
+acide	LID	t
+acidifier	LIw	h
+acidité	LJR	u
+acier	LJ/	d
+acné	LK/	b
+acolyte	LLa	j
+acompte	LL9	By
+aconit	LNv	s
+acoustique	LOb	o
+acquisition	LPD	Bb
+acquit	LQe	w
+acquittement	LRO	v
+acquitter	LR9	e
+acquéreur	LSb	6
+acquérir	LTV	/
+acquérir péniblement	LUU	7
+acre	LVP	a
+acrobate	LVp	m
+acrobaties	LWP	s
+acrobatique	LW7	p
+acrostiche	LXk	s
+acte	LYQ	+
+acteur	LZO	h
+actif	LZv	BO
+action	La9	BA
+action au porteur	Lb9	BP
+action de compagnie maritime	LdM	BV
+action nominative	Leh	BA
+actionnaire	Lfh	w
+actionner	LgR	o
+activer	Lg5	BB
+activité	Lh6	BT
+actrice	LjN	j
+actualité	Ljw	4
+actualités	Lko	m
+actuel	LlO	Bc
+actuellement	Lmq	BE
+acuité	Lnu	BB
+acuponcture	Lov	x
+acéré	Lpg	d
+acétate	Lp9	k
+acétone	Lqh	j
+acétylène	LrE	r
+adagio	Lrv	i
+adam	BBA	V
+adaptation	LsR	6
+adaptation musicale	LtL	BB
+adapter	LuM	6
+adapteur	LvG	n
+adapté	Lvt	f
+addisabeba	BBV	o
+addition	LwM	BR
+additionnel	Lxd	q
+additionner	LyH	o
+aden	BB9	W
+adhérent	L1t	6
+adhérents	L2n	Bi
+adhérer	L4J	z
+adhésif	L48	h
+adhésion	L5d	BL
+adieu	L6o	s
+adjacent	L7U	BG
+adjarie	BCT	g
+adjectif	L8a	7
+adjoindre	L9V	h
+adjoint	L92	6
+adjoint au maire	L+w	2
+adjudant	L/m	3
+adjudication	MAd	v
+adjuger	MBM	e
+admettre	MBq	Bd
+administrateur	MDH	BI
+administratif	MEP	0
+administration	MFD	BH
+administrer	MGK	x
+admirable	MG7	m
+admirateur	MHh	s
+admiratif	MIN	m
+admiration	MIz	v
+admiratrice	MJi	8
+admirer	MKe	d
+admonester	MK7	s
+adn	9h	X
+ado	MLn	l
+adolescence	MMM	6
+adolescent	MNG	r
+adolescent	MNx	BE
+adolescente	MO1	BH
+adonis	BCz	a
+adonis	MP8	w
+adopter	MQs	u
+adoptif	MRa	w
+adoption	MSK	o
+adorable	MSy	k
+adorateur	MTW	1
+adoration	MUL	2
+adoratrice	MVB	BX
+adorer	MWY	n
+adorée	MW/	m
+adoucir	Lyv	u
+adoucissant	Lzd	s
+adresse	MXl	BJ
+adresser	MYu	1
+adresser la parole à	MZj	/
+adroit	Mai	6
+adrénaline	Mbc	t
+aduler	McJ	b
+adulte	Mck	p
+adulte	MdN	o
+adultère	Md1	p
+adultère	Mee	q
+adultère	MfI	BF
+adultère	MgN	n
+advenir	Mg0	z
+adverbe	Mhn	k
+adverbial	MiL	o
+adversaire	Miz	4
+adéquate	Mjr	v
+afecté	Mka	h
+affable	Mk7	8
+affaiblir	Ml3	h
+affaire	MmY	BI
+affaires	Mng	p
+affectation	MoJ	x
+affecter	Mo6	6
+affection	Mp0	r
+affectueux	Mqf	BA
+affecté	Mrf	u
+affermer	MsN	k
+affiche	Msx	y
+afficher	Mtj	t
+affiler	MuQ	c
+affilié	Mus	3
+affinier	Mvj	4
+affinité	Mwb	m
+affirmatif	MxB	q
+affirmation	Mxr	s
+affirmer	MyX	BD
+affixe	Mza	f
+affliction	Mz5	7
+affliger	M00	n
+affligé	M1b	d
+affluent	M14	j
+affluent	M2b	o
+afflux	M3D	1
+afflux de sang	M34	2
+affolement	M4u	BJ
+affranchi	M53	x
+affranchir	M6o	1
+affreusement	M7d	s
+affreux	M8J	CG
+affreux jojo	M+P	6
+affriolant	M/J	q
+affront	M/z	u
+affronter	NAh	BH
+afféterie	NBo	t
+afghan	BDN	c
+afghan	NCV	e
+afghane	BDp	m
+afghanistan	BEP	r
+afin de	NCz	u
+afin de pour	NDh	p
+afin que	NEK	h
+africain	BE6	i
+africain	NEr	k
+afrikander	BFc	u
+afrique	BGK	c
+afrique du nord	BGm	x
+afrique du sud	BHX	u
+afroasiatique	NFP	z
+agacement	NGC	x
+agacer	NGz	B0
+agamemnon	BIF	m
+agape	NIn	Z
+agaragar	NJA	3
+agathe	BIr	Z
+agaçant	NJ3	BQ
+agence	NLH	i
+agence de voyage	NLp	BN
+agenda	NM2	1
+agent	NNr	w
+agent de police	NOb	3
+aggloméré	NPS	u
+agglutinant	NQA	p
+agglutiner	NQp	BU
+aggraver	NR9	5
+agile	NS2	a
+agir	NTQ	BD
+agir avec abnégation	NUT	BL
+agir avec affectation	NVe	BV
+agir en hypocrite	NWz	x
+agir selon	NXk	BC
+agissant	NYm	i
+agitation	NZI	3
+agiter	NZ/	Bi
+agité	Nbh	BH
+agneau	Nco	d
+agnostique	NdF	m
+agonie	Ndr	s
+agoniser	NeX	u
+agoraphobie	NfF	w
+agrafe	Nf1	m
+agrafe de vêtement	Ngb	BE
+agrafer	Nhf	c
+agrander	Nh7	BB
+agrarien	Ni8	4
+agresser	Nj0	q
+agressif	Nke	m
+agression	NlE	0
+agriculteur	Nl4	3
+agriculture	Nmv	BT
+agripper	NoC	4
+agronome	No6	t
+agronomie	Npn	3
+agronomique	Nqe	t
+agréable	NrL	BI
+agréablement	NsT	BJ
+agréer	Ntc	0
+agrégat	NuQ	n
+agrégation	Nu3	x
+agrément	Nvo	BG
+ah	Nwu	i
+aide	NxQ	f
+aider	Nxv	7
+aigle	Nyq	d
+aiglefin	NzH	o
+aiglon	Nzv	j
+aigre	N0S	6
+aigreur	N1M	m
+aigrir	N1y	e
+aigu	N2Q	3
+aiguille	N3H	j
+aiguille de montre	N3q	4
+aiguille à coudre	N4i	z
+aiguiller	N5V	h
+aiguiser	N52	e
+ail	N6U	a
+aile	N6u	Z
+ailleurs	N7H	i
+aimable	N7p	BY
+aimant	N9B	k
+aimant	N9l	i
+aimer	N+H	t
+aimer mieux	N+0	k
+aine	N/Y	a
+ainsi	N/y	+
+ainsi soitil	OAw	i
+air	OBS	BM
+air de musique	OCe	y
+airain	ODQ	j
+aire	ODz	a
+aisselle	OEN	i
+aisé	OEv	1
+aixlachapelle	BJE	5
+ajax	BJ9	X
+ajourner	OFk	x
+ajouter	OGV	Z
+ajuster	OGu	h
+al	6x	X
+alarme	OHP	f
+alarmer	OHu	+
+albanais	BKU	g
+albanais	OIs	i
+albanie	BK0	d
+albatros	OJO	o
+albe	BLR	U
+albert	BLl	c
+alberta	BMB	g
+albino	OJ2	g
+album	OKW	f
+albumen	OK1	l
+alcali	OLa	h
+alcalin	OL7	j
+alchimie	OMe	k
+alchimiste	ONC	r
+alcool	ONt	i
+alcool dénaturé	OOP	BA
+alcoolique	OPP	m
+alcoolisme	OP1	s
+alcôve	OQh	o
+aldéhyde	ORJ	m
+alentour	ORv	BA
+alentours	OSv	u
+alep	BMh	Y
+alerte	OTd	BI
+alerter	OUl	BT
+alexandre	BM5	o
+alexandrie	BNh	r
+alger	BOM	a
+algue	OV4	j
+algèbre	OWb	m
+algébrique	OXB	p
+algérie	BOm	g
+algérien	BPG	o
+algérien	OXq	k
+alibi	OYO	e
+aliment	OYs	v
+alimenter	OZb	p
+alinéa	OaE	l
+aliter	Oap	l
+aliénation	ObO	BJ
+aliéniste	OcX	t
+aliéné	OdE	j
+allaiter	Odn	d
+allemagne	BPu	m
+allemagne de louest	BQU	6
+allemand	BRO	g
+allemand	OeE	z
+allemande	BRu	1
+aller	Oe3	s
+aller en pélerinage	Ofj	8
+aller en véhicule	Ogf	0
+aller à la selle	OhT	s
+allergie	Oh/	m
+allergique	Oil	n
+alliage	OjM	h
+alliance	Ojt	m
+allier	OkT	g
+alligator	Okz	r
+allitération	Ole	1
+allonger	OmT	i
+allouer	Om1	a
+allumer	OnP	4
+allumette	OoH	j
+allure	Ooq	BK
+alléchant	Op0	o
+allécher	Oqc	l
+allée	OrB	d
+allégorie	Ore	p
+allégorique	OsH	q
+allégresse	Osx	v
+allô	Otg	Y
+almanach	Ot4	k
+alors	Ouc	BF
+alost	BSj	Z
+alouette	Ovh	g
+aloès	OwB	e
+alpaga	Owf	h
+alpes	BS8	V
+alpes graies	BTR	o
+alpestre	OxA	i
+alpha	Oxi	T
+alphabet	Ox1	m
+alphabétique	Oyb	u
+alpin	OzJ	d
+alpinisme	Ozm	u
+alpiniste	O0U	BQ
+alsacien	BT5	l
+alsacien	O1k	h
+alternative	O2F	4
+alterner	O29	j
+altier	O3g	b
+altitude	O37	t
+alto	O4o	x
+altruisme	O5Z	q
+altruiste	O6D	p
+altruiste	O6s	o
+aluminium	O7U	r
+alun	O7/	a
+aléa	O8Z	k
+aléatoire	O89	n
+amabilité	O9k	p
+amadouer	O+N	e
+amande	O+r	h
+amant	O/M	f
+amante	O/r	h
+amarante	PAM	q
+amas	PA2	BF
+amateur	PB7	o
+amazone	PCj	i
+ambassade	PDF	n
+ambassadeur	PDs	x
+ambassadrice	PEd	BE
+ambiance	PFh	4
+ambigu	PGZ	i
+ambitieux	PG7	n
+ambition	PHi	q
+ambivalence	PIM	y
+amboine	BUe	f
+ambre	PI+	f
+ambre gris	PJd	o
+ambre jaune	PKF	p
+ambroisie	PKu	q
+ambulance	PLY	8
+amende	PMU	f
+amender	PMz	v
+amener	PNi	h
+amener à	POD	9
+amer	PPA	h
+ami	PPh	w
+ami politique	PQR	1
+amibe	PRG	d
+amical	PRj	f
+amie	PSC	b
+amiral	PSd	j
+amitié	PTA	l
+ammoniaque	PTl	m
+amnistie	PUL	y
+amoindrir	PU9	/
+amok	PV8	T
+amorphe	PWP	2
+amour	PXF	o
+amour charnel	PXt	7
+amoureux	PYo	u
+amoureux	PZW	j
+amphibie	PZ5	n
+amphibologique	Pag	x
+amphitryon	PbR	r
+amphitéâtre	Pb8	0
+amphore	Pcw	l
+amphétamine	PdV	x
+ample	PeG	BR
+ampleur	PfX	BI
+amplifier	Pgf	Ba
+amplitude	Ph5	q
+ampoule	Pij	u
+amputation	PjR	w
+amputer	PkB	g
+ampère	Pkh	l
+amsterdam	BU9	m
+amulette	PlG	0
+amusant	Pl6	2
+amusement	Pmw	Bf
+amuser	PoP	Z
+amygdale	Poo	i
+amène	PpK	7
+améliorer	PqF	k
+aménité	Pqp	m
+américain	BVj	y
+américain	PrP	o
+américaniser	Pr3	t
+amérique	BWV	g
+amérique centrale	BW1	7
+amérique du nord	BXw	1
+amérique du sud	BYl	y
+amérique septentrionale	BZX	BG
+améthyste	Psk	n
+an	PtL	Z
+anabaptisme	Ptk	t
+anachronisme	PuR	x
+anaconda	PvC	o
+anagramme	Pvq	m
+anal	PwQ	X
+analogie	Pwn	l
+analogique	PxM	n
+analogue	Pxz	j
+analphabète	PyW	v
+analyse	PzF	j
+analyser	Pzo	f
+analyste	P0H	5
+ananas	P1A	j
+anapeste	P1j	m
+anar	P2J	g
+anarchie	P2p	l
+anarchique	P3O	3
+anarchisme	P4F	s
+anarchiste	P4x	s
+anathème	P5d	9
+anatomie	P6a	k
+anatomique	P6+	n
+anatomiste	P7l	r
+anchois	P8Q	l
+ancien	P81	w
+ancien combattant	P9l	BB
+ancolie	P+m	n
+ancre	P/N	h
+ancêtre	P/u	r
+andalou	Bad	i
+andalou	QAZ	k
+andalouse	Ba/	w
+andalousie	Bbv	m
+andorran	QA9	p
+andorre	BcV	g
+andouille	QBm	l
+andrinople	Bc1	p
+anecdote	QCL	n
+anecdotique	QCy	q
+anesthésie	QDc	t
+anesthésiste	QEJ	z
+ange	QE8	e
+angine	QFa	q
+anglais	Bde	z
+anglais	QGE	h
+anglais	QGl	t
+angle	BeR	p
+angle	QHS	f
+angleterre	Be6	n
+anglican	QHx	n
+anglicisme	QIY	t
+anglosaxon	Bfh	0
+anglosaxon	QJF	w
+angoisse	QJ1	y
+angolais	BgV	j
+angolais	QKn	k
+anguille	QLL	g
+anguillule	QLr	n
+angulaire	QMS	m
+anguleux	QM4	w
+angélique	QNo	4
+aniline	QOg	i
+animal	QPC	t
+animal domestique	QPv	+
+animation	QQt	B+
+animer	QSr	b
+animé	QTG	q
+anne	Bg4	S
+anneau	QTw	c
+annibal	BhK	e
+annihilation	QUM	x
+anniversaire	QU9	BC
+annonce	QV/	t
+annoncer	QWs	5
+annonciation	Bho	/
+annuaire	QXl	BF
+annuel	QYq	l
+annuellement	QZP	q
+annulation	QZ5	4
+annuler	Qax	BJ
+année	Qb6	s
+année financière	Qcm	/
+anode	Qdl	d
+anonymat	QeC	n
+anonyme	Qep	7
+anormal	Qfk	j
+anse	QgH	d
+antagoniste	Qgk	5
+antarctique	Bin	p
+antarctique	Qhd	u
+antenne	QiL	s
+anthologie	Qi3	/
+anthracite	Qj2	t
+anthropologie	Qkj	4
+anthropologiste	Qlb	/
+anthropologue	Qma	5
+antibiotique	QnT	n
+antichambre	Qn6	BC
+anticipation	Qo8	2
+anticiper	Qpy	z
+anticorps	Qql	q
+antidote	QrP	p
+antigel	Qr4	r
+antillais	BjQ	k
+antillais	Qsj	m
+antilles	Bj0	g
+antilope	QtJ	o
+antimoine	Qtx	p
+antioche	BkU	h
+antipathie	Qua	z
+antipathique	QvN	n
+antipode	Qv0	p
+antique	Qwd	j
+antiseptique	QxA	u
+antisocial	Qxu	1
+antisémite	Qyj	v
+antisémitique	QzS	y
+antisémitisme	Q0E	4
+antithèse	Q08	s
+antoine	Bk1	e
+antéchrist	Q1o	y
+antécédent	Q2a	y
+anus	Q3M	h
+anvers	BlT	f
+anversois	Q3t	n
+anxiété	Q4U	1
+anémie	Q5J	h
+anémique	Q5q	h
+anémone	Q6L	k
+aorta	Q6v	f
+août	Q7O	c
+apache	Bly	p
+apache	Q7q	l
+apartheid	Q8P	q
+apathie	Q85	g
+apathique	Q9Z	j
+apennins	Bmb	j
+apercevoir	Q98	x
+apesanteur	Q+t	0
+aphasie	Q/h	h
+aphorisme	RAC	p
+aphrodite	Bm+	k
+apiculteur	RAr	BE
+apiculture	RBv	t
+apitoiement	RCc	1
+apitoyer	RDR	k
+aplati	RD1	b
+aplomb	REQ	y
+apocalypse	Bni	m
+apocalyptique	RFC	u
+apocryphe	RFw	m
+apogée	RGW	h
+apollon	BoI	f
+apologie	RG3	m
+apoplexie	RHd	BZ
+apostat	RI2	k
+apostolat	RJa	u
+apostolique	RKI	p
+apostrophe	RKx	s
+apothicaire	RLd	r
+apothéose	RMI	q
+appalaches	Bon	v
+apparant	RMy	j
+apparaître	RNV	1
+appareil	ROK	1
+appareil administratif	RO/	BQ
+apparemment	RQP	2
+apparence	RRF	BG
+apparier	RSL	y
+apparition	RS9	BD
+appartement	RUA	2
+appartenir	RU2	o
+appeler	RVe	i
+appendice	RWA	BZ
+appendicite	RXZ	w
+applaudir	RYJ	w
+application	RY5	t
+appliquer	RZm	CG
+appliqué	Rbs	8
+appointements	Rco	+
+apporter	Rdm	l
+apposer	ReL	l
+apprendre	Rew	u
+apprendre par cœur	Rfe	Bi
+apprendre par lexpérience	RhA	BZ
+apprendre à	RiZ	BI
+apprendre à fond	Rjh	x
+apprentissage	RkS	BG
+appris	RlY	m
+apprivoiser	Rl+	i
+apprivoisé	Rmg	k
+approbation	RnE	4
+approche	Rn8	m
+approcher	Roi	v
+approuver	RpR	g
+apprécier	Rpx	Bj
+appréhension	RrU	u
+apprêter	RsC	p
+appui	Rsr	m
+appuyer	RtR	z
+appuyer en écrasant	RuE	BF
+appât	RvJ	i
+appâter	Rvr	j
+appétit	RwO	l
+après	Rwz	Bm
+aprèsdemain	RyZ	BE
+aprèsmidi	Rzd	x
+apte à	R0O	6
+aptitude	R1I	BD
+apéritif	R2L	BB
+apéro	R3M	7
+apôtre	R4H	j
+aqu	R4q	c
+aquarelle	R5G	s
+aquarium	R5y	p
+aquatique	R6b	8
+aqueduc	R7X	j
+aquitaine	BpW	i
+arabe	Bp4	w
+arabe	R76	k
+arabesque	R8e	p
+arabie	Bqo	b
+arabique	R9H	p
+arachide	R9w	k
+arack	R+U	k
+araignée	R+4	l
+arbitraire	R/d	q
+arbitre	SAH	BC
+arbouse	SBJ	o
+arbousier	SBx	3
+arbre	SCo	e
+arbre de transmission	SDG	BW
+arbrisseau	SEc	t
+arbuste	SFJ	o
+arc	SFx	e
+arcade	SHB	n
+arcadie	BrD	e
+arcane	SHo	g
+arcenciel	SGP	y
+archange	SII	r
+archaïsme	SIz	p
+archevêque	SJc	v
+archiduc	SKL	o
+archiduché	SKz	t
+archimède	Brh	n
+archipel	SLg	s
+architecte	SMM	t
+architectonique	SM5	BF
+architectural	SN+	BE
+architecture	SPC	0
+archiviste	SP2	BD
+archéologie	SQ5	y
+archéologique	SRr	0
+archéologue	SSf	z
+arctique	STS	k
+ardant	ST2	9
+ardennes	BsI	g
+ardeur	SUz	v
+are	SVi	l
+argent	SWH	w
+argentin	Bso	o
+argentin	SW3	3
+argentine	BtQ	n
+argile	SXu	f
+argon	SYN	g
+argument	SYt	v
+argus	Bt3	Y
+aria	SZc	g
+ariane	BuP	c
+aristo	SZ8	l
+aristocrate	Sah	w
+aristocratie	SbR	y
+aristocratique	ScD	z
+aristote	Bur	j
+arithmétique	Sc2	w
+arlequin	Sdm	x
+armateur	SeX	r
+arme	SfC	c
+armer	Sfe	W
+armoire	Sf0	BL
+armorique	BvO	j
+armure	Sg/	h
+armée	Shg	d
+armée militaire	Sh9	w
+arménie	Bvx	f
+arménien	BwQ	n
+arménien	Sit	j
+arménienne	Bw3	x
+arnica	SjQ	h
+arobas	Sjx	u
+aromatique	Skf	3
+aronde	SlW	j
+arracher	Sl5	h
+arrangement	Sma	BU
+arranger	Snu	q
+arras	Bxo	X
+arrestation	SoY	BG
+arrimer	Spe	a
+arrimeur	Sp4	p
+arrivage	Sqh	m
+arriver	SrH	BH
+arriver en flottant	SsO	7
+arrivée	StJ	j
+arrière	Sts	y
+arrièrecousin	Sue	+
+arrièrecousine	Svc	8
+arrièregarde	SwY	+
+arrièregrandmère	SxW	BO
+arrièregrandpère	Syk	BP
+arrièreneveu	Szz	7
+arrièrenièce	S0u	5
+arrièrepetitefille	S2s	BM
+arrièrepetitfils	S1n	BF
+arrièreplan	S34	4
+arrogant	S4w	k
+arrondir	S5U	s
+arrondissement	S6A	2
+arroser	S62	m
+arrosoir	S7c	r
+arrêt	S8H	t
+arrêter	S80	p
+arsenal	S9d	v
+arsenic	S+M	m
+art	S+y	Y
+arthrite	S/K	n
+artichaut	S/x	p
+article	TAa	v
+articulation	TBJ	u
+artifice	TB3	6
+artificiel	TCx	1
+artificieux	TDm	8
+artillerie	TEi	s
+artillerie antiaérienne	TFO	Be
+artilleur	TGs	1
+artisan	THh	n
+artiste	TII	j
+artère	TIr	j
+artériosclérose	TJO	BA
+artésien	TKO	j
+arum	TKx	o
+aryen	Bx/	X
+aryen	TLZ	Z
+arène	TLy	q
+arête	TMc	2
+arôme	TNS	o
+as	TN6	V
+asbeste	TOP	l
+ascenseur	TO0	x
+asiate	ByW	w
+asiatique	BzG	1
+asie	Bz7	U
+asie du sudest	B09	5
+asie mineure	B0P	u
+asile	TPl	e
+aspect	TQD	BO
+asperge	TRR	n
+asphalte	TR4	k
+asphalter	TSc	g
+asphodèle	TS8	o
+aspirateur	TTk	BD
+aspirer	TUn	BO
+aspirer à	TV1	BF
+aspirine	TW6	l
+assaillir	TXf	o
+assainir	TYH	r
+assaisonner	TYy	i
+assassiner	TZU	g
+assaut	TZ0	BJ
+assembler	Ta9	4
+assemblée	Tb1	p
+assemblée politique	Tce	7
+asseoir	TdZ	e
+assertion	Td3	4
+assez	Tev	2
+assidu	Tfl	4
+assiduité	Tgd	q
+assiette	ThH	h
+assigner	Tho	d
+assimilation	TiF	z
+assimiler	Ti4	j
+assister	Tjb	Bf
+assister à	Tk6	BC
+assièger	Tl8	i
+association	Tme	w
+associer	TnO	k
+assomption	B12	v
+assoupir	Tny	k
+assouplir	L0J	u
+assouplissant	L03	2
+assurance	ToW	6
+assurer	TpQ	CM
+assureur	Trc	n
+assuré	TsD	l
+assurément	Tso	q
+assyrie	B2l	h
+assyrien	B3G	p
+assyrien	TtS	l
+aster	Tt3	c
+asthmatique	TuT	u
+asthme	TvB	/
+astral	TwA	3
+astre	Tw3	m
+astrologie	Txd	t
+astrologue	TyK	u
+astronaute	Ty4	1
+astronome	Tzt	m
+astronomie	T0T	r
+astronomique	T0+	7
+astucieux	T15	3
+asturies	B3v	g
+astérisque	T2w	r
+astéroïde	T3b	r
+asymétrique	T4G	BH
+atabasca	B4P	i
+atavisme	T5N	x
+atelier	T5+	BR
+athlète	T7P	k
+athlétique	T7z	m
+athlétisme	T8Z	s
+athènes	B4x	x
+athée	T9F	f
+athéisme	T9k	l
+athénien	B5i	l
+athénien	T+J	h
+atlantique	T+q	7
+atlas	B6H	X
+atmosphère	T/l	9
+atmosphèrique	UAi	w
+atoll	UBS	e
+atome	UBw	c
+atomique	UCM	f
+atout	UCr	c
+atroce	UDH	s
+atrocité	UDz	BK
+atrophie	UE9	k
+attachant	UFh	n
+attachement	UGI	7
+attacher	UHD	CK
+attaché	UJN	7
+attaquant	UKI	+
+attaque	ULG	z
+attaquer	UL5	9
+atteindre	UM2	Bn
+atteler	UOd	d
+attendre	UO6	+
+attendrissant	UP4	BC
+attendu que	UQ6	BM
+attentat	USG	l
+attente	USr	n
+attenter	UTS	p
+attentif	UT7	l
+attention	UUg	BM
+attentionée	UVs	BI
+attentivement	UW0	x
+atterrir	UXl	e
+attester	UYD	4
+attique	B6e	a
+attirant	UY7	m
+attirer	UZh	q
+attitude	UaL	k
+attraper	Uav	v
+attrayant	Ube	p
+attribuer	UcH	v
+attribut	Uc2	n
+attrister	Udd	z
+au	UeQ	W
+au bord de	Uem	o
+au commencement	UfO	BH
+au lieu de	UgV	h
+au milie de	Ug2	8
+au milieu de	Uhy	BI
+au moins	Ui6	c
+au moyen de	UjW	6
+au repos	UkQ	k
+au revoir	Uk0	t
+au sujet de	Ulh	1
+aubade	Uoe	l
+aube	UpD	i
+auberge	Upl	o
+aubergine	UqN	1
+aubergiste	UrC	BV
+aucun	UsX	d
+aucunement	Us0	7
+audace	Utv	q
+audacieux	UuZ	8
+audelà de	UmW	Bf
+audessus de	Un1	p
+audience	UvV	1
+auditeur	UwK	n
+auditoire	Uwx	o
+auditoire	UxZ	k
+auditorium	Ux9	s
+auge	Uyp	j
+augias	B64	a
+augmenter	UzM	BU
+augure	U0g	BB
+augurer	U1h	y
+auguste	B7S	d
+aujourdhui	U2T	l
+aulne	U24	c
+aumône	U3U	m
+aumônier	U36	8
+auparavant	U42	7
+auprès	U5x	r
+auquel	U6c	U
+aura	U6w	a
+aurigny	B7v	f
+aurochs	U7K	j
+aurore	U7t	BF
+auréole	U8y	r
+aussi	U9d	BR
+aussitôt	U+u	Bp
+austral	VAX	o
+australie	B8O	o
+australien	B82	w
+australienne	B9m	2
+austère	VA/	o
+austérité	VBn	8
+autant	VCj	7
+autarcie	VDe	2
+autel	VEU	e
+auteur	VEy	p
+authentique	VFb	o
+autisme	VGD	h
+autistique	VGk	k
+auto	VHI	Y
+autobiographie	VHg	3
+autobiographique	VIX	6
+autobus	VJR	y
+autochtone	VKD	w
+autocrate	VKz	4
+autocratie	VLr	BJ
+autocratique	VM0	r
+autodidacte	VNf	+
+autogène	VOd	m
+automate	VPD	m
+automatique	VPp	n
+automatiquement	VQQ	2
+automatiser	VRG	l
+automnal	VRr	g
+automne	VSL	h
+automobilisme	VSs	x
+automobiliste	VTd	x
+autonome	VUO	v
+autonomie	VU9	m
+autopsie	VVj	j
+autorisation	VWG	BG
+autoriser	VXM	j
+autoritaire	VXv	s
+autorité	VYb	o
+autoroute	VZD	BM
+autostrade	VaP	1
+autour	VbE	h
+autour	Vbl	6
+autour de	Vcf	5
+autre	VdY	BN
+autrefois	Vel	4
+autrement	Vfd	q
+autriche	B+c	f
+autrichien	B+7	p
+autrichien	VgH	l
+autruche	Vgs	k
+autrui	VhQ	t
+aux	Vh9	U
+aux bords de	ViR	u
+auxiliaire	Vi/	Bk
+avalanche	Vkj	q
+avaler	VlN	b
+avance	Vlo	s
+avancement	VmU	BD
+avancer	VnX	BF
+avant	Voc	q
+avantage	Vrh	BG
+avantageux	Vsn	t
+avantbras	VpG	w
+avantgarde	Vp2	r
+avanthier	Vqh	BA
+avare	VtU	w
+avarice	VuE	8
+avaricieux	VvA	6
+avarie	Vv6	g
+avec	Vwa	Z
+avenir	Vwz	j
+avent	VxW	g
+aventure	Vx2	p
+aventurer	Vyf	9
+avenue	Vzc	g
+aversion	Vz8	BB
+avertir	V09	n
+avertisseur	V1k	6
+aveu	V2e	8
+aveugle	V3a	d
+aveuglement	V33	q
+aveugler	V4h	e
+aviateur	V4/	v
+aviation	V5u	1
+avide	V6j	u
+avidité	V7R	BT
+avion	V8k	1
+avion à réaction	V9Z	9
+aviron	V+W	g
+avis	V+2	z
+avisé	V/p	r
+avocat	WAU	Bv
+avocat conseil	WCD	BJ
+avoine	WDM	d
+avoir	WDp	t
+avoir besoin de	WEW	3
+avoir coutume	WFN	9
+avoir en abomination	WGK	BJ
+avoir faim	WHT	n
+avoir honte	WH6	p
+avoir lair de	WIj	x
+avoir le hoquet	WKc	s
+avoir lhabitude de	WJU	BI
+avoir lieu	WLI	2
+avoir peur	WL+	w
+avoir pitié	WMu	4
+avoir pour but	WNm	v
+avoir soif	WOV	n
+avoir soin de	WO8	BA
+avoir un accident	WP8	9
+avoir une dette	WQ5	n
+avortement	WRg	8
+avortement provoqué	WSc	+
+avortement spontané	WTa	BM
+avorter	WUm	n
+avorteur	WVN	t
+avouer	WV6	3
+avril	WWx	f
+axe	WXQ	f
+axiome	WXv	g
+ayant le mal de lair	WYP	8
+azalée	WZL	g
+azimut	WZr	h
+azote	WaM	h
+aztèque	Wat	h
+azur	WbO	c
+aérateur	Wbq	6
+aérer	Wck	/
+aérien	Wdj	z
+aérodrome	WeW	BC
+aérodynamique	WfY	x
+aérogramme	WgJ	6
+aérolithe	WhD	BJ
+aéronaute	WiM	p
+aéronautique	Wi1	w
+aéronef	Wjl	o
+aéroplane	WkN	8
+aéroport	WlJ	q
+aérosol	Wlz	o
+aérostat	Wmb	0
+aïe	WnP	d
+aïeul	Wns	l
+aïeule	WoR	l
+babel	B/k	i
+babil	Wo2	d
+babillage	WpT	k
+babillard	Wp3	9
+babiller	Wq0	k
+babiole	WrY	i
+babouin	Wr6	k
+babylone	CAG	m
+babylonie	CAs	j
+babylonien	WtX	n
+babysitter	Wse	5
+bac	Wt+	BD
+baccalauréat	WvB	BU
+bacchus	CBP	d
+bactérie	WwV	o
+badauder	Ww9	h
+badge	Wxe	t
+badinage	WyL	o
+badine	Wyz	q
+badiner	Wzd	g
+bafouer	Wz9	v
+bafouiller	W0s	p
+bagage	W1V	r
+bagagiste	W2A	n
+bagarre	W2n	BK
+bagarreur	W3x	n
+bagasse	W4Y	h
+bagatelle	W45	BD
+bagnole	W58	t
+bague	W6p	b
+baguette	W7E	/
+bai	W8D	a
+baie	W8d	k
+baie chez lepage	W/P	3
+baie chiyask	W9B	u
+baie de baffin	XBj	z
+baie de fundy	XCW	x
+baie des chaleurs	XDH	3
+baie dhudson	XAG	v
+baie dungava	XA1	u
+baie georgienne	W9v	4
+baie james	W+n	o
+baigner	XD+	b
+baignoire	XEZ	l
+bail	XE+	b
+bailler	XFZ	Y
+bailli	XFx	j
+bain	XGU	c
+baiser	XGw	2
+baisser	XHm	x
+bakélite	XIX	m
+bal	XI9	g
+baladeuse	XJd	m
+baladin	XKD	u
+balafre	XKx	z
+balafrer	XLk	m
+balai	XMK	e
+balalaïka	XMo	q
+balance	XNS	j
+balancer	XN1	l
+balançoire	XOa	0
+balayer	XPO	c
+balbutier	XPq	q
+balcon	XQU	k
+baldaquin	XQ4	z
+baleine	XRr	g
+balinais	CBs	g
+balinais	XSL	i
+balise	XSt	d
+balistique	XTK	q
+balkans	CCM	f
+ballade	XT0	p
+ballast	XUd	j
+balle	XVA	n
+balle de fusil	XVn	n
+ballerine	XWO	BF
+ballet	XXT	g
+ballon	XXz	BM
+ballon de football	XY/	BG
+balsamine	XaF	m
+balte	Xar	a
+balustrade	XbF	BJ
+baléares	CCr	p
+bambou	XcO	i
+bamboucher	Xcw	k
+banal	XdU	v
+banane	XeD	f
+bananier	Xei	4
+banc	Xfa	d
+bandage	Xf3	m
+bande	Xgd	B5
+bande vidéo	XiW	v
+bandeau	XjF	w
+bander	Xj1	l
+banderole	Xka	r
+bandit	XlF	i
+banian	Xln	j
+banjo	XmK	h
+banlieue	Xmr	l
+banni	XnQ	a
+bannir	Xnq	a
+bannissement	XoE	s
+banque	Xow	e
+banqueroute	XpO	4
+banquet	XqG	l
+banqueter	Xqr	q
+banquette	XrV	y
+banquier	XsH	BT
+bantou	CDU	b
+bantou	Xta	h
+baobab	Xt7	h
+baptiser	Xuc	o
+baptiste	XvE	e
+baptistère	Xvi	u
+baptême	XwQ	x
+baquet	XxB	BE
+bar	XyF	v
+baraque	Xy0	9
+baratter	Xzx	d
+barbade	CDv	f
+barbare	X0O	2
+barbaresque	X1E	q
+barbarie	X1u	3
+barbarisme	X2l	t
+barbe	X3S	d
+barbeau	X3v	z
+barbebleue	CEO	q
+barbier	X4i	j
+barboter	X5F	5
+barbu	X5+	d
+barbue	X6b	h
+barcelone	CE4	l
+bardane	X68	p
+barde	X7l	d
+bardot	X8C	g
+barge	X8i	e
+barguigner	X9A	w
+barmaid	X9w	k
+barman	X+U	t
+baromètre	X/B	t
+baron	X/u	h
+baronne	YAP	k
+baronnie	YAz	b
+baroque	YBO	g
+baroud	YBu	g
+barouf	YCO	y
+baroufle	YDA	0
+barque	YD0	x
+barquette	YEl	BE
+barre	YFp	g
+barreau	YGJ	k
+barrer	YGt	9
+barricade	YHq	o
+barricader	YIS	l
+barrière	YI3	u
+barry	CFd	Y
+barthélemy	CF1	r
+baryton	YJl	o
+baryum	YKN	i
+bas	YKv	7
+bas	YLq	T
+basalte	YNm	t
+bascule	YOT	s
+baseball	YO/	0
+baser	YPz	W
+basilic	YQJ	i
+basilique	YQr	m
+basique	YRR	c
+basketball	YRt	9
+basque	CGg	Z
+basque	YSq	b
+basrelief	YL9	+
+bassin	YTF	v
+bassine	YT0	i
+bastille	YUW	k
+bastion	YU6	l
+basventre	YM7	r
+bataille	YVf	BH
+batailler	YWm	n
+batailleur	YXN	n
+batave	CG5	c
+batave	YX0	e
+bateau	YYS	w
+bath	YZC	Y
+batifoler	YZa	h
+batiker	YZ7	h
+batiste	Yac	x
+batterie	YcT	BP
+batteur	YbN	BG
+battre	Ydi	BU
+baudet	Ye2	l
+baume	Yfb	j
+bauxite	Yf+	i
+bavard	Ygg	u
+bavardage	YhO	m
+bavarder	Yh0	m
+bavarois	CHV	h
+bavarois	Yia	j
+bave	Yi9	b
+baver	YjY	b
+bavière	CH2	g
+bayer aux corneilles	Yjz	2
+bazar	Ykp	u
+bazooka	YlX	3
+baïonnette	YmO	p
+beau	Ym3	y
+beaucoup	YoU	BC
+beaucoup de	YpW	v
+beaufils	Ynp	r
+beauté	YqF	1
+beauxparents	Yq6	3
+bec	Yrx	g
+beige	YsR	a
+belette	Ysr	i
+belge	CIW	y
+belge	YtN	d
+belgique	CJI	g
+belgrade	CJo	i
+belladone	Ytq	q
+benelux	CKK	f
+bengale	CKp	e
+bengali	YuU	i
+benoît	CLH	j
+benzène	Yu2	n
+berce	Yvd	t
+bercer	YwK	g
+berlin	CLq	f
+berlinois	CMJ	k
+berlinois	Ywq	m
+bermudes	CMt	h
+berne	CNO	Z
+bernois	CNn	f
+bernois	YxQ	h
+besoin	Yxx	i
+besoin dactivité	YyT	7
+bessarabie	COG	n
+bethléem	COt	k
+betterave	YzO	l
+beurre	Yzz	g
+biberon	Y0T	+
+bible	CPR	X
+bibliothèque	Y1R	7
+biche	Y2M	g
+bicyclette	Y2s	1
+bien	Y3h	BD
+bien	Y4k	2
+bien entendu	Y5a	n
+bien sûr	Y6B	d
+bientôt	Y6e	Z
+bienvenue	Y63	g
+biffer	Y7X	o
+bifteck	Y7/	t
+bigarré	Y8s	n
+bijou	Y9T	e
+bijoutier	Y9x	o
+bikini	Y+Z	h
+bilan	Y+6	Bo
+bile	ZAi	f
+billet	ZBB	s
+biologie	ZBt	m
+birman	CPo	d
+birman	ZCT	f
+birmane	CQF	p
+birmanie	CQu	e
+biscuit	ZCy	s
+bison	ZDe	p
+bitte	ZEH	h
+bizarre	ZEo	r
+bière	ZFT	j
+blague	ZF2	g
+blanc	ZGW	m
+blasphémer	ZG8	5
+blatte	ZH1	h
+blesser	ZIW	h
+blessure	ZI3	r
+blessé	ZJi	o
+bleu	ZKK	BE
+bleuet	ZLO	k
+bloc	ZLy	z
+blond	ZMl	h
+blouse	ZNG	e
+blouse longue	ZNk	0
+bluffer	ZOY	b
+blé	ZOz	b
+boa	ZPO	Y
+bobine	ZPm	s
+boer	CRM	e
+bohémien	CRq	l
+bohémien	ZQS	h
+bohême	CSP	c
+boire	ZQz	Y
+bois	ZRL	2
+boisleduc	CSr	t
+boisson	ZSB	s
+boiteux	ZSt	c
+bol	ZTJ	5
+bolivie	CTY	e
+bolivien	CT2	m
+bolivien	ZUC	i
+bolée	ZUk	l
+bombarder	ZVJ	k
+bombe	ZVt	d
+bombe atomique	ZWK	x
+bombe à incendie	ZW7	BA
+bon	ZX7	d
+bonbon	ZYY	u
+bonjour	ZZG	x
+bonne nuit	ZZ3	h
+bonnet	ZaY	c
+bonsoir	Za0	i
+bord	ZbW	Bi
+bordel	Zc4	BQ
+boschiman	CUc	j
+bosniaque	ZeI	i
+bosnie	CU/	a
+bosnien	CVZ	i
+bosnien	Zeq	e
+bosphore	CV7	h
+bosse	ZfI	g
+bossu	Zfo	q
+botte	ZgS	b
+bouc	Zgt	c
+bouche	ZhJ	d
+boucher	Zhm	y
+boucher	ZiY	i
+boucherie	Zi6	u
+bouchon	Zjo	5
+bouchon de liège	Zkh	0
+bouchée	ZlV	k
+boucle	Zl5	v
+boucle de vêtement	Zmo	5
+boucler	Znh	Z
+bouddha	CWc	a
+bouddhisme	Zn6	n
+bouddhiste	Zoh	n
+bouder	ZpI	v
+boue	Zp3	X
+bouger	ZqO	l
+bougie	Zqz	2
+bougie électrique	Zrp	/
+bougnoul	Zso	j
+bouillie	ZtL	r
+bouillir	Zt2	b
+bouillon	ZuR	m
+boulanger	Zu3	n
+boulangerie	Zve	t
+boule	ZwL	n
+bouleau	Zwy	f
+boulevard	ZxR	q
+bouleversement	Zx7	BA
+boulier	Zy7	9
+bouquet	Zz4	i
+bouquin	Z0a	+
+bourdon	Z2h	o
+bourdonner	Z3J	l
+bourgeois	Z3u	z
+bourrasque	Z4h	l
+bourratif	Z1Y	i
+bourreau	Z16	n
+bourse	Z5G	0
+bourse du travail	Z56	Bh
+boussole	Z7b	j
+bout	Z7+	/
+bouteille	Z89	j
+boutique	Z9g	w
+bouton	Z+Q	v
+boxer	Z+/	X
+boîte	Z/W	g
+boîte aux lettres	Z/2	9
+boîte à echo	aAz	y
+boîtier	aBl	h
+brabant	CW2	g
+brabançon	CXW	r
+brabançon	aCG	t
+branche	aCz	5
+branchie	aDs	k
+brandir	aEQ	BD
+bras	aFT	a
+bras supérieur	aFt	BB
+braser	aGu	b
+brave	aHJ	j
+braver	aHs	Z
+brebis	aIF	e
+bredouiller	aIj	j
+bref	aJG	h
+bretagne	CYB	s
+bretelles	aJn	y
+breton	CYt	f
+bride	aKZ	x
+brillant	aLK	BI
+briller	aMS	b
+brique	aMt	e
+briquet	aNL	3
+brise	aOC	e
+briser	aOg	2
+britannique	CZM	j
+britannique	aPW	m
+brochet	aP8	i
+brochette	aQe	4
+brochure	aRW	7
+broder	aSR	f
+brosse	aSw	f
+brosse à dents	aTP	w
+brouette	aT/	o
+brouillard	aUn	q
+brouiller	aVR	BR
+broyer	aWi	i
+bruges	CZv	b
+bruine	aXE	y
+bruire	aX2	m
+bruit	aYc	m
+brun	aZC	n
+brunir	aZp	i
+brushing	aaL	p
+brusquement	aa0	r
+brut	abf	k
+bruxelles	CaK	j
+bruxellois	acD	o
+bruyant	acr	h
+bruyère	adM	k
+brèche	adw	n
+brésil	Cat	d
+brésilien	CbK	q
+brésilien	aeX	m
+brûler	ae9	1
+brûlé	afy	d
+bubale	agP	h
+budget	agw	i
+buffet	ahS	BF
+buffle	aiX	g
+bulbe	ai3	b
+bulgare	Cb0	o
+bulgare	ajS	i
+bulldozer	aj0	o
+bulle	akc	l
+buller	alB	e
+bulletin	alf	o
+bungalow	amH	5
+bureau	anA	o
+bureau de poste	aoQ	2
+bureaucrate	ano	o
+buriner	apG	k
+but	apq	v
+butter	aqZ	x
+byte	arK	h
+byzance	Ccc	h
+byzantin	arr	o
+bâbord	asT	m
+bâillement	as5	o
+bâiller	ath	Z
+bâle	Cc9	d
+bâtard	at6	j
+bâtiment	aud	p
+bâtir	avG	l
+bâtisseur	avr	p
+bâton	awU	+
+bâtonnet	axS	z
+bébé	ayF	d
+bébête	ayi	l
+bécane	azH	y
+bédouin	Cda	g
+béer	az5	b
+bégayer	a0U	n
+bégonia	a07	l
+bégueule	a1g	t
+béguinage	a2N	q
+béguine	a23	i
+bélier	a3Z	j
+bénir	a38	a
+bénéfice	a4W	1
+béryllium	a5L	r
+béton	a52	k
+bêche	a6a	e
+bêler	a64	Z
+bête	a7R	k
+bûche	a71	t
+bœuf	a8i	BA
+c	a9i	i
+cabane	a/h	q
+cabine	bAL	e
+cabine de bain	bAp	0
+cabine de bateau	bBd	v
+cabine téléphonique	bCM	Bp
+cabinet	bD1	j
+cabinet noir	bEY	8
+cacahuète	bFU	m
+cacao	bF6	e
+cachemire	Cd6	j
+cacher	bGY	h
+cachet	bG5	2
+cachot	bHv	e
+cactus	bIN	h
+cadavre	bIu	s
+cadeau	bJa	m
+cadence	bKA	s
+cadre	bKs	w
+caduc	bLc	BE
+cafard	bMg	k
+cafetière	bNE	u
+café	bNy	4
+cage	bOq	a
+cahier	bPE	3
+caille	bP7	c
+caillette	bQX	r
+caisse	bRC	Bb
+calabre	Ced	f
+calame	bSd	h
+calcium	bS+	l
+calcul	bTj	m
+calculer	bUJ	6
+cale	bVD	a
+calendrier	bVd	t
+calendula	bWK	q
+caleçon	bW0	8
+californie	Ce8	n
+californien	Cfj	v
+californien	bXw	r
+calmar	bYb	h
+calme	bY8	p
+calomnier	bZl	i
+calvaire	CgS	q
+calvin	Cg8	d
+camarade	baH	9
+cambodge	ChZ	k
+cambodgien	Ch9	t
+cambodgien	bbE	p
+cambodgienne	Ciq	4
+cameroun	Cji	h
+camerounais	bbt	p
+camion	bcW	p
+camionette	bc/	n
+camp	bdm	BV
+campagne	be7	BC
+caméra	bf9	o
+canada	CkD	b
+canadien	Cke	l
+canadien	bgl	h
+canadienne	ClD	v
+canaille	bhG	r
+canal	bhx	n
+canalisation	biY	4
+canapé	bjQ	n
+canard	bj3	f
+canard mâle	bkW	p
+canari	bk/	i
+cancaner	blh	x
+cancer	bmS	q
+candidat	bm8	p
+candide	bnl	k
+cane	boJ	i
+canne	bor	6
+cannelure	bpl	k
+canon	bqJ	h
+cantine	bqq	k
+canton	brO	l
+caoutchouc	brz	m
+cap	bsZ	Z
+capable	bsy	l
+capacité	btX	m
+capdescaissie	Cly	z
+capitaine	bt9	n
+capital	buk	k
+capitole	Cml	g
+capote	bvI	o
+caprice	bvw	q
+capricorne	CnF	o
+captivant	bwa	+
+capturer	bxY	w
+capucine	byI	n
+car	byv	/
+caractère	bzu	BC
+carafe	b0w	v
+carbone	b1f	k
+carder	b2D	m
+caresser	b2p	BD
+carnet	b3s	7
+carotte	b4n	i
+carpates	Cnt	5
+carpe	b5J	c
+carreau	b5l	e
+carrefour	b6D	q
+cartable	b6t	y
+carte	b7f	s
+carte postale	b8L	u
+carthage	Com	h
+carthaginois	CpH	t
+carthaginois	b85	v
+carton	b9o	n
+cas	b+P	o
+cascade	b+3	k
+caserne	b/b	l
+casier	cAA	6
+casquette	cA6	h
+cassandre	Cp0	l
+casser	cBb	Z
+casserole	cB0	0
+cassette	cCo	z
+castillan	CqZ	l
+castillan	cDb	o
+castille	Cq+	e
+castor	cED	j
+catalan	Crc	j
+catalan	cEm	l
+catalogne	Cr/	k
+catastrophe	cFL	v
+cathédrale	cF6	r
+caton	Csj	Z
+catégorie	cGl	q
+caucase	Cs8	d
+cause	cHP	j
+causer	cHy	BK
+cautionner	cI8	t
+cave	cJp	l
+caïn	CtZ	Z
+ce	cKO	w
+ce matin	cK+	p
+ce soir	cLn	m
+ceci	cMN	k
+ceinture	cMx	r
+cela	cNc	q
+celleci	cOG	a
+cellule	cOg	f
+celte	Cty	X
+celte	cO/	b
+celtique	cPa	g
+celui	cP6	f
+celuici	cQZ	e
+cendre	cQ3	n
+cendrier	cRe	o
+cendrillon	CuJ	r
+censurer	cSG	h
+cent	cSn	o
+centime	cTP	r
+central	cT6	t
+centrale	cUn	u
+centre	cVV	Bd
+cependant	cWy	BB
+cerbère	Cu0	j
+cercle	cXz	i
+cercueil	cYV	m
+cerf	cY7	c
+cerise	cZX	h
+cerisier	cZ4	q
+certain	cai	p
+certainement	cbL	w
+certes	cb7	4
+certifier	ccz	q
+certitude	cdd	q
+cerveau	ceH	i
+cervelle	cep	l
+cesser	cfO	BJ
+cest pourquoi	a+E	5
+cestàdire	a+9	k
+ceylan	CvX	d
+ceylanais	Cv0	j
+ceylanais	cgX	o
+chacal	cg/	h
+chacun	chg	u
+chagrin	ciO	5
+chagriner	cjH	0
+chair	cj7	e
+chaise	ckZ	e
+chaldée	CwX	e
+chaldéen	Cw1	g
+chalet	ck3	h
+chambre	clY	r
+chambre de travail	cmD	BA
+chambre à coucher	cnD	2
+chameau	cn5	g
+chamois	coZ	j
+champ	co8	f
+champagne	cpb	r
+champignon	cqG	v
+champion	cq1	r
+chanaan	CxV	f
+chance	crg	n
+chandail	csH	w
+chandeleur	Cx0	q
+chandelle	cs3	n
+changement dadresse	cte	BL
+changer	cup	l
+chanson	cvO	k
+chanter	cvy	c
+chanteur	cwO	o
+chanteuse	cw2	2
+chantier	cxs	BA
+chaos	cys	k
+chapeau	czQ	e
+chaperonner	czu	w
+chapitre	c0e	m
+chaque	c1E	a
+chaque jour	c1e	k
+chaque semaine	c2C	q
+char	c2s	w
+charbon	c3c	k
+charcuterie	c4A	2
+chardon	c42	m
+chardonneret	c5c	z
+chargement	c6P	BJ
+charger	c7Y	4
+chariot	c8Q	q
+charitable	c86	l
+charlatan	c9f	+
+charlemagne	Cye	r
+charmant	c+d	t
+charme	c/K	BI
+charnière	dAS	o
+charpente	dA6	3
+charpenter	dBx	1
+charrette	dCm	s
+charrue	dDS	h
+charybde	CzJ	i
+chasse	dDz	j
+chasser	dEW	g
+chasseur	dE2	l
+chaste	dFb	c
+chat	dF3	Z
+chatouiller	dGQ	h
+chatte	dGx	0
+chaud	dHl	X
+chaudement	dH8	m
+chaudron	dIi	5
+chauffage	dJb	m
+chauffer	dKB	h
+chauffeur	dKi	x
+chaume	dLT	l
+chaumière	dL4	z
+chaussette	dMr	y
+chaussure	dNd	i
+chaussée	dN/	k
+chauve	dOj	Z
+chauvesouris	dO8	r
+chaux	dPn	a
+chaîne	dQB	1
+chaîne côtière	dQ2	7
+chef	dRx	u
+chemin	dSf	0
+chemin de fer	dTT	7
+cheminée	dUO	w
+chemise	dU+	u
+chemisier	dVs	m
+chenal	dWS	j
+chenal de la culbute	dYg	BE
+chenal lost	Czr	s
+chenal opimica	dW1	6
+chenal raft	dXv	x
+chenille	dZk	o
+cher	daM	x
+chercher	da9	o
+cheval	dbl	h
+cheval entier	dcG	y
+cheval hongre	dc4	x
+chevalier	8Mb	n
+chevaucher	ddp	g
+cheveu	deJ	g
+cheveux	dep	o
+cheville	dfR	i
+chevreuil	dfz	l
+chewinggum	dgY	/
+chez	dhX	j
+chic	dh6	h
+chicaner	dib	u
+chien	djJ	a
+chiendent	djj	v
+chiffon	dkS	o
+chiffre	dk6	6
+chili	C0X	Y
+chilien	C0v	i
+chilien	dl0	e
+chimie	dmS	i
+chimiste	dm0	l
+chimère	dnZ	l
+chine	C1R	X
+chinois	C1o	n
+chirurgie	dn+	p
+chirurgien	don	r
+chlore	dpS	i
+chlorure de polyvinyle	dp0	BS
+choc	drG	t
+chocolat	drz	p
+choisir	dsc	v
+choix	dtL	o
+choléra	dtz	n
+choquer	dua	b
+chose	du1	Bj
+choses	dwY	g
+chou	dw4	d
+chouette	dyC	f
+choufleur	dxV	t
+choyer	dyh	o
+christ	C2P	b
+chrome	dzJ	i
+chrysanthème	dzr	2
+chrétien	d0h	n
+chuchoter	d1I	i
+churchill	C2q	0
+chute	d1q	b
+chutes niagara	C3e	w
+chypre	C4O	b
+chypriote	C4p	8
+chypriote	d2F	v
+châle	d20	e
+châtaigne	d3S	4
+châtaignier	d4K	x
+château	d47	i
+chèque	d5d	o
+chèvre	d6F	9
+chèvrefeuille	d7C	1
+chêne	d73	d
+chômeur	d8U	t
+chômeuse	d9B	u
+chœur	d9v	o
+ciboulette	d+X	l
+cicatrice	d+8	k
+cicéron	C5l	h
+cidre	d/g	e
+ciel	d/+	j
+cigale	eAh	f
+cigare	eBA	g
+cigarette	eBg	p
+cigogne	eCJ	h
+cil	eCq	c
+cime	eDG	4
+ciment	eD+	i
+cimetière	eEg	BD
+cinglé	eFj	f
+cinq	eGC	Z
+cinquante	eGb	k
+cintre	eHh	s
+cinéma	eG/	i
+circonstance	eIN	2
+circulaire	eJD	r
+circulation	eJu	7
+circuler	eKp	BI
+cire	eLx	Z
+cire dabeilles	eMK	u
+cirer	eM4	e
+cirque	eNW	g
+ciseau	eN2	f
+ciseaux	eOV	h
+ciseler	eO2	k
+citation	ePa	z
+citer	eQN	d
+citerne	eQq	q
+citoyen	eRU	j
+citron	eR3	j
+cité	eSa	h
+civil	eS7	y
+clair	eTt	BA
+clairon	eUt	z
+clamer	eVg	Y
+clameur	eV4	j
+clapoter	eWb	r
+claquer	eXG	o
+classe	eXu	d
+classique	eYL	s
+clavier	eY3	k
+clef	eZb	BB
+client	eac	s
+climat	ebI	h
+climatisé	ebp	t
+clin	ecW	d
+clinique	ecz	o
+clinique	edb	h
+clique	ed8	e
+cloaque	eea	g
+cloche	ee6	e
+cloche de plongée	efY	9
+clochette	egV	w
+cloison	ehF	i
+clope	ehn	i
+clou	eiJ	a
+clouer	eij	X
+clown	ei6	d
+club	ejX	l
+clé	ej8	Y
+clébard	ekU	v
+cléopâtre	C6G	n
+cobaye	elD	l
+coblence	C6t	r
+cobra	elo	g
+coccinelle	emI	o
+coche	emw	b
+cochon	enL	s
+cochon dinde	en3	0
+cochonnet	eor	m
+coffre	epR	x
+coffret	eqC	g
+cognac	eqi	q
+cohérent	erM	8
+coiffer	esI	d
+coiffeur	esl	y
+coiffeuse	etX	9
+coiffure	euU	m
+coin	eu6	r
+coing	evl	g
+col	ewF	BC
+colimaçon	exH	+
+colis	eyF	p
+colle	eyu	q
+collection	ezY	BN
+collection à consulter	e0l	BM
+collectionner	e1x	7
+coller	e2s	BN
+collier	e35	k
+colline	e4d	f
+colline boundary	e48	4
+collision	e50	r
+collège	e6f	8
+collègue	e7b	o
+cologne	C7Y	f
+colomb	C73	f
+colombe	e8D	q
+colombie	C8W	j
+colombiebritannique	C85	BD
+colombien	C98	r
+colombien	e8t	n
+colonel	e9U	m
+colonial	e96	k
+colonie	e+e	u
+colonne	e/M	q
+colonne de journal	e/2	4
+colonne vertébrale	fAu	5
+columbia	C+n	y
+colza	fBn	l
+combat	fCM	9
+combattant	fDJ	4
+combattre	fEB	r
+combien	fEs	w
+combien de	fFc	w
+comble	fGM	w
+combler	fG8	o
+comines	C/Z	b
+comique	fHk	s
+comité	fIQ	l
+commandant	fI1	r
+commande	fJg	k
+commandement	fKE	Bj
+commander	fLn	BE
+commando	fMr	r
+comme	fNW	CL
+comme cela	fPh	BG
+comme ci comme ça	fQn	v
+commencement	fRW	BJ
+commencer	fSf	BI
+comment	fTn	q
+comment allezvous	fUR	BI
+commerce	fVZ	5
+commerçant	fWS	v
+commetre yne faute	fXB	5
+commissariat	fX6	z
+commission	fYt	5
+commode	fZm	q
+commode	faQ	1
+commun	fbF	m
+commune	fbr	k
+communication	fcP	BA
+communion	fdP	r
+communiquer	fd6	w
+commutateur	feq	w
+commuter	ffa	f
+commère	ff5	k
+compagne	fgd	x
+compagnie	fhO	6
+compagnon	fiI	3
+comparaison	fi/	z
+comparer	fjy	i
+compartiment	fkU	+
+compas	flS	7
+compassion	fmN	BY
+compatir	fnl	0
+compenser	foZ	o
+complaisance	fpB	2
+complaisant	fp3	y
+complet	fqp	0
+complet	frd	z
+compliment	fsQ	w
+compliquer	ftA	n
+comploter	ftn	3
+complètement	fue	Br
+complément	fwJ	y
+compléter	fw7	BD
+comporter	fx+	BM
+composer	fzK	+
+composition	f0I	Be
+comprendre	f1m	1
+compromis	f2b	w
+compte	f3L	i
+compter	f5T	5
+compterendu	f3t	Bm
+compétence	f6M	BB
+compétent	f7N	/
+comte	f8M	l
+comète	f8x	g
+con	f9R	i
+concernant	f9z	BN
+concerner	f/A	t
+concerné	f/t	2
+concert	gAj	n
+concevoir	gBK	n
+concierge	gBx	BA
+conciliant	gCx	3
+concis	gDo	f
+conclure	gEH	6
+concombre	gFB	t
+concordance	gFu	Bo
+concorder	gHW	BK
+concourir	gIg	s
+concours	gJM	0
+concret	gKA	k
+condamner	gKk	s
+condition	gLQ	BB
+condom	gMR	u
+conduire	gM/	8
+confectionner	gN7	BA
+confession	gO7	BM
+confiance	gQH	t
+confier	gQ0	BD
+confier une tâche	gR3	3
+configuration	gSu	6
+confire	gTo	h
+confirmer	gUJ	+
+confisquer	gVH	n
+confiture	gVu	w
+conflit	gWe	m
+confondre	gXE	u
+conforme	gXy	x
+conforme à	gYj	u
+conformément	gZR	7
+confort	gaM	n
+confortable	gaz	v
+confu	gbi	h
+confus	gcD	i
+conférence	gcl	u
+congestion	gdT	4
+congo	C/0	k
+congrès	geL	1
+congé	gfA	BX
+congélateur	ggX	v
+conjecturer	ghG	2
+conjoncture	gh8	BK
+connaissance	gjG	Bd
+connaître	gkj	0
+connecter	glX	3
+connu	gmO	e
+conque	gms	f
+conquérir	gnL	m
+consacrer	gnx	t
+conscience	goe	BN
+conscient	gpr	v
+conseil	gqa	u
+conseiller	gr0	p
+conseiller	grI	s
+conseilleur	gsd	x
+consentir	gtO	2
+conserver	guE	BA
+considérable	gvE	BU
+considérer	gwY	BU
+consigne	gxs	BG
+consigner	gyy	BF
+consister	gz3	j
+consolation	g0a	0
+consoler	g1O	r
+consommateur	g15	x
+consommation	g2q	5
+consommer	g3j	r
+consonne	g4O	o
+constamment	g42	t
+constant	g5j	BH
+constater	g6q	7
+constellation	g7l	5
+consterner	g8e	8
+construction	g9a	Bg
+construire	g+6	Bi
+consulat	hAc	p
+consulter	hBF	j
+consumer	hBo	p
+conséquence	hCR	/
+contact	hDQ	m
+contacter	hD2	1
+conte	hEr	k
+contempler	hFP	BW
+contenir	hGl	3
+content	hHc	5
+contenter	hIV	w
+contenu	hJF	n
+conter	hJs	r
+conter fleurette	hKX	9
+contester	hLU	w
+continent	hM7	m
+continent	hME	3
+contingent	hNh	+
+continuel	hOf	Bl
+continuellement	hQE	By
+continuer	hR2	Bd
+continuer à	hTT	g
+contracter	hTz	u
+contradictoire	hUh	BC
+contraindre	hVj	w
+contraire	hWT	s
+contrat	hW/	l
+contre	hXk	Bj
+contribuer	hZH	p
+contrée	hZw	6
+contrôleur	haq	t
+convaincre	hbX	y
+conveir	hcJ	f
+convenable	hco	CQ
+convenablement	he4	+
+convenir	hf2	Bi
+convention	hhY	BS
+conversation	hiq	4
+convertir	hji	n
+conviction	hkJ	4
+convive	hlB	j
+copenhague	DAY	l
+copier	hlk	m
+coq	hmK	j
+coque	hmt	u
+coquelicot	hnb	o
+coquet	hoD	q
+coquillage	hot	r
+coquille	hpY	h
+corail	hp5	h
+coran	DA9	c
+corbeau	hqa	t
+corbeille	hrH	m
+corde	hrt	r
+cordialement	hsY	1
+cordonnier	htN	7
+cordoue	DBZ	d
+corinthe	DB2	h
+corinthien	huI	p
+cormoran	hux	u
+corne	hvf	d
+cornemuse	hv8	p
+corniche	hwl	3
+cornichon	hxc	r
+cornouailles	DCX	m
+corps	hyH	d
+correspondance	hyk	BQ
+correspondant	hz0	Bd
+correspondre	h1R	Be
+correspondre à	h2v	+
+corridor	h3t	y
+corriger	h4f	g
+corrompre	h4/	j
+corsage	h5i	t
+corse	DC9	8
+corse	h6P	e
+cortège	h6t	5
+corée	DD5	a
+corée du nord	DET	v
+corée du sud	DFC	s
+coréen	DFu	c
+coréen	h7m	e
+coréene	DGK	r
+cosmos	h8E	h
+costa rica	DG1	n
+costaricien	DHc	v
+costaricien	h8l	r
+costume	h9Q	x
+cotisation	h+B	3
+coton	h+4	h
+cou	h/Z	Y
+couche	h/x	d
+coucher	iAO	p
+coucou	iA3	f
+coude	iBW	c
+coudre	iBy	r
+couette	iCd	f
+couler	iC8	X
+couleur	iEU	z
+couleuvre	iFH	s
+couloir	iFz	u
+coup	iGh	l
+coupable	iHG	f
+coupant	iHl	e
+coupe	iID	c
+couper	iIf	d
+couper avec des ciseaux	iI8	/
+couple	iJ7	6
+coupler	iK1	b
+coupon	iLQ	i
+coupure	iLy	+
+cour	iMw	t
+courage	iNd	k
+courageusement	iOB	/
+courageux	iPA	3
+courant	iP3	z
+courbe	iQq	i
+courber	iRM	a
+courgette	iRm	z
+courir	iSZ	Z
+couronner	iSy	f
+courriel	iTR	j
+courrier	iT0	BG
+courroie	iU6	h
+cours	iVb	l
+court	iWA	l
+courtois	iWl	6
+courtrai	DIL	i
+cousin	iXf	t
+cousine	iYM	h
+coussin	iYt	k
+coussin dair	iZR	z
+couteau	iaE	f
+coutume	iaj	4
+couture	ibb	l
+couturière	icA	5
+couvent	ic5	m
+couver	idf	g
+couvert	id/	k
+couverture	iej	BB
+couvrir	ifk	d
+coyote	igB	i
+coïncider	igj	z
+coïter	ihW	e
+coûter	ih0	Y
+coûteux	iiM	BB
+crabe	ijN	d
+cracher	ijq	b
+cracovie	DIt	f
+craie	ikF	d
+craindre	iki	t
+crainte	ilP	h
+crapaud	ilw	g
+crapule	imQ	j
+craquement	imz	x
+craquer	ink	b
+cravate	in/	o
+crayon	ion	l
+creuser	ipM	m
+creux	ipy	l
+crever	iqX	b
+crevette	iqy	k
+cri	irW	g
+criard	ir2	e
+crier	isU	p
+crime	is9	e
+crimée	DJM	c
+criquet	itb	w
+crise	iuL	1
+cristal	ivA	l
+critique	ivl	j
+critique	iwI	j
+critique	iwr	i
+critiquer	ixN	s
+croasser	ix5	i
+croate	DJo	Z
+croate	iyb	e
+croatie	DKB	d
+crochet	iy5	i
+crocodile	izb	q
+crocus	i0F	j
+croire	i0o	BT
+croiser	i17	8
+croix	i23	d
+croix du sud	DKe	t
+crotte	i3U	i
+croupe	i32	3
+croître	i4t	l
+croûte	i5S	l
+cru	i53	j
+cruche	i6a	m
+crucifix	i7A	n
+cruel	i7n	c
+crâne	i8D	f
+crème	i8i	f
+crème glacée	i9B	0
+crète	DLL	a
+crèvecœur	i91	0
+créature	i+p	o
+crédit	i/R	i
+créer	i/z	a
+crémaillère	jAN	7
+crêpe	jBI	h
+crête	jBp	v
+cuba	DLl	V
+cubain	DL6	b
+cubain	jCY	d
+cube	jC1	a
+cueillir	jDP	w
+cuiller	jD/	f
+cuillerée	jEe	p
+cuillère	jFH	l
+cuir	jFs	g
+cuir à rasoir	jGM	n
+cuire	jGz	Y
+cuisine	jHL	j
+cuisiner	jHu	d
+cuisinier	jIL	w
+cuisinière	jI7	BY
+cuisse	jKT	e
+cuivre	jKx	i
+cul	jLT	s
+culotte	jL/	BR
+culte	jNQ	c
+cultiver	jNs	n
+cultivé	jOT	BE
+culture	jPX	+
+cupidité	jQV	3
+cupidon	DMV	e
+curaçao	DMz	h
+curieux	jRM	BN
+curiosité	jSZ	r
+curé	jTE	4
+cuve	jT8	d
+cyanure	jUZ	k
+cyclades	DNU	f
+cycle	jU9	d
+cyclone	jVa	j
+cygne	jV9	c
+cylindre	jWZ	x
+cynique	jXK	e
+cypriote	DNz	1
+cyprès	jXo	j
+câble	jYL	e
+cèdre	jYp	g
+céder	jZJ	BG
+céleri	jaP	j
+célibataire	jay	Bj
+célèbre	jcV	i
+célébrer	jc3	k
+cérès	DOo	b
+cérémonie	jdb	r
+césar	DPD	b
+césium	jeG	k
+cétacé	jeq	i
+côte	jfM	BM
+côte divoire	DPe	s
+côte rivage	jgY	5
+côtelette	jhR	n
+côtoyer	iDT	BB
+côté	jh4	d
+cœur	jiV	g
+dabord	jkP	DV
+dacier	jnk	m
+dactyle	juG	f
+dactylographe	jul	o
+dactylographier	jvN	q
+dadieu	joK	a
+dafrikanders	ji1	x
+dahlia	jv3	g
+dailleurs	jok	Cs
+dakar	DQK	Z
+dalmate	DQj	f
+dalmatie	DRC	g
+daltonnien	jwX	p
+damas	DRi	a
+dame	jxA	l
+damoclès	DR8	i
+danemark	DSe	i
+danger	jxl	q
+dangereux	jyP	q
+danois	DTA	Y
+dans	jzy	5
+dans le vent	j2M	v
+dans lintervalle	j0r	Bh
+danse	j27	e
+danser	j3Z	b
+danube	DTY	a
+daprès	jrQ	2
+dardanelles	DTy	1
+darne	j30	k
+date	j4Y	Z
+dater	j4x	W
+datte	j5H	a
+dauphin	j5h	k
+davantage	j6F	j
+de	j6o	B3
+de bonne heure	j8f	p
+de cellelà	j9I	p
+de celluilà	j9x	u
+de cette manière	j+f	+
+de façon ou dautre	j/d	4
+de la	kCe	V
+de lallemagne occidentale	kAV	BI
+de lamérique du nord	kBd	BB
+de moins en moins	kCz	y
+de même	kDl	l
+de nouveau	kEK	BE
+de plus en plus	kFO	4
+de proche en proche	kGG	BK
+de préférence	kHQ	2
+de quelle manière	kIG	2
+de quelquun	kI8	j
+de rechange	kJf	2
+de suite	kKV	BO
+de temps en temps	kLj	v
+de toute manière	kMS	w
+deau	jsG	h
+debout	kNC	u
+dedans	kNw	f
+degré	kOP	p
+dehors	kO4	n
+delphes	DUn	b
+delta	kPf	f
+demain	kP+	h
+demain matin	kQf	2
+demain soir	kRV	z
+demander	kSI	B1
+demander laumône	kT9	BZ
+demeure	kVW	BG
+demeurer	kWc	x
+demi	kXN	c
+demoiselle	kXp	m
+demoiselle noble	kYP	3
+denrée	kZ5	6
+dense	kaz	w
+dent	kbj	c
+dentelle	kb/	j
+dentifrice	kci	v
+dentiste	kdR	n
+depuis	kd4	d
+dernier	keV	Y
+dernier cri	ket	n
+dernièrement	kfU	/
+derrière	kg/	BP
+derrière	kgT	s
+des	kiO	Q
+des philippines	kie	t
+descendance	kjL	w
+descendant	kj7	5
+descendre	kk0	Bm
+descendre en rappel	kma	0
+descente	knO	m
+description	kn0	8
+dessein	kow	BX
+dessert	kqH	l
+dessin	kqs	s
+dessiner	krY	k
+dessous	kr8	0
+dessus	ksw	3
+destinataire	ktn	BM
+destination	kuz	BC
+destiner	kv1	x
+destinée	kwm	7
+dette	kxh	b
+deuil	kx8	g
+deutéronome	DVC	s
+deux	kyc	V
+deux cents	kyx	k
+deuxième	kzV	i
+deuxième sault	kz3	w
+devant	k0n	Be
+devenir	k2F	/
+deviner	k3E	c
+devise	k3g	u
+devoir	k4O	BA
+devoir	k5O	/
+diable	k6N	f
+dialecte	k6s	m
+dialogue	k7S	m
+diamant	k74	l
+diane	DVu	X
+diarrhée	k8d	m
+dictateur	k9D	q
+dicter	k9t	z
+dictionnaire	k/D	9
+dictée	k+g	j
+dieu	DWF	U
+dieu	lAA	a
+diffamer	lAa	e
+difficile	lA4	4
+difficilement	lBw	BJ
+diffuser	lC5	5
+différence	lDy	u
+différent	lEg	o
+différer	lFI	BU
+digitale	lGc	m
+digne	lHC	d
+dignité	lHf	k
+digérer	lID	f
+diluer	lIi	e
+dimanche	lJA	m
+dimension	lJm	6
+diminuer	lKg	BM
+dindon	lLs	k
+dingue	lMQ	o
+diogène	DWZ	h
+diplôme	lM4	k
+diplôme de fin détudes	lNc	BO
+dire	lOq	a
+dire adieu	lPE	BU
+direct	lQY	p
+directement	lRB	By
+directeur	lSz	1
+direction	lTo	8
+dirigeable	lUk	q
+diriger	lVO	BI
+discerner	lWW	x
+disciple	lXH	l
+discipline	lXs	q
+discours	lYW	k
+discret	lY6	i
+discussion	lZc	t
+discuter	laJ	f
+dislande	jjm	p
+disparaître	lao	q
+disparition	lbS	BE
+dispenser	lcW	BU
+disperser	ldq	BI
+disponible	ley	o
+disposer	lfa	BM
+disposer de	lgm	8
+disposition	lhi	Br
+dispute	ljN	v
+disputer	lj8	r
+disque	lkn	r
+disquette	llS	m
+dissiper	ll4	BN
+distance	lnF	v
+distinction	ln0	4
+distinguer	los	o
+distraction	lpU	By
+distraire	lrG	3
+distrait	lr9	u
+distribuer	lsr	w
+distribution	ltb	1
+district de franklin	luQ	BQ
+district de keewatin	lvg	BM
+district de mackenzie	lws	BO
+divergence	lx6	BJ
+divers	lzD	w
+divin	lzz	d
+diviser	l0Q	BA
+divorce	l1Q	l
+dix	l11	U
+dixhuit	l2J	l
+dixneuf	l2u	m
+dixsept	l3U	m
+diète	l36	d
+djibouti	DW6	p
+docile	l4X	e
+docilité	l41	6
+docteur	l5v	w
+docteur médecin	l6f	BD
+doctrine	l7i	n
+document	l8J	BG
+dogme	l9P	e
+doigt	l9t	d
+doigt du pied	l+K	n
+dollar	l+x	i
+domaine	l/T	CA
+domestique	mBT	BJ
+domestique	mCc	m
+domicile	mDC	Bj
+dominant	mEl	Ba
+dominateur	mF/	p
+dominer	mGo	l
+dominicain	DXj	n
+dominicain	mHN	p
+dominique	DYK	h
+dommage	mH2	1
+don	mIr	w
+don quichotte	mJb	z
+donc	mKO	R
+donner	mKf	6
+donner lassaut	mLZ	v
+donner son accord	mMI	BO
+dont	mNW	8
+dorer	mO1	Y
+dorien	mQp	k
+dorique	mRN	f
+dorloter	mSQ	t
+dormir	mS9	o
+dortoir	mTl	BG
+dorure	mRs	k
+dorée	mOS	j
+dos	mUr	Y
+dosomètre	mVD	s
+dossier	mVv	w
+douane	mWf	f
+double	mW+	b
+doubler	mXZ	t
+doucereux	mYG	q
+douche	mYw	e
+douleur	mZO	m
+doute	mZ0	c
+douter	maQ	Y
+douvres	DYr	a
+doux	mao	y
+douzaine	mba	h
+douze	mb7	Z
+douzième	mcU	i
+doù	jsn	e
+drainer	mc2	c
+drap	mdS	c
+drap de lit	mdu	o
+drapeau	meW	3
+dresser	mfN	i
+drogue	mfv	e
+droit	mgN	B2
+droit	miD	BF
+droit de régie	mjI	/
+drôle	mkH	Bf
+du	mlm	P
+duché	ml1	f
+dune	mmU	Z
+dune façon ou dune autre	jtF	BB
+dunkerque	DZF	h
+duper	mmt	f
+dur	mnM	v
+durant	mn7	9
+durcir	mo4	l
+durer	mpd	y
+durée	mqP	k
+duvet	mqz	k
+dynamique	mrX	i
+dynamite	mr5	l
+dynamo	mse	g
+dyspepsie	ms+	2
+dès	mt0	X
+dé à coudre	muL	r
+débarcadère	mu2	BD
+débardeur	mv5	BA
+débarquer	mw5	k
+débarrasser	mxd	h
+débat	mx+	f
+débattre	myd	Bo
+débit	m0F	e
+débiter	m0j	u
+déborder	m1R	j
+débris	m10	BJ
+début	m29	BT
+débuter	m4Q	t
+décembre	m49	p
+déception	m5m	y
+décharger	m6Y	j
+déchirer	m67	j
+décider	m7e	d
+décision	m77	p
+déclaration	m8k	BM
+déclarer	m9w	o
+déclasser	m+Y	7
+décolleté	m/9	l
+décolleté	m/T	q
+décor	nAi	u
+décoration	nBQ	5
+décorer	nCJ	y
+découper	nC7	o
+décourager	nDj	p
+découverte	nEM	s
+découvrir	nE4	u
+décrire	nFm	h
+décéder	nGH	BR
+dédaigner	nHY	7
+dédier	nIT	l
+déduire	nI4	x
+défaut	nJp	BT
+défendre	nK8	i
+défense	nLe	u
+défense antiaérienne	nMM	B6
+défiler	nOG	d
+défilé woolsey	nOj	6
+définir	nPd	r
+définitif	nQI	y
+défunt	nQ6	h
+déféquer	nRb	h
+dégager	nR8	BI
+dégeler	nTE	h
+dégoût	nTl	6
+dégoûtant	nUf	w
+dégât	nVP	g
+déjeuner	nVv	0
+déjeuner	nWj	y
+déjà	nXV	q
+délabré	nX/	BL
+délaisser	nZK	BA
+délicat	naK	4
+délice	nbC	i
+délicieux	nbk	v
+délirer	ncT	k
+délivrer	nc3	h
+déléguer	ndY	h
+délétère	nd5	j
+démanger	nec	g
+démarche	ne8	u
+démarrage	kZG	z
+démarrer	nfq	i
+démasquer	jy5	5
+démissioner	ngM	q
+démocrate	ng2	l
+démolir	nhb	BZ
+démonstration	ni0	BE
+démontrer	nj4	BX
+déménagement	nlP	5
+déménager	nmI	w
+dénoncer	nm4	r
+dénonciation	nnj	1
+dénudé	noY	q
+départ	npC	l
+dépasser	npn	Bx
+dépeindre	nrY	i
+dépendre	nr6	i
+dépense	nsc	m
+dépenser	ntC	p
+dépit	ntr	u
+dépité	nuZ	j
+déployer	nu8	k
+déposer	nvg	4
+dépouiller	nwY	Bp
+dépression	nyB	v
+député	nyw	9
+dépêche	nzt	n
+dépêcher	n0U	j
+déranger	n03	Bl
+dériver	n2c	1
+dérober	n3R	e
+dérouler	n3v	x
+désagréable	n4g	Ba
+désastre	n56	2
+désert	n6w	j
+désert	n7T	w
+désespoir	n8D	r
+désespérer	n8u	n
+déshabiller	n+o	k
+désigner	n/M	Bb
+désir	oAn	t
+désirer	oBU	k
+désobéissant	oB4	BA
+désolation	oC4	Bx
+désoler	oEp	n
+désolé	oFQ	x
+désordre	oGB	1
+désormais	oG2	2
+déstination	oHs	8
+déséquilibre	n9V	BT
+détachement	oIo	y
+détacher	oJa	t
+détail	oKH	h
+détente	oKo	BK
+déterminer	oLy	BR
+détester	oND	h
+détour	oNk	t
+détourner	oOR	5
+détraquer	oPK	z
+détroit	oP9	k
+détroit davis	oQh	0
+détroit de belle ile	oRV	BI
+détroit de cabot	oSd	6
+détroit de northumberland	oTX	BY
+détruire	oUv	q
+détériorer	oVZ	2
+développement	oWP	+
+développer	oXN	Bb
+dévier	oYo	Z
+dévorer	oZB	f
+dévouement	oZg	u
+dévoué	oaO	6
+dévoyer	obI	m
+déçu	obu	m
+dîner	oc5	BH
+dîner	ocU	l
+eau	oeA	X
+eaudevie	oeX	p
+eauforte	ofA	p
+ecossais	DZm	m
+ecossaise	DaM	p
+ecosse	Da1	c
+ecriture sainte	DbR	t
+edelweiss	ofp	t
+eden	Db+	X
+edimbourg	DcV	m
+edition	ogW	l
+effacer	og7	s
+effacer en grattant	ohn	6
+effectif	oih	o
+effet	ojJ	r
+efficace	oj0	t
+effleurer	okh	o
+effluent	olJ	n
+effort	olw	u
+effraie	ome	f
+effrayant	om9	q
+effroi	onn	p
+egypte	Dc7	b
+egyptien	DdW	n
+eh bien	ooQ	u
+elbe	Dd9	g
+elle	oo+	k
+elles	opi	Y
+embarras	op6	BD
+embaucher	oq9	n
+embaumer	ork	3
+embellir	osb	l
+embouchure	otA	o
+embrasser	oto	u
+emission	ouW	BF
+emmailloter	ovb	s
+emmener	owH	y
+empereur	ow5	r
+emphase	oxk	t
+empire	oyR	7
+empire romain	Ded	4
+emplette	ozM	1
+emploi	o0B	4
+employer	o05	z
+employé	o1s	p
+empreinte	o2V	v
+empressement	o3E	BD
+emprunt	o4H	8
+emprunter	o5D	u
+emprunter sur gages	o5x	BD
+empêcher	o60	j
+empêtrer	o7X	w
+en	o8H	Bo
+en	o9v	s
+en accord avec	o+b	2
+en aucune façon	o/R	BW
+en aucune manière	pAn	BZ
+en avant	pCA	m
+en dehors de	pCm	u
+en dépit de	pDU	3
+en face de	pEL	BW
+en fait	pFh	6
+en gros	pGb	f
+en général	pG6	8
+en haut	pH2	u
+en imposer à	pIk	q
+en largeur	pJO	q
+en même temps	pJ4	s
+en outre	pKk	Bh
+en partie	pMF	l
+en passant	pMq	g
+en premier lieu	pNK	8
+en prime	pOG	Br
+en présence de	pPx	z
+en relation avec	pQk	BI
+en réalité	pRs	Bd
+en sûreté	pTJ	k
+en tous temps	pTt	l
+en vain	pUS	Y
+en vérité	pUq	BC
+enceint	pVs	k
+enceint	pWQ	BG
+enchantement	pXW	0
+enchanter	pYK	l
+enchaînement	pYv	x
+enchaîner	pZg	z
+enclin	paT	j
+enclin aux accidents	pa2	9
+encoche	pbz	j
+encore	pcW	Bf
+encre	pd1	d
+encyclopédie	peS	2
+endommager	pfI	k
+endormir	pfs	BG
+endroit	pgy	0
+enduire	phm	v
+endurer	piV	BB
+enfant	pjW	1
+enfant adoptif	pkL	8
+enfants	plH	r
+enfin	ply	BI
+enflammer	pm6	o
+enflure	pni	6
+enfuir	poc	u
+engagement	ppK	BB
+engendrer	pqL	v
+engorger	pq6	s
+engrais	prm	x
+enjoindre	psX	0
+enlaidir	ptL	7
+enlever	puG	BJ
+ennemi	pv7	o
+ennemi	pvP	s
+ennui	pwj	j
+ennuyer	pxG	e
+ennuyeux	pxk	2
+enquête	pya	0
+enquêter	pzO	BD
+enregistrement	p0R	8
+enregistrer	p1N	0
+enrichir	p2B	w
+enrouler	p2x	2
+enrôler	p3n	h
+enseigne	p4I	x
+enseignement	p45	BG
+enseigner	p5/	h
+ensemble	p6g	Bi
+ensemble	p8C	m
+ensoleillé	p8o	/
+ensorceler	p9n	o
+ensuite	p+P	B/
+entamer	qAO	0
+entasser	qBC	BD
+entendre	qCF	h
+entente	qCm	BK
+enterrement	qDw	BE
+enthousiasme	qE0	6
+entier	qFu	BD
+entièrement	qGx	Bo
+entonner	qIZ	n
+entonnoir	qJA	q
+entortiller	qJq	0
+entourer	qKe	i
+entraîner	qLA	BH
+entraîner des conséquences	qMH	Bm
+entraîner hors du droit chemin	qNt	BV
+entre	qPC	m
+entrecôte	qPo	t
+entreprendre	qQV	x
+entreprise	qRG	+
+entrer	qSE	8
+entrer dans	qTA	y
+entrevue	qTy	q
+entrée	qUc	6
+envahir	qVW	f
+enveloppe	qV1	q
+envie	qWf	s
+envier	qXL	a
+environ	qXl	y
+environnement	qYX	3
+envisager	qZO	z
+envoi	qaB	u
+envoyer	qav	n
+envoyeur	qbW	p
+enée	DfV	Y
+eole	Dft	W
+epiphanie	DgD	x
+er	7I	O
+errer	qb/	f
+erreur	qce	2
+erythrée	Dg0	i
+escadron aérien	qdU	8
+escalier	qeQ	w
+escargot	qfA	l
+escarpé	qfl	p
+escaut	DhW	b
+esclave	qgO	i
+escorte	qgw	3
+espace	qhn	m
+espagne	Dhx	c
+espagnol	DiN	j
+espagnol	qiN	2
+espagnole	Diw	u
+espalier	qjD	m
+espion	qjp	h
+esplanade	qkK	8
+espoir	qlG	h
+esprit	qln	t
+espèce	qmU	0
+espèce biologique	qnI	3
+espérance	qn/	o
+espéranto	qon	u
+espérer	qpV	d
+esquisse	qpy	z
+esquisser	qql	l
+essai	qrK	3
+essayer	qsB	n
+essence	qso	3
+essentiel	qtf	p
+essuyer	quI	t
+est	qu1	g
+estampiller	qwu	r
+estce qu 	qvV	w
+estce que 	qwF	p
+estime	qxZ	o
+estimer	qyB	Bd
+estomac	qze	l
+estomaqué	q0D	s
+estonie	Dje	e
+estonien	Dj8	m
+estonien	q0v	i
+estonienne	Dki	w
+estrade	q1R	t
+esturgeon	q1+	t
+et	q2r	S
+et puis	q29	CJ
+etatsunis	DlS	7
+etc	q5G	b
+ethiopie	DmN	r
+ethiopien	Dm4	o
+etrusque	Dng	r
+euphrate	DoL	h
+europe	Dos	h
+européen	DpN	i
+exact	q6k	y
+exactement	q7W	q
+exactitude	q8A	BC
+exagérer	q9C	m
+examen	q9o	+
+examen de sortie	q+m	BF
+examen final	q/r	8
+examiner	rAn	BB
+excellent	rBo	q
+exceller	rCS	d
+excepter	rCv	p
+exciter	rDY	2
+excrément	rEO	1
+excursion	rFD	BI
+excuser	rGL	0
+excès	rG/	h
+exemple	rHg	n
+exempter	rIH	4
+exercer	rI/	s
+exercice	rJr	0
+exhalaison	rKf	p
+exhaler un odeur	rLI	BI
+exhorter	rMQ	q
+exiger	rM6	x
+exiler	rNr	b
+exister	rOG	d
+expansif	rOj	0
+experimenté	rPX	BQ
+expliquer	rQn	BH
+exploitant	rRu	t
+exploiter	rSb	s
+explorer	rTH	BD
+exploser	rUK	h
+exposition	rUr	w
+exposition agricole	rVb	BP
+exposé	rWq	k
+exprimer	rXO	i
+exprès	rXw	z
+expédier	rYj	z
+expérience	rZW	x
+exterminer	raH	1
+extraordinaire	ra8	BE
+extrême	rcA	q
+extrême	rcq	k
+extrêmement	rdO	8
+extrêmeorient	Dpv	2
+exulter	reK	f
+exécuter	rep	i
+fable	rfL	c
+fabrique	rfn	k
+fabriquer	rgL	BW
+face	rhh	Z
+facile	rh6	i
+facilement	ric	n
+faciliter	rjD	k
+facteur	rjn	l
+facture	rkM	y
+facultatif	rk+	n
+faculté	rll	k
+faible	rmJ	o
+faiblesse	rmx	y
+faiblesse de caractère	rnj	BI
+faim	ror	d
+faire	rpI	BD
+faire accepter	rqL	9
+faire allusion	rrI	x
+faire appel	rr5	k
+faire attention à	rsd	Bk
+faire avancer	ruB	BG
+faire banqueroute	rvH	BA
+faire cadeau	rwH	q
+faire cesser	rwx	j
+faire cuire au four	rxU	w
+faire du bruit	ryE	w
+faire du bruit avec les lèvres	ry0	BH
+faire du jogging	rz7	u
+faire escale à	r0p	r
+faire fondre	r1U	m
+faire glisser	r16	x
+faire la cour	r38	r
+faire la noce	r4n	o
+faire lacteur	r2r	n
+faire lamour	r3S	q
+faire le courtage	r5P	8
+faire le malin	r6L	x
+faire les cent pas	r68	BF
+faire naître	r8B	0
+faire part de	r81	8
+faire paître	r9x	l
+faire pipi	r+W	j
+faire ses adieux	r+5	Bd
+faire son nid	sAW	m
+faire tomber	sA8	w
+faire tournoyer	sBs	BE
+faire un bruit de succion	sCw	BC
+fairepart	sDy	B6
+faisan	sFs	l
+faiseur dembarras	sGR	BC
+fait	sHT	2
+falaise	sIJ	g
+falloir	sIp	Cg
+falsifier	sLJ	h
+fameux	sLq	m
+famille	sMQ	g
+fanatique	sMw	k
+fanfarroner	sNU	s
+fantaisie	sOA	o
+fantasque	sOo	y
+fard	sPa	n
+farine	sQB	l
+fatalité	sQm	t
+fatiguer	sRT	b
+fatigué	sRu	e
+faucher	sSM	d
+faucille	sSp	h
+faucon	sTK	i
+fausser	sTs	b
+fauteuil	sUH	l
+faux	sUs	W
+faux	sVC	a
+fauxcol	sVc	j
+fauxfillet	sV/	o
+favorable	sWn	1
+favori	sXc	s
+façade	sYI	h
+façon	sYp	t
+faîte	sZW	t
+feldspath	saD	x
+femelle	sa0	f
+femme	sbT	h
+femme de chambre	sb0	x
+femme en travail	scl	2
+fendre	sdb	c
+fenêtre	sd3	l
+fer	sec	Y
+fer à repasser	se0	4
+ferblanc	sfs	y
+ferme	sge	o
+fermer	shG	t
+fermer à clé	shz	n
+fermeture à glissière	sia	BB
+fermetureéclair	sjb	y
+fermier	skN	k
+fermier	skx	k
+fermoir	slV	u
+fervent	smD	x
+ferveur	sm0	0
+fesse	sno	e
+feu	soG	Z
+feuille	spF	k
+feuille de déclaration	spp	BC
+feuille de placage	sqr	z
+feuilleter	sre	n
+feulliage	sof	m
+fiancé	ssF	l
+fiancée	ssq	t
+fiançailles	stX	5
+ficelle	suQ	h
+fiche	sux	o
+fichier	svZ	g
+fidèle	sv5	g
+fidélité	swZ	p
+fiel	sxC	h
+fier	sxj	V
+fierté	sx4	i
+figue	sya	Z
+figuier	syz	i
+figure	szV	BU
+fil	s0p	m
+file	s1P	+
+filet	s2N	l
+filiale	s2y	5
+fille	s3r	2
+fille publique	s5D	+
+filler la laine	s6B	l
+fillette	s6m	n
+filleul	s4h	i
+film	s7N	y
+filon	s7/	l
+filou	s8k	e
+fils	s9C	Z
+fils adoptif	s9b	0
+filtre	s+P	h
+filtre à air	s+w	x
+filtrer	s/h	d
+fin	s/+	/
+finalement	tA9	BL
+finance	tCI	k
+finir	tCs	Bc
+finlandais	tEI	m
+finlandaise	Dql	6
+finlande	Drf	g
+finnois	Dr/	Z
+finnois	tEu	e
+finnoise	DsY	y
+fiole	tFM	d
+fiord	tFp	s
+fisc	tGV	p
+fixe	tG+	p
+fixer	tHn	BY
+fièvre	tI/	n
+flacon	tJm	w
+flageller	tKW	f
+flairer	tK1	c
+flamand	DtK	g
+flamand	tLR	i
+flamber	tLz	d
+flamme	tMQ	d
+flanc	tMt	l
+flandre	Dtq	h
+flandre zélandaise	DuL	+
+flatter	tNS	c
+flessingue	DvJ	k
+fleur	tNu	m
+fleurir	tOU	y
+fleuve	tPG	f
+fleuve churchill	Dvt	BG
+fleuve columbia	Dwz	BE
+fleuve fraser	Dx3	7
+fleuve mackenzie	tPl	BH
+fleuve saintlaurent	tQs	BW
+fleuve yukon	tSC	5
+flirter	tS7	s
+flocon de neige	tTn	3
+floride	Dyy	e
+florin	tUe	u
+flot	tVM	5
+flottant	tWF	m
+flotte	tWr	e
+flotte aérienne	tXJ	0
+flotter	tX9	b
+fluor	tYY	j
+fléau	tY7	q
+fléchir	tZl	d
+flêche	taC	g
+flûte	tai	d
+foi	ta/	5
+foie	tb4	b
+foin	tcT	c
+foire	tcv	s
+foire agricole	tdb	BB
+fois	tec	j
+foncer	te/	c
+fonction	tfb	BC
+fonctionnaire	tgd	8
+fonctionner	thZ	8
+foncé	tiV	z
+fond	tjI	y
+fondation	tj6	BA
+fonder	tk6	t
+fondre	tln	5
+fonds	tmg	BM
+fontaine	tns	3
+foot	toj	n
+football	tpK	t
+force	tp3	w
+forcer	tqn	f
+forer	trG	/
+forger	tsF	c
+forgeron	tsh	r
+forme	ttM	k
+former	ttw	h
+formidable	tuR	B6
+formulaire	twL	u
+formule	tw5	j
+formuler	txc	i
+fort	tx+	BJ
+fortement	tzH	p
+fortune	DzQ	e
+fortune	tzw	4
+forum	t0o	g
+forêt	t1I	n
+forêt vierge	t1v	4
+forêtnoire	Dzu	w
+fossé	t2n	p
+fou	t34	f
+fou	t3Q	o
+foudre	t4X	n
+fouet	t4+	c
+fouetter	t5a	b
+fougère	t51	i
+fouille	t6X	v
+fouiller	t7G	8
+foulard	t8C	s
+foule	t8u	BS
+fouler aux pieds	t+A	y
+four	t+y	x
+fourchette	t/j	l
+fourmi	uAI	d
+fourmilière	uAl	u
+fourmiller	uBT	o
+fourneau	uB7	3
+fournir	uCy	w
+fourniture	uDi	7
+fourniture de bureau	uEd	9
+fourrer	uFa	BU
+fourrure	uGu	BM
+foutre	uH6	f
+foyer	uIZ	e
+fracasser	uI3	v
+fraction	uJm	p
+fracture	uKP	n
+fragile	uK2	6
+fragment	uLw	x
+frais	uMh	i
+frais	uND	c
+fraise	uNf	k
+fraiser	uOD	b
+framboise	uOe	r
+franc	uPJ	j
+franc	uPs	1
+france	D0e	i
+francfort	D1A	o
+franchise	uRa	r
+francium	uSF	q
+francmaçon	uQh	5
+français	D1o	l
+français	uSv	1
+française	D2N	u
+frapper	uTk	BG
+fraser	D27	p
+fraternité	uUq	9
+frauder	uVn	m
+frayeur	uWN	r
+frein	uW4	g
+frein de secours	uXY	BC
+frein de sûreté	uYa	BE
+freiner	uZe	c
+friandise	uZ6	BG
+frire	ubA	X
+frise	D3k	c
+friser	ubX	d
+frison	D4A	f
+frisonne	ub0	x
+frisson	ucl	7
+frissonner	udg	0
+frivole	ueU	j
+froid	ue3	w
+froideur	ufn	+
+froisser	ugl	n
+fromage	uhM	k
+froment	uhw	l
+front	uiV	BG
+frontière	ujb	BL
+frotter	ukm	a
+fruit	ulA	f
+fruit à coque	ulf	r
+fruitier	um0	t
+fruitier	umK	q
+frère	unh	j
+frégate	uoE	k
+frémir	uoo	5
+fréquemment	uph	+
+fréquent	uqf	l
+fréquenter	urE	4
+frêne	ur8	l
+fuir	ush	s
+fuite	utN	j
+fumer	utw	n
+fumier	uuX	s
+fumée	uvD	d
+fureur	uvg	m
+furibond	uwG	k
+furie	uwq	i
+furieux	uxM	g
+fusain	uxs	k
+fusil	uyQ	i
+fusil à air comprimé	uyy	BJ
+fusiller	uz7	h
+fusionner	u0c	g
+fusée	u08	e
+futilité	u1a	l
+futur	u1/	g
+fève	u2f	h
+fécond	u3A	g
+fédération	u3g	x
+fée	u4R	Z
+féliciter	u4q	n
+féroce	u5R	u
+février	u5/	m
+fête	u6l	z
+fêtedieux	u7Y	+
+fêter	u8W	d
+fôlatrer	u8z	g
+fût	u9T	n
+gabon	D4f	a
+gagner	u96	x
+gai	u+r	l
+gain	u/Q	BI
+gaine	vAY	q
+galerie	vBC	k
+galette	vBm	k
+galice	D45	b
+galicie	D5U	d
+galicien	vCK	h
+galles	D5x	X
+gallois	D6I	d
+gallois	vCr	c
+galoche	vDH	r
+galoper	vDy	d
+gambader	vEP	6
+gamin	vFJ	u
+gand	D6l	X
+gange	D68	b
+gant	vF3	l
+garage	vGc	i
+garantir	vG+	Ba
+garde	vIY	Bl
+garder	vJ9	4
+gardien	vK1	h
+gare	vLW	q
+garer	vMA	X
+garnir	vMX	t
+garniture	vNE	8
+garçon	vOA	BI
+garçon de café	vPI	1
+garçons et filles	vP9	BG
+gaspiller	vRo	e
+gauche	vSG	Z
+gaufre	vSf	f
+gaule	D7X	V
+gaule	vS+	f
+gaulois	D7s	Z
+gaulois	vTd	m
+gay	vRD	l
+gaz	vUD	Y
+gaz intestinale	vUb	4
+gazette	vVT	BD
+gazon	vWW	f
+gazouiller	vW1	t
+gaélique	vXi	x
+gel	vYT	r
+geler	vY+	a
+gelée	vZY	u
+gencive	vaG	h
+gendarme	van	1
+gendre	vbc	o
+genou	vcE	e
+genre	vci	m
+gens	vdI	f
+gentil	vdn	CA
+genèse	D8F	f
+genève	D8k	e
+genêt	vfn	l
+gerbe	vgM	g
+germain	D9C	p
+germain	vgs	v
+germanique	vhb	y
+germe	viN	f
+germer	vis	g
+geste	vjM	h
+gestion	vjt	BK
+ghana	D9r	X
+ghanéen	D+C	d
+ghanéen	vk3	c
+gibbon	vlT	j
+gibier	vl2	l
+gigantesque	vmb	x
+gilet	vnM	p
+girafe	vn1	i
+giroflée des murailles	voX	BA
+gisement	vpX	n
+gitan	vp+	o
+givre	vqm	f
+glace	vrF	n
+gland	vrs	f
+glande	vsL	g
+glaïeul	vsr	n
+glissant	vtS	j
+glissant comme une anguille	vt1	BN
+glisser	vvC	g
+glisser comme une anguille	vvi	BN
+globe	vwv	y
+gloire	vxh	BW
+glorieux	vy3	s
+glorifier	vzj	6
+glousser	v0d	q
+glycine	v1H	j
+gnome	v1q	u
+gnou	v2Y	l
+gobolet	v29	i
+golfe	v3f	d
+golfe daden	D+f	s
+golfe du saintlaurent	v4y	BH
+golfe persique	v38	2
+gomme	v55	v
+gonfler	v6o	d
+goret	v7F	h
+gorge	v7m	t
+gorille	v8T	k
+gosse	v83	/
+goth	D/L	U
+gothique	v92	e
+goudron	v+U	i
+gouffre	v+2	BI
+gourmand	v/+	i
+goutte	wAg	h
+goutte deau	wBB	y
+gouvernail	wBz	Ba
+gouvernement	wDN	Bf
+gouverner	wEs	6
+goéland	wFm	k
+goût	wGK	b
+goûter	wGl	Z
+graal	D/f	r
+gracieux	wG+	j
+grade	wHh	y
+grain	wIT	u
+graine	wJB	4
+graisse	wJ5	m
+grammaire	wKf	n
+gramme	wLG	m
+grammont	EAK	i
+grand	wLs	o
+grand lac de lours	wMU	BC
+grand lac des esclaves	wNW	BI
+grand lac salé	EAs	7
+grande personne	wRM	9
+grandebretagne	ECU	7
+grandeur	wSJ	BS
+grandiose	wTb	BE
+grandir	wUf	n
+grandmaman	wOe	0
+grandmère	wPS	BC
+grandpère	wQU	4
+grandsault	EBn	t
+grange	wVG	h
+granit	wVn	i
+grappe	wWJ	n
+gras	wWw	l
+gratitude	wXV	p
+gratter	wX+	q
+grave	wYo	n
+graver	wZP	c
+gravier	wZr	p
+gravir	waU	c
+gravitation	waw	u
+grec	EDP	Y
+grec	wbe	a
+grecque	EDn	m
+gredin	wb4	v
+greffer	wcn	o
+grelotter	wdP	j
+grenade	EEN	f
+grenier	wdy	p
+grenouille	web	k
+griffe	we/	d
+griffer	wfc	d
+grille	wf5	r
+grille daération	wgk	5
+griller	whd	i
+grillon	wh/	m
+grillé	wil	f
+grimper	wjE	e
+grincer	wji	l
+grippe	wkH	t
+gris	wk0	j
+grive	wlX	e
+groenland	EEs	p
+groenlandais	EFV	x
+groenlandais	wl1	x
+grogner	wmm	m
+gronder	wnM	Bx
+gros	wo9	u
+groseille	wpr	BG
+groseillier	wqx	4
+grossier	wrp	/
+grossir	wso	/
+grotte	wtn	m
+grouiller	wuN	l
+groupe	wuy	w
+groupe de travail	wvi	5
+groënland	EGG	l
+groënlandais	EGr	t
+groënlandais	wwb	t
+grue	wxI	k
+grâce	wxs	BA
+grâce à	wys	d
+grèce	EHY	b
+grève	wzJ	g
+gré	wzp	u
+grêle	w0X	e
+guadeloupe	EHz	l
+guatemala	EIY	k
+guatémaltèque	EI8	t
+guatémaltèque	w01	v
+gueldre	EJp	s
+guerre	w1k	c
+guerroyer	w2A	t
+guetter	w2t	r
+gueule	w3Y	h
+gui	w35	d
+guichet	w4W	x
+guide	w5H	BM
+guider	w6T	1
+guignol	w7I	o
+guillemet	w7w	BF
+guillemets	w81	y
+guinée	EKV	a
+guinée equatoriale	EKv	9
+guinéebissau	ELs	y
+guinéen	w9n	d
+guitare	w+E	h
+guyenne	EMe	f
+guère	w+l	c
+guérir	w/B	BK
+guêpe	xAL	c
+gymnastique	xAn	t
+gâcher	xBU	z
+gâteau	xCH	e
+gâter	xCl	Y
+gène	xC9	d
+gédéon	EM9	g
+gémir	xDa	h
+génie	xD7	f
+général	xEa	o
+génération	xFC	y
+généreux	xF0	m
+générosité	xGa	x
+géographe	xHL	t
+géographie	xH4	t
+géographique	xIl	8
+géologie	xJh	p
+géologique	xKK	r
+géologue	xK1	q
+géométrie	xLf	s
+géorgie	ENd	i
+géorgien	EN/	q
+géorgien	xML	m
+géranium	xMx	+
+gérant	xNv	m
+gêner	xOV	1
+gênes	EOp	Z
+gîte	xPK	BP
+habile	xQZ	4
+habileté	xRR	BL
+habilité	xSc	l
+habiller	xTB	j
+habit	xTk	BW
+habitant	xU6	o
+habitation	xVi	BM
+habiter	xWu	g
+habitude	xXO	u
+habituel	xX8	BI
+habituer	xZE	f
+hache	xZj	Z
+hacher	xZ8	i
+haie	xae	Z
+haleine	xa3	z
+haleter	xbq	a
+halte	xcE	b
+hambourg	EPC	g
+hameau	xcf	o
+hameçon	xdH	k
+hanche	xdr	d
+hangar	xeI	0
+hanneton	xe8	n
+hannibal	EPi	f
+hanovre	EQB	d
+hardi	xfj	t
+hareng	xgQ	j
+haricot	xgz	j
+harmonica	xhW	5
+harmonie	xiP	l
+harmonieux	xi0	o
+harmonique	xjc	p
+harmonique	xkF	y
+hasard	xk3	z
+hausse	xlq	k
+hausser	xmO	a
+hausser les épaules	xmo	s
+haut	xn1	8
+haut	xnU	h
+hauteur	xox	r
+hawaii	EQe	Z
+hawaiien	xpc	y
+haïr	xqO	1
+haïti	EQ3	Y
+hebdomadairement	xrD	1
+hectolitre	xr4	u
+hectomètre	xsm	u
+hein	xtU	y
+hellade	ERP	b
+helvète	ERq	h
+helvétie	ESL	h
+hennir	xuG	b
+hente	xuh	m
+herbe	xvH	o
+hercule	ESs	p
+hermine	xvv	h
+hermès	ETV	d
+hernie	xwQ	g
+herse	xww	e
+herser	xxO	b
+heure	xxp	q
+heureusement	xyT	u
+heureux	xzB	o
+heurter	xzp	6
+hibou	x0j	a
+hideux	x09	BV
+hier	x2S	a
+hier soir	x2s	l
+himalaya	ETy	i
+hindou	x3R	c
+hipothétique	x3t	u
+hippocrate	EUU	m
+hippopotame	x4b	3
+hirondelle	x5S	q
+hirsute	x58	4
+hispanique	x60	j
+histoire	x7X	8
+hiver	x8T	d
+hiérarchie	x8w	s
+hollandais	EU6	w
+hollande	EVq	g
+hollande septentrionale	EWK	BG
+homard	x9c	h
+hommage	x99	r
+homme	x+o	0
+homme de science	x/c	1
+homère	EXQ	b
+honduras	EXr	i
+hondurien	EYN	p
+hondurien	yAR	l
+hondurienne	EY2	z
+hong kong	EZp	n
+hongrie	EaQ	f
+hongrois	Eav	j
+hongrois	yA2	l
+hongroise	EbS	2
+honneur	yBb	q
+honnête	yCF	BB
+honorable	yDG	3
+honorer	yD9	k
+hop	yEh	X
+hoqueter	yE4	e
+horaire	yFW	x
+horizon	yGH	m
+horizontal	yGt	y
+horloge	yHf	q
+horloger	yIJ	r
+hormis	yI0	/
+horoscope	yJz	q
+horreur	yKd	BG
+horrible	yLj	CZ
+hors	yN8	b
+hors de	yOX	f
+horsdœuvre	yO2	z
+hostile	yPp	n
+hotte	yQQ	w
+houblon	yRA	m
+houe	yRm	W
+houp	yR8	W
+houx	ySS	Z
+huile	ySr	a
+huit	yTF	X
+humain	yTc	d
+humble	yT5	a
+humide	yUT	a
+humilier	yUt	c
+humour	yVJ	n
+humus	yVw	c
+huppe	yWM	b
+hurlement	yWn	q
+hurler	yXR	Y
+hurluberlu	yXp	y
+hutte	yYb	m
+huître	yZB	h
+hybride	yZi	h
+hydraulique	yaD	n
+hydravion	yaq	r
+hydrogène	ybV	r
+hygiène	ycA	k
+hygiénique	yck	l
+hymne	ydJ	j
+hypnose	yds	z
+hypnotiser	yef	l
+hypocrite	yfE	p
+hypocrite	yft	k
+hypothèque	ygR	p
+hypothèse	yg6	7
+hystérie	yh1	m
+hystérique	yib	o
+hyène	yjD	e
+hâte	yjh	m
+hâter	ykH	0
+hâtif	yk7	o
+hébraïque	ylj	r
+hébreu	EcI	h
+hébreu	ymO	8
+hébrides	Ecp	x
+hélas	ynK	Y
+hélice	yni	p
+hélium	yoL	i
+hélène	Eda	b
+hémorroïde	yot	BA
+héraut	ypt	g
+hérisser	yqN	BE
+hérisson	yrR	p
+héritage	yr6	r
+hériter	ysl	e
+héro	ytD	k
+héron	ytn	h
+héros	yuI	d
+héroïne	yul	y
+héroïque	yvX	i
+héroïsme	yv5	o
+hérésie	ywh	j
+hésiter	yxE	q
+hêtre	yxu	f
+hôpital	yyN	l
+hôte	yyy	m
+hôtel	yzY	f
+hôtel de ville	yz3	9
+hôtesse de lair	y00	BD
+ibère	y13	e
+ibérien	y2V	g
+ibérique	y21	i
+identifier	y3X	4
+identique	y4P	x
+idiot	y5A	7
+idéal	y57	b
+idéal	y6W	f
+idée	y61	a
+if	y7P	b
+igname	y7q	c
+ignominie	y8G	/
+ignorer	y9F	0
+ignoré	y95	h
+il	y+a	g
+il paraît que	y+6	/
+il y a	y/5	s
+ile danticosti	EfT	2
+ile de baffin	Eg9	v
+ile de sable	Ehs	q
+ile de vancouver	EiW	3
+ile dellesmere	EgJ	0
+ile du capbreton	EjN	BG
+ile du diable	EkT	t
+ile kénosha	Ed1	r
+ile remprouix	Eeg	z
+ileduprinceedouard	ElA	BL
+iles de la reinecharlotte	EmL	Ba
+iles de la reineelisabeth	Enl	Bm
+iles normandes	EpL	z
+iliade	Ep+	Z
+illettré	zAl	m
+illimité	zBL	u
+illuminer	zB5	u
+illusion	zCn	n
+illustre	zDO	g
+illustrer	zDu	k
+ils	zES	V
+image	zEn	m
+imaginer	zFN	n
+imbroglio	zF0	q
+imbécile	zGe	s
+imbécile	zHK	x
+imiter	zH7	b
+immense	zIW	BY
+immerger	zJu	h
+immeuble	zKP	z
+immobile	zLC	j
+immoral	zLl	p
+immédiat	zMO	j
+immédiatement	zMx	BY
+imparfait	zOJ	o
+impasse	zOx	1
+impatient	zPm	p
+imperméable	zQP	x
+imperméable	zRA	x
+impliquer	zRx	g
+implorer	zSR	j
+impoli	zS0	o
+importance	zTc	Bd
+important	zU5	0
+importer	zVt	i
+imposable	zWP	6
+imposant	zXJ	BO
+imposer	zYX	BD
+impossible	zZa	p
+impression	zaD	Bw
+imprimante	zbz	t
+imprimer	zcg	g
+imprimeur	zdA	s
+improviser	zds	l
+impulsion	zeR	Bg
+impérialisme	zfx	1
+impôt	zgm	d
+inattendu	zhD	k
+inattention	zhn	BD
+inauguration	ziq	BZ
+inaugurer	zkD	k
+incalculable	zkn	t
+incapable	zlU	n
+incendie	zl7	1
+incertain	zmw	6
+inceste	znq	l
+incitation	zoP	BZ
+inciter	zpo	Bw
+incliner	zrY	/
+inconnu	zsX	BT
+inconvénient	ztq	5
+incroyable	zuj	q
+inde	EqX	X
+indication	zvN	w
+indice	zv9	s
+indien	Equ	3
+indien	zwp	d
+indienne	Erl	z
+indifférent	zxG	8
+indigner	zyC	q
+indiquer	zys	BA
+indirect	zzs	n
+indispensable	z0T	1
+individu	z1I	BL
+indochine	EsY	m
+indonésie	Es+	m
+indonésien	Etk	u
+indonésien	z2T	q
+indonésienne	EuS	4
+indulgent	z29	BD
+industrie	z4A	q
+industriel	z4q	1
+industriel	z5f	u
+indépendant	z6N	y
+ineluctable	z6/	p
+inerte	z7o	d
+infanterie	z8F	v
+infecter	z80	h
+infini	z9V	o
+infiniment	z99	5
+infinitif	z+2	t
+infirme	z/j	B4
+infirmier	0Bb	v
+infirmière	0CK	s
+influence	0C2	0
+influer	0Dq	u
+information	0EY	BA
+informer	0FY	0
+infuser	0GM	k
+inférieur	0Gw	w
+ingrat	0Hg	6
+ingénieur	0Ia	u
+initiative	0JI	r
+injecter	0Jz	i
+injure	0KV	q
+innocent	0K/	u
+inné	0Lt	9
+inondation	0Mq	r
+inonder	0NV	d
+inquiet	0Ny	u
+inscription	0Og	BQ
+inscrire	0Pw	h
+insecte	0QR	q
+insigne	0Q7	t
+insinuer	0Ro	m
+insister	0SO	g
+inspecter	0Su	k
+inspecteur	0TS	w
+inspirer	0UC	BP
+installer	0VR	i
+instance	0Vz	+
+instances	0Wx	/
+instant	0Xw	v
+instinct	0Yf	p
+institut	0ZI	3
+instituteur	0Z/	7
+institutrice	0a6	/
+instruction	0b5	BQ
+instruire	0dJ	9
+instrument	0eG	5
+insuffisance	0e/	BM
+insuffisant	0gL	BC
+insulter	0hN	v
+intact	0h8	q
+intellectuel	0im	BA
+intelligence	0jm	BD
+intelligent	0kp	7
+intendance	0lk	y
+intense	0mW	1
+intention	0nL	+
+interdiction	0oJ	BB
+interdire	0pK	v
+interdit	0p5	z
+interdit	0qs	t
+interface	0rZ	s
+interjection	0sx	6
+interminable	0tr	x
+intermédiaire	0uc	/
+intermédiaire	0vb	Bc
+international	0w3	2
+interne	0xt	z
+interpeller	0yg	x
+interprète	0zR	0
+interpréter	00F	u
+interroger	00z	s
+interrompre	01f	4
+interrupteur	02X	x
+interruption	03I	3
+intervalle	03/	t
+intervenir	04s	BY
+intervention	06E	6
+interview	06+	s
+interéssant	07q	y
+intestin	08c	t
+intime	09J	n
+intitulé	09w	4
+intriger	0+o	m
+intrigue	0/O	BI
+intriguer	1AW	k
+introduction	1A6	BA
+introduire	1B6	Bv
+intéger	0sF	s
+intéressant	1Dp	BB
+intéresser	1Eq	1
+intérieur	1Ff	2
+intérieur	1GV	x
+intérêt	1HG	BW
+inutile	1Ic	p
+invariable	1JF	BK
+invasion	1KP	q
+inventer	1K5	i
+invention	1Lb	v
+inverse	1MK	m
+investir	1Mw	j
+invitation	1NT	w
+inviter	1OD	e
+invoquer	1Oh	w
+invraisemblable	1PR	3
+inédit	1QI	f
+iode	1Qn	d
+irak	EvK	W
+irakien	1RE	n
+irakien	Evg	r
+iran	EwL	g
+iranien	1Rr	f
+iranien	Ewr	s
+iranienne	ExX	8
+iris	1SK	b
+irlandais	1Sl	k
+irlandais	EyT	l
+irlandaise	Ey4	t
+irlande	Ezl	g
+irlande du nord	E0F	4
+ironie	1TJ	f
+irriter	1To	BO
+islam	1U2	e
+islandais	1VU	n
+islandais	E09	l
+islande	E1i	f
+isoler	1V7	v
+israël	E2B	c
+issue	1Wq	j
+iste	7W	d
+italie	E2d	Z
+italien	1XN	e
+italien	E22	i
+italienne	E3Y	s
+itinéraire	1Xr	1
+ivoire	1Yg	g
+ivre	1ZA	l
+ivresse	1Zl	y
+ième	7z	U
+j	1aX	R
+jacinthe	1ao	n
+jacob	E4E	a
+jacques	E4e	Z
+jadis	1bP	BN
+jaillir	1cc	t
+jalousie	1dJ	w
+jaloux	1d5	d
+jamais	1eW	c
+jamaïque	E43	g
+jambe	1ey	n
+jambon	1fZ	j
+janvier	1f8	m
+japon	E5X	h
+japonais	1gi	3
+japonais	E54	i
+japonaise	E6a	v
+jardin	1hZ	l
+jardinage	1h+	s
+jardinier	1iq	q
+jarretelle	1jU	r
+jarretière	1j/	p
+jaser	1ko	Z
+jaune	1lB	a
+java	E7J	W
+javanais	1lb	q
+javanais	E7f	h
+javanaise	E8A	u
+je	1mF	T
+je vous demande pardon	1mY	8
+jeter	1nU	k
+jeu	1n4	a
+jeudi	1oS	i
+jeune	1o0	a
+jeune fille	1pO	y
+jeûner	1qA	a
+joie	1qa	j
+joindre	1q9	B5
+joint	1s2	f
+joli	1tV	b
+jonc	1tw	i
+jonc odorant	1uS	z
+joncher	1vF	o
+jongler	1vt	f
+jordanie	E8u	h
+jordanien	E9P	r
+joseph	E96	b
+josué	E+V	b
+joue	1wM	a
+jouer	1wm	g
+jouet	1xG	c
+jouir	1xi	l
+jouir de	1yH	s
+jour	1yz	b
+jour de lan	1zO	BF
+jour férié	10T	t
+jourdain	E+w	h
+journal	11A	Bh
+journalier	12h	k
+journaliste	13F	BH
+journellement	14M	t
+journée	145	g
+joyeux	15Z	+
+juge	16X	d
+jugement	160	2
+juger	17q	Z
+juif	E/R	W
+juillet	18D	i
+juin	18l	f
+jumeau	19E	U
+jumeaux	19Y	f
+jumelles	193	i
+jungle	1+Z	f
+junon	E/n	a
+jupe	1+4	b
+jupiter	FAB	p
+jurer	1/T	Z
+jus	1/s	f
+jusquà	2AL	e
+juste	2Ap	BO
+justement	2B3	BD
+jéricho	FAq	h
+jérusalem	FBL	o
+jésuschrist	FBz	v
+kenya	FCi	Z
+kenyan	2C6	g
+kenyan	FC7	e
+kermesse	2Da	y
+khmer	2EM	c
+khmer	FDZ	a
+kilobyte	2Eo	m
+kilogramme	2FO	m
+kilomètre	2F0	s
+kilowattheure	2Gg	0
+kimono	2HU	h
+kinésithérapie	2H1	4
+kiosque	2It	t
+kremlin	FDz	k
+krypton	2Ja	m
+kurde	2KA	c
+kurde	FEX	X
+kurdistan	FEu	n
+l	2Kc	p
+la	2MV	i
+la havane	FFV	e
+la haye	FFz	e
+la manche	2M3	4
+laboratoire	2Nv	w
+laborieux	2Of	BN
+labourer	2Ps	e
+laboureur	2QK	o
+lac	2Qy	f
+lac athabasca	2RR	1
+lac aux allumettes	2ik	6
+lac champlain	2SG	5
+lac clarice	2S/	w
+lac des bois	2je	0
+lac des marets	2kS	2
+lac donquan	2Tv	z
+lac fonteneau	2Ui	3
+lac gaillot	2VZ	v
+lac holden	2WI	u
+lac huron	2W2	s
+lac kingroy	2Xi	0
+lac labyrinthe	2YW	5
+lac léman	FGR	o
+lac mabille	2ZP	u
+lac michigan	2Z9	1
+lac nipigon	2ay	y
+lac norman	2bk	v
+lac ontario	2cT	z
+lac ross	2dG	n
+lac sainteclair	2dt	BA
+lac supérieur	2et	4
+lac sénécal	2fl	0
+lac témiscamingue	2gZ	BB
+lac winnipeg	2ha	BK
+lac à la pluie	2lI	z
+lacet	2l7	i
+lacs de la frontière	2md	BB
+lagune	2ne	f
+laid	2n9	d
+laine	2oa	b
+laisser	2o1	v
+lait	2pk	a
+laiton	2p+	i
+laitue	2qg	g
+lambeau	2rA	n
+lambris	2rn	6
+lame	2sh	m
+lame tranchante	2tH	z
+lamentable	2t6	p
+lamier	2uj	l
+lampadaire	2vI	u
+lampe	2v2	d
+lancer	2wT	c
+landau	2wv	u
+lande	2xd	d
+langage	2x6	v
+langue	2yp	q
+langue allemande	2zT	BF
+langue anglaise	20Y	BF
+langue espagnole	21d	BH
+langue française	22k	BH
+langue gaélique	23r	BB
+langue hawaiienne	24s	BJ
+langue hébraïque	251	BE
+langue japonaise	265	BJ
+langue portugaise	28C	BP
+langue russe	29R	9
+langue tchèque	2+O	+
+lanière	2/M	j
+lanterne	2/v	o
+laos	FG5	U
+laotien	3AX	f
+laotien	FHN	j
+lapin	3A2	h
+lapon	3BX	k
+lapon	FHw	k
+laponie	FIU	d
+laponne	FIx	0
+lard	3B7	c
+large	3CX	BR
+largement	3Do	4
+largeur	3Eg	k
+larme	3FE	m
+larve	3Fq	j
+las	3GN	V
+lasser	3Gi	X
+latin	3G5	c
+laurentides	FJl	z
+laurier	3HV	i
+lavande	3H3	l
+laver	3Ic	W
+laïc	3Iy	e
+laïque	3JQ	Z
+le	3Jp	j
+le caire	FKY	e
+le matin	3KM	r
+le mieux	3K3	s
+le néant	3Lj	e
+le plus	3MB	W
+le soir	3MX	o
+lecteur	3M/	k
+lent	3Nj	Y
+lentement	3N7	y
+lentille	3Ot	k
+les	3PR	e
+les deux	3Pv	c
+lessive	3QL	e
+lest	3Qp	f
+letton	3RI	p
+letton	FK2	k
+lettonie	FLa	e
+lettonne	FL4	l
+lettre	3Rx	g
+lettre de créance	3SR	8
+lettre de recommandation	3TN	By
+lettre de relance	3U/	BA
+lettre recommandée	3V/	BF
+leur	3XE	4
+lever	3X8	l
+levier	3Yh	i
+leyde	FMd	Y
+leçon	3ZD	2
+liban	FM1	c
+libanais	3Z5	i
+libanais	FNR	g
+libellule	3ab	o
+liber	3bD	c
+liberté	3bf	m
+libraire	3cF	q
+librairie	3cv	0
+libye	FNx	X
+libyen	3dj	V
+libyen	FOI	Z
+libérer	3d4	f
+libéria	FOh	g
+libérien	3eX	j
+libérien	FPB	n
+licence	3e6	+
+licencier	3f4	6
+lien	3gy	e
+lier	3hQ	W
+lierre	3hm	e
+lierre	FPo	Z
+lieu	3iE	BW
+lieue	3ja	d
+lieutenant	3j3	x
+ligne	3ko	b
+ligue	3lD	o
+lilas	3lr	d
+limace	3mI	d
+limaçon	3ml	k
+lime	3nJ	k
+limer	3nt	W
+limite	3oD	y
+limiter	3o1	3
+limpide	3ps	BC
+lin	3qu	a
+linge	3rI	f
+lion	3rn	d
+liquide	3sE	X
+liquider	3sb	g
+lire	3s7	g
+lis	3tb	Z
+lis des marais	3t0	l
+lisbonne	FQB	e
+liseron	3uZ	f
+lisière	3u4	BS
+lisse	3wK	Z
+liste	3wj	Bg
+liste dadresses	3yD	2
+liste de candidats	3y5	BK
+liste de présentation	30D	BW
+lit	31Z	X
+lit daccouchement	31w	4
+lithium	32o	k
+litre	33M	l
+littéralement	33x	/
+littérature	34w	v
+lituanie	FQf	h
+lituanien	FRA	p
+lituanienne	FRp	z
+livonie	FSc	d
+livonien	35f	h
+livonien	FS5	l
+livourne	FTe	f
+livraison	36A	r
+livre	36r	d
+livre	37I	d
+livrer	37l	Bt
+liège	39S	e
+liège	FT9	b
+lièvre	39w	h
+liége	FUY	a
+local	3+R	BG
+localité	3/X	Bt
+locataire	4BE	v
+locomotive	4Bz	q
+locution	4Cd	q
+logarithme	4DH	r
+logement	4Dy	BM
+loger	4E+	f
+logique	4Fd	w
+logique	4GN	g
+logis	4Gt	BB
+loi	4Hu	X
+loin	4IF	0
+lointain	4I5	y
+loir	4Jr	g
+loisir	4KL	6
+lombes	4LF	e
+lombric	4Lj	p
+londonien	FUy	p
+londres	FVb	e
+long	4MM	Y
+longtemps	4Mk	BA
+longuement	4Nk	BE
+longueur	4Oo	m
+lorraine	FV5	s
+lors	4PO	BR
+lorsque	4Qf	W
+loterie	4Q1	s
+louange	4Rh	k
+loucher	4SF	p
+louer	4Su	V
+loup	4TD	Z
+loupe	4Tc	m
+lourd	4UC	u
+lourdement	4Uw	BE
+louvain	FWl	e
+louve	4V0	f
+loyal	4WT	l
+loyer	4W4	p
+lubie	4Xh	h
+lucarne	4YC	u
+lucerne	FXD	f
+luge	4Yw	i
+lui	4ZS	BL
+luire	4ad	Z
+luisant	4a2	s
+luminaire	4bi	s
+lumineux	4cO	n
+lumière	4c1	j
+lun et lautre	2LF	n
+lundi	4dY	e
+lune	4d2	Z
+lune et lautre	2Ls	p
+lunette	4eP	w
+lunettes	4e/	v
+lupanar	4fu	l
+lupine	4gT	f
+luter	4gy	h
+luth	4hT	a
+lutin	4ht	5
+lutter	4im	k
+luxe	4jK	d
+luxembourg	FXi	o
+luxembourgeois	4jn	y
+luxemburgeois	FYK	x
+luxer	4kZ	c
+lycée	4k1	e
+lynx	4lT	e
+lyre	4lx	a
+lys	4mL	Z
+là	4mk	V
+lâche	4m5	z
+lâcher	4ns	c
+lâcheté	4oI	o
+lèvre	4ow	d
+lécher	4pN	Z
+léger	4pm	b
+légerement	4qB	1
+légitime	4q2	h
+légume	4rX	k
+léopard	4r7	m
+lévrier	4sh	o
+lézard	4tJ	i
+m	4tr	U
+ma	4t/	L
+machiavel	FY7	m
+machine	4uK	q
+machine administrative	4u0	BN
+machine à adresser	4wB	BC
+machine à écrire	4xD	4
+mackenzie	FZh	1
+macédoine	FaW	k
+macédonien	4x7	o
+macédonien	Fa6	s
+madagascar	Fbm	o
+madame	4yj	v
+mademoiselle	4zS	q
+madone	FcO	c
+madrid	Fcq	b
+maestro	4z8	2
+magasin	40y	0
+magie	41m	d
+magique	42D	r
+magnifique	42u	Bz
+magnésium	44h	s
+magnétophone	45N	1
+magnétoscope	46C	BH
+magot	47J	v
+mahomet	FdF	o
+mai	474	Y
+maigre	48Q	BA
+maille	49Q	h
+maillet	49x	h
+maillot de bain	4+S	BE
+maillot de corps	4/W	v
+main	5AF	b
+maint	5Ag	j
+maintenant	5BD	x
+maintenir	5B0	B+
+maire	5Dy	5
+mais	5Er	W
+maison	5FB	h
+maison close	5Fi	t
+maison de repos	5GP	7
+maitriser	5HK	q
+majestueux	5H0	y
+majesté	5Im	m
+majeur	5JM	Bm
+majorité	5Ky	q
+majorque	Fdt	h
+majuscule	5Lc	u
+mal	5MK	BS
+mal de lair	5Nc	x
+mal de mer	5ON	s
+malade	5O5	f
+maladie	5PY	1
+maladroit	5QN	k
+malais	5Qx	V
+malais	FeO	Z
+malaisie	Fen	g
+malaisien	5RG	k
+malaisien	FfH	o
+malard	5Rq	g
+malaria	5SK	k
+malawi	Ffv	b
+malentendu	5Su	3
+malgré	5Tl	/
+malheur	5Uk	8
+malheureusement	5Vg	BJ
+malheureux	5Wp	BM
+mali	FgK	V
+malin	5X1	Bs
+malines	Fgf	l
+malle	5Zh	c
+malsain	5Z9	6
+maltais	5a3	f
+maltais	FhE	d
+malte	Fhh	X
+maltraiter	5bW	i
+maman	5b4	w
+mamelle	5co	n
+mamelon	5dP	c
+mammifère	5dr	o
+mammon	Fh4	c
+manche	5eT	h
+manchette	5e0	l
+mandarine	5fZ	s
+mandat	5gF	j
+mandatposte	5go	z
+mandchou	5hb	m
+mandchourie	FiU	p
+mangeable	5jh	l
+manger	5kG	a
+maniable	5kg	0
+manie	5lU	g
+manier	5l0	m
+manifestation	5ma	4
+manifester	5nS	4
+manille	Fi9	b
+manitoba	FjY	i
+manière	5oK	v
+manière dêtre	5o5	8
+maniéré	5p1	k
+manne	5qZ	b
+manquant	5q0	k
+manque	5rY	/
+manquer	5sX	4
+mansarde	5tP	u
+manteau	5t9	+
+manuel	5u7	s
+manuel	5vn	e
+manège	5iB	Bg
+manœuvre	5wF	9
+manœuvrer	5xC	m
+maquereau	5xo	o
+maquillage	5yQ	n
+maquiller	5y3	f
+marais	5zW	n
+marbre	5z9	i
+marcenbarœul	Fj6	y
+marchand	50f	4
+marchander	51X	5
+marchandise	52Q	BD
+marche	53T	r
+marcher	53+	i
+marcher dans leau	54g	p
+marcher sur	55J	s
+marché	551	BV
+marcq	Fks	Z
+mardi	57K	h
+marge	57r	f
+marguerite	58K	t
+mari	583	f
+mari et femme	59W	1
+mariage	5+L	0
+mariannes	FlF	o
+marie	Flt	X
+marier	5+/	4
+marin	5/3	BI
+marionnette	6A/	v
+marié	6Bu	e
+marié	6CM	s
+mariée	6C4	f
+mariée	6DX	g
+mark	6D3	b
+maroc	FmE	b
+marocain	6ES	l
+marocain	Fmf	j
+maroni	FnC	c
+marque	6E3	d
+marquer	6FU	6
+marquis	6GO	j
+marron	6Gx	l
+marronnier	6HW	u
+mars	6IE	b
+mars	Fne	V
+marseille	Fnz	k
+marsouin	6If	p
+marte	6JI	e
+marteau	6Jm	i
+martinpêcheur	6KI	BH
+martre	6LP	h
+martyr	6Lw	j
+martyre	6MT	y
+martyre	6NF	n
+marécage	6Ns	t
+marée	6OZ	d
+marée basse	6O2	q
+marée haute	6Pg	q
+masque	6QK	d
+massacrer	6Qn	i
+masse	6RJ	BR
+masser	6Sa	a
+massif	6S0	o
+massif	6Tc	d
+massif de montagnes	6T5	BB
+matelas	6U6	k
+matelot	6Ve	p
+mater	6WH	r
+mathusalem	FoX	n
+mathématique	6Wy	t
+mathématiques	6Xf	w
+matin	6YP	h
+matinée	6Yw	j
+matière	6ZT	u
+matière plastique	6aB	2
+matériau	6a3	u
+matériel	6bl	q
+maudire	6cP	b
+maure	6cq	m
+maure	Fo+	W
+mauritanie	FpU	m
+mauritanien	6dQ	q
+mauritanien	Fp6	u
+maussade	6d6	Dy
+mauvais	6hs	BF
+maximum	6ix	l
+mayence	Fqo	g
+maçon	6jW	h
+maçonner	6j3	e
+maître	6kV	9
+maîtresse	6lS	1
+maïs	6mH	5
+me	6nA	W
+mecque	FrI	Y
+meilleur	6nW	h
+melon	6n3	h
+melon deau	6oY	v
+membre	6pH	p
+menace	6pw	o
+menacer	6qY	n
+mendiant	6q/	o
+mendier	6rn	b
+mener	6sC	n
+mensonge	6sp	m
+menstruation	6tP	3
+mensuel	6uG	j
+mensuellement	6up	w
+mental	6vZ	z
+menteur	6wM	k
+menthe	6ww	e
+mentionner	6xO	l
+mentir	6xz	n
+menton	6ya	j
+menu	6y9	c
+menuisier	6zZ	z
+mer	60M	W
+mer adriatique	60i	9
+mer baltique	61f	s
+mer caspienne	62L	w
+mer de beaufort	65V	1
+mer dirlande	64l	w
+mer du labrador	66K	4
+mer du nord	67C	r
+mer egée	627	w
+mer tyrrhénienne	63r	6
+mercerie	67t	t
+merci	68a	i
+mercredi	688	s
+mercure	69o	z
+mercure	Frg	m
+merde	6+b	d
+merlan	6+4	m
+merle	6/e	j
+merveille	7AB	u
+merveilleux	7Av	q
+mes	7BZ	M
+message	7Bl	s
+messager	7CR	3
+messie	FsG	b
+messine	Fsh	d
+mesure	7DI	BI
+mesure de largeur	7EQ	4
+mesurer	7FI	f
+mettre	7Fn	Bi
+mettre au monde	7HJ	5
+mettre daccord	7IC	6
+mettre en adjudication	7I8	BZ
+mettre en place de	7KV	7
+mettre à lentreprise	7LQ	Ba
+meuble	7Mq	s
+meubler	7NW	d
+meunier	7Nz	i
+meurtrier	7O/	r
+meurtrier	7OV	q
+meurtrir	7Pq	i
+meurtrissure	7QM	t
+meuse	Fs+	X
+mexicain	7Q5	l
+mexicain	FtV	j
+mexicaine	Ft4	p
+mexico	Fuh	i
+mexique	FvD	d
+miauler	7Re	Y
+mica	7R2	b
+microbe	7S9	r
+micromètre	7To	w
+microonde	7SR	s
+microsillon	7UY	BM
+midi	7Vk	Z
+miel	7V9	d
+miette	7Wa	e
+mieux	7W4	m
+mignon	7Xe	BC
+migraine	7Yg	w
+milan	7ZQ	f
+milan	Fvg	a
+milieu	7Zv	BM
+militaire	7a7	n
+militant	7bi	k
+mille	7cG	p
+milliard	7cv	5
+millier	7do	i
+millimètre	7eK	u
+minauderie	7e4	t
+mince	7fl	w
+mine	7gV	f
+miner	7g0	k
+minerai	7hY	i
+minerve	Fv6	f
+mineur	7h6	BI
+minimum	7jC	l
+miniscule	7jn	g
+ministre	7kH	n
+ministère	7ku	r
+minorité	7lZ	o
+minuscule	7mB	/
+minute	7nA	f
+minéral	7nf	m
+miracle	7oF	j
+miroir	7oo	y
+mise	7pa	x
+mission	7qL	k
+missionnaire	7qv	w
+misère	7rf	i
+misérable	7sB	Bd
+mite	7te	Z
+mobile	7t3	p
+mobilier	7ug	0
+moche	7vU	s
+mode	7wA	j
+modeler	7wj	p
+moderne	7xM	y
+modeste	7x+	g
+modestie	7ye	1
+modification	7zT	1
+modifier	70I	e
+modiste	70m	j
+modèle	71J	BT
+modéré	72c	u
+moi	73K	j
+moignon	73t	k
+moindre	74R	o
+moine	745	j
+moineau	75c	i
+moins	75+	b
+mois	76Z	b
+moisi	760	i
+moisir	77W	j
+moisson	775	k
+moitié	78d	f
+moldave	788	i
+moldave	FwZ	g
+moldavie	Fw5	h
+mollet	79e	e
+moluques	Fxa	f
+moluquois	798	k
+moluquois	Fx5	i
+moment	7+g	s
+mon	7/M	P
+monaco	Fyb	b
+monde	7/b	f
+mongolie	Fy2	j
+monnaie	7/6	m
+monopoliser	8Ag	x
+monotone	8BR	l
+monseigneur	8B2	x
+monsieur	8Cn	n
+monsieur	FzZ	p
+monstre	8DO	m
+mont	8D0	g
+mont cervin	8EU	z
+mont diberville	8FH	8
+montage	8GD	Be
+montagne	8Hh	8
+montagnes rocheuses	8Id	BB
+montant	8Je	r
+monter	8KJ	Bg
+monter à bicyclette	8Lp	y
+monter à cheval	8NC	6
+monter à labordage	8N8	BB
+montre	8O9	u
+montrer	8Pr	y
+monts torngat	8Qd	5
+monténégrin	8RW	z
+monténégrin	F0C	x
+monténégro	F0z	s
+monument	8SJ	o
+monégasque	8Sx	o
+monégasque	F1f	j
+moquette	8TZ	s
+moral	8UF	n
+moravie	F2C	f
+morceau	8Us	t
+mordre	8VZ	b
+more	F2h	W
+morne	8V0	BH
+morphine	8W7	v
+morphée	F23	g
+morpion	8Xq	0
+mort	8Ye	d
+mortel	8Y7	g
+mortier	8Zb	k
+morue	8Z/	l
+moscou	F3X	a
+moscovite	8ak	l
+moscovite	F3x	j
+moselle	F4U	d
+mosquée	8bJ	h
+mot	8bq	Y
+moteur	8cC	p
+motif	8cr	x
+motion	8dc	v
+moto	8eL	g
+mou	8er	U
+mouche	8e/	l
+mouchoir	8fk	r
+moudre	8gP	k
+mouette	8gz	h
+mouiller	8hU	Y
+moule	8hs	c
+moulin	8iI	g
+mourir	8io	s
+mousquet	8jU	j
+mousse	8j3	b
+moustache	8kS	n
+moustique	8k5	x
+moutarde	8lq	k
+mouton	8mO	u
+mouvement	8m8	q
+mouvoir	8nm	k
+moyen	8o+	m
+moyen	8oK	0
+moyenne	8pk	p
+moyeu	8qN	i
+moïse	F4x	Y
+muet	8qv	p
+mugir	8rY	f
+muguet	8r3	s
+mulet	8sj	c
+multicolore	8s/	w
+multiple	8tv	i
+multitude	8uR	BP
+munich	F5J	b
+municipalité	8vg	z
+munir	8wT	j
+munitions	8w2	1
+mur	8xr	a
+murmure	8yF	j
+murmurer	8yo	o
+muscle	8zQ	g
+muselière	8zw	p
+musicien	80Z	l
+musique	80+	f
+musée	81d	f
+mutiler	818	j
+mutilé	82f	q
+mycènes	F5k	e
+myope	83J	w
+myosotis	835	r
+myriapode	84k	r
+myrrhe	85P	d
+myrtille	85s	m
+mysticisme	86S	r
+mystification	869	3
+mystifier	870	BP
+mystique	89D	p
+mystique	89s	l
+mystère	8+R	m
+mystérieux	8+3	0
+mythe	8/r	b
+mythique	9AG	g
+mythologie	9Am	q
+mythologue	9BQ	m
+myxomatose	9B2	u
+mâcher	9Ck	Z
+mâchoire	9C9	r
+mâle	9Do	4
+mât	9Eg	Z
+mèche	9E5	j
+mèl	9Fc	c
+mère	9F4	e
+mètre	9GW	g
+mécanicien	9G2	p
+mécanicien aéronautique	9Hf	BZ
+mécanique	9I4	p
+méchant	9Jh	Bl
+méconnaître	9LG	9
+mécontent	9MD	BH
+médaille	9NK	h
+médecin	9Nr	w
+médicament	9Ob	z
+méditer	9PO	x
+méditerranée	F6C	1
+méduse	9P/	k
+méduse	F63	b
+méfiance	9Qj	p
+méfiant	9RM	l
+mégère	9Rx	j
+mélancolie	9SU	v
+mélancolique	9TD	BN
+mélange	9UQ	n
+mélanger	9U3	3
+mélanésie	F7S	l
+mélanésien	9Vu	p
+mélanésien	F73	t
+mélodie	9WX	5
+mélèze	9XQ	i
+mémoire	9Xy	y
+ménage	9Yk	BB
+ménager	9Zl	o
+méphistophélès	F8k	0
+mépriser	9aN	h
+mérite	9au	0
+mériter	9bi	0
+mésange	9cW	x
+mésange bleue	9dH	x
+mésopotamie	F9Y	s
+métairie	9d4	s
+métal	9ek	f
+métamorphose	9fD	Be
+méthode	9gh	i
+métier	9hD	4
+métro	9h7	u
+mêler	9ip	v
+même	9jY	BD
+mûr	9kb	3
+mûre sauvage	9lS	BJ
+mûrier	9mb	p
+mûrir	9nE	b
+mœlleux	9nf	e
+nabuchodonosor	F+E	2
+nacre	9pj	n
+nag	9qK	f
+nage	9qp	e
+nageoire	9rH	h
+nager	9ro	e
+nain	9sG	l
+naissance	9sr	l
+namur	F+6	Z
+nankin	F/T	g
+naples	F/z	Z
+napolitain	9tQ	r
+napolitain	GAM	p
+nappe	9t7	h
+nappe de table	9uc	x
+napperon	9vN	l
+narcisse	9vy	x
+nation	9wj	i
+national	9xF	j
+natter	9xo	v
+nature	9yX	g
+naturel	9y3	BT
+naturellement	90K	BB
+naufrage	91L	o
+navet	91z	f
+navette	92S	i
+naviguer	920	f
+navire	93T	n
+naître	936	k
+naïf	94e	h
+ne guère	94/	BD
+ne jamais	96C	m
+ne nullement	96o	s
+ne pas	97U	X
+ne pas séteindre	982	t
+ne plus	97r	f
+ne que	98K	s
+necessaire	99j	p
+neige	9+M	c
+neiger	9+o	a
+nemrod	GA1	f
+neptune	GBU	e
+nerf	9/C	d
+nerveux	9/f	r
+nestce pas	9n9	BA
+net	+AK	o
+nettoyer	+Ay	e
+neuf	+BQ	X
+neutre	+Bn	p
+neutron	+CQ	n
+neveu	+C3	g
+nez	+DX	Y
+nez aquilin	+Dv	x
+ni ni	+Eg	m
+nicaragua	GBy	k
+nicaraguayen	+FG	s
+nicaraguayen	GCW	q
+niche	+Fy	c
+nicher	+GO	Z
+nickel	+Gn	h
+nid	+HI	d
+nier	+Hl	U
+niger	GDA	Y
+nigeria	GDY	h
+nigérian	+H5	o
+nigérian	GD5	m
+nigérien	+Ih	k
+nigérien	GEf	o
+nil	GFH	T
+nimporte	9o9	m
+nimègue	GFa	f
+niveau	+JF	e
+nièce	+Jj	e
+noble	+KB	t
+noce	+Ku	u
+noir	+Lc	Z
+noir	GF5	X
+noircir	+L1	g
+noisette	+MV	l
+noix	+M6	l
+noix de coco	+Nf	s
+nom	+OL	o
+nombre	+Oz	r
+nombreux	+Pe	h
+nombril	+P/	k
+nommer	+Qj	Y
+non	+Q7	P
+nord	+RK	k
+nordafricain	+Sn	0
+nordafricain	GHK	y
+nordaméricain	GGQ	6
+nordcoréen	+Ru	5
+normal	+Tb	f
+normand	+T6	i
+normand	GH8	5
+norvège	GI1	h
+norvégien	+Uc	o
+norvégien	GJW	s
+norvégienne	GKC	2
+nostalgie	+VE	p
+notaire	+Vt	j
+notamment	+WQ	0
+note	+XE	w
+noter	+X0	w
+notion	+Yk	j
+nouer	+ZH	BG
+nounou	+aN	d
+nourrir	+aq	k
+nourriture	+bO	3
+nous	+cF	k
+nouveau	+cp	g
+nouveaubrunswick	GK4	6
+nouvelle	+dJ	o
+nouvelleecosse	GLy	BE
+nouvellegalles du sud	GM2	BG
+nouvelleguinée	GN8	y
+nouvelleorléans	GOu	5
+nouvellezélande	GPn	3
+novembre	+dx	o
+noyau	+eZ	z
+noyer	+fM	q
+noé	GQe	U
+nu	+f2	g
+nuage	+gW	e
+nuance	+g0	0
+nucléaire	+ho	l
+nuire	+iN	Y
+nuisible	+il	r
+nuit	+jQ	b
+nul	+jr	4
+nulle part	+kj	d
+numéro	+lA	s
+nuque	+ls	t
+nurembergeois	+mZ	y
+nylon	+nL	g
+nymphe	+nr	f
+nymphéa	+oK	o
+nègre	+oy	g
+néanmoins	+pS	BA
+nécessaire	+qS	o
+nécessité	+q6	q
+néerlandais	+rk	6
+néerlandais	GQy	r
+néerlandaise	GRd	w
+négligence	+se	BJ
+négligent	+tn	BH
+négliger	+uu	h
+négociant	+vP	5
+nématode	+wI	o
+némésis	GSN	f
+néon	+xg	e
+néozélandais	+ww	w
+néozélandais	GSs	2
+népal	GTi	Z
+népalais	+x+	j
+népalais	GT7	h
+névralgie	+yh	r
+névralgie faciale	+zM	BJ
+nœud	+0V	w
+oasis	+1F	e
+objectif	+1j	n
+objection	+2K	u
+objet	+24	x
+obligation	+3p	BV
+obligatoire	+4+	s
+obligeance	+5q	5
+obliger	+6j	y
+obliger à	+7V	p
+oblique	+7+	p
+obscur	+8n	w
+obscurcir	+9X	u
+obscurité	++F	x
+observation	++2	Ba
+observatoire	/AQ	1
+observer	/BF	u
+obstacle	/Bz	n
+obstiné	/Ca	u
+obsèques	/DI	5
+obséder	/EB	e
+obtenir	/Ef	m
+obtus	/FF	h
+obéir	/Fm	a
+obéissance	/GA	/
+obéissant	/G/	n
+occasion	/Hm	Bo
+occident	/JO	r
+occupation	/J5	9
+occuper	/K2	c
+octet	/LS	e
+octobre	/Lw	l
+océan	/MV	i
+océan antarctique	/M3	BE
+océan arctique	/N7	5
+océan atlantique	/O0	BK
+océan glacial du nord	/P+	BH
+océan pacifique	/RF	BE
+océanie	GUc	p
+odeur	/SJ	y
+odeur délétère	/S7	y
+odieux	/Tt	BW
+odorant	/VD	1
+odorat	/V4	y
+oeil	/Wq	Z
+oeuf	/XD	Z
+offenser	/Xc	u
+office	/YK	BM
+office religieux	/ZW	BG
+officiel	/ac	n
+officiel	/bD	j
+officier	/bm	l
+offre	/cL	4
+offrir	/dD	Be
+oh	/eh	Q
+ohm	/ex	X
+oie	/fI	Y
+oignon	/fg	i
+oiseau	/gC	d
+oiseaumouche	/gf	4
+oisif	/hX	Z
+oisillon	/hw	r
+olda	/ib	X
+olive	/iy	d
+olivier	/jP	n
+olympe	GVF	b
+ombre	/j2	s
+ombrelle	/ki	x
+omettre	/lT	w
+omnibus	/mD	l
+omoplate	/mo	t
+on	/nV	g
+oncle	/n1	f
+ondatra	/oU	x
+onde	/pF	b
+ondoyer	/pg	o
+onduler	/rV	2
+onduleur	/qI	BN
+ondée	/sL	g
+ongle	/sr	e
+ontario	GVg	h
+onze	/tJ	a
+onzième	/tj	k
+opinion	/uH	m
+opportun	/ut	6
+opposition	/vn	t
+opposé	/wU	+
+oppression	/xS	BJ
+opter	/yb	q
+opticien	/zF	m
+optimisme	/zr	p
+opération	/0U	BB
+opération de caisse	/1V	+
+opérer	/2T	Bv
+or	/4C	Z
+orage	/4b	e
+orange	/45	j
+orange	/5c	x
+orange	GWB	e
+oranger	/6N	r
+orateur	/64	l
+orbite	/7d	f
+orcades	GWf	u
+orchestration	/78	6
+orchestre	/82	s
+orchestrer	/9i	x
+ordinaire	/+T	1
+ordinairement	//I	BM
+ordinateur	BAAU	t
+ordonnance	BABB	3
+ordonner	BAB4	BQ
+ordre	BADI	g
+ordre du jour	BADo	BC
+ordures	BAEq	z
+oreille	BAFd	f
+oreiller	BAF8	l
+organe	BAGh	g
+organiser	BAHB	j
+organisme	BAHk	BF
+orgasme	BAIp	k
+orge	BAJN	e
+orgie	BAJr	e
+orgue	BAKJ	e
+orient	BAKn	o
+orifice	BALP	4
+original	BAMH	m
+origine	BAMt	k
+orme	BANR	b
+ornament	BANs	BB
+ornement	BAOt	BM
+orner	BAP5	t
+orphelin	BAQm	p
+orphée	GXN	d
+orteil	BARP	g
+orthodoxe	BARv	m
+orthographe	BASV	6
+ortie	BATP	f
+os	BATu	X
+oscillateur	BAUF	u
+osciller	BAUz	f
+oser	BAVS	7
+oser attaquer	BAWN	4
+oser entreprendre	BAXF	9
+osseux	BAYC	Z
+ostende	GXq	n
+ostrogoth	GYR	l
+otage	BAYb	g
+ou	BAY7	R
+ou bien	BAZM	R
+ouate	BAZd	q
+oubli	BAaH	l
+oublier	BAas	b
+ouest	BAbH	m
+ouestallemand	BAbt	0
+oui	BAch	N
+ouragan	BAcu	o
+oural	GY2	X
+ours	BAdW	a
+ourse	BAdw	f
+outil	BAeP	p
+outre	BAe4	q
+outre	BAfi	4
+ouverture	BAga	BB
+ouvrage	BAhb	BI
+ouvrier	BAij	Bc
+ouvrir	BAj/	w
+ouïe	BAkv	c
+oxygène	BAlL	m
+ozone	BAlx	d
+oïl	BAmO	P
+où	BAmd	r
+pacifique	GZN	v
+pacte	BAnI	4
+page	BAoA	a
+paille	BAoa	c
+pain	BAo2	j
+paire	BApZ	c
+paisible	BAp1	0
+paisiblement	BAqp	3
+paix	BArg	a
+pakistan	GZ8	j
+pakistanais	BAr6	p
+pakistanais	Gaf	n
+pakistanaise	GbG	6
+palais	BAsj	g
+palan	BAtD	g
+palestine	GcA	m
+palestinien	Gcm	/
+paletot	BAtj	q
+palladium	BAuN	q
+palme	BAu3	s
+palmier	BAvj	q
+palper	BAwN	f
+pamplemousse	BAws	x
+pan	BAxd	m
+pan	Gdl	U
+panam	Gd5	Y
+panama	GeR	b
+paname	Ges	Z
+panaméen	BAyD	k
+panaméen	GfF	i
+panaméenne	Gfn	t
+pandore	GgU	h
+panier	BAyn	f
+panique	BAzG	f
+panne	BAzl	f
+panneau	BA0E	BI
+panneau daffichage	BA1M	BH
+panorama	BA2T	k
+panser	BA23	n
+pantalon	BA3e	r
+panthère	BA4J	o
+pantoufle	BA4x	n
+paon	BA5Y	f
+papa	BA53	h
+paparazzo	BA6Y	h
+pape	BA65	a
+papier	BA7T	f
+papier buvard	BA7y	+
+papillon	BA8w	p
+papou	Gg1	Y
+paprika	BA9Z	l
+paquet	BA9+	z
+par	BA+x	4
+par acclamation	BA/p	4
+par alliance	BBAh	BR
+par cœur	BBBy	h
+par exemple	BBCT	3
+par hasard	BBDK	0
+par moins	BBD+	l
+par voie dadjudication	BBEj	BC
+parachute	BBFl	q
+parader	BBGP	s
+paradis	BBG7	l
+paradoxe	BBHg	o
+parages	BBII	w
+parallèle	BBI4	m
+paralyser	BBJe	j
+parapluie	BBKB	q
+paraître	BBKr	BT
+parc	BBL+	c
+parce que	BBMa	BH
+parcourir	BBNh	8
+pardessus	BBOd	u
+pardon	BBPL	w
+pardonner	BBP7	q
+parebrise	BBQl	s
+parechocs	BBRR	z
+pareil	BBSE	s
+pareillement	BBSw	2
+parent	BBTm	l
+parente	BBUL	3
+parenthèse	BBVC	BP
+parents	BBWR	h
+parer	BBWy	/
+parfait	BBXx	g
+parfois	BBYR	x
+parfum	BBZC	j
+parfumer	BBZl	g
+parier	BBaF	f
+paris	GhN	Y
+parisien	Ghl	m
+parlement	BBak	u
+parler	BBbS	g
+parler à	BBby	k
+parmi	BBcW	CA
+paroi	BBeW	e
+paroisse	BBe0	j
+parole	BBfX	i
+parquet	BBf5	BU
+parrain	BBhN	n
+parsemer	BBh0	1
+part	BBip	3
+partager	BBjg	x
+parterre	BBkR	n
+parthe	GiL	c
+parti	BBk4	B/
+parti aux bénéfices	BBm3	t
+participant	BBoS	s
+participation aux bénéfices	BBo+	BI
+participe	BBqG	r
+participer	BBqx	6
+particulier	BBrr	BF
+particulièrement	BBsw	Br
+partie	BBub	7
+partipris	BBnk	u
+partir	BBvW	B2
+partisan	BBxM	2
+partisan de la même doctrine	BByC	BR
+partout	BBzT	t
+parure	BB0A	6
+parvenir	BB06	Bz
+pas	BB2t	m
+pas	BB3T	T
+pas du tout	BB3m	g
+passablement	BB4G	BH
+passage	BB5N	o
+passage piéton	BB51	/
+passager	BB60	n
+passant	BB7b	n
+passant	BB8C	e
+passe lower	Gin	o
+passeport	BB8g	q
+passer	BB9K	Be
+passer chez	BB+o	3
+passer la nuit	BB/f	BA
+passer à tabac	BCAf	n
+passereau	BCBG	n
+passif	BCBt	d
+passion	BCCK	q
+passionnant	BCC0	BG
+passé	BCD6	o
+pasteur	BCEi	z
+patauger	BCFV	p
+patience	BCF+	n
+patient	BCGl	l
+patin	BCHK	g
+patriote	BCHq	n
+patron	BCIR	BU
+patte	BCJl	Z
+paume	BCJ+	b
+paupière	BCKZ	l
+pause	BCK+	4
+pauvre	BCL2	BV
+pavillon	BCNL	BH
+pavot	BCOS	d
+pavé	BCOv	f
+paye	BCPO	d
+payer	BCPr	W
+payer un premier acompte	BCQB	Bc
+pays	BCRd	k
+pays de galles	BCSB	s
+paysage	BCSt	v
+paysan	BCTc	9
+paysbas	GjP	z
+peau	BCUZ	j
+peau de vache	BCU8	s
+peigne	BCVo	e
+peigner	BCWG	a
+peindre	BCWg	d
+peine	BCW9	Bp
+peiner	BCYm	w
+peintre	BCZW	l
+peinture	BCZ7	p
+peiné	BCak	Z
+pelage	BCa9	q
+pelle	BCbn	d
+pelleter	BCcE	f
+pellicule	BCcj	Ba
+pelouse	BCd9	f
+peluche	BCec	z
+pencher	BCfP	d
+pendant	BCfs	BA
+pendant que	BCgs	BH
+pendre	BChz	i
+pendule	BCiV	p
+penible	BCi+	2
+penser	BCj0	b
+penser que	BCkP	4
+pension	BClH	BZ
+pension alimentaire	BCmg	BA
+pension de famille	BCng	BS
+pensionnat	BCoy	BD
+pensée	BCp1	v
+pentateuque	GkC	p
+pente	BCqk	z
+pentecôte	Gkr	z
+perceneige	BCrX	u
+percer	BCsF	h
+percevoir	BCsm	1
+perche	BCtb	w
+perclus	BCuL	t
+perdre	BCu4	b
+perdrix	BCvT	n
+perfection	BCv6	x
+perfide	BCwr	BA
+peril	BCxr	7
+perle	BCym	p
+perluète	BCzP	q
+permanent	BCz5	B9
+permettre	BC12	BB
+permis	BC23	m
+permission	BC3d	BL
+perpétuel	BC4o	BQ
+perroquet	BC54	o
+perruque	BC6g	r
+persan	BC7L	i
+persan	Gle	g
+persane	Gl+	l
+perse	Gmj	j
+persil	BC7t	i
+persister	BC8P	BO
+person de connaissance	BC9d	BD
+personnage	BC+g	6
+personne	BC/a	6
+personne	BDAU	l
+personne qui ne boit jamais dalcool	BDA5	Bs
+personnel	BDCl	s
+perspective	BDDR	x
+persuader	BDEC	k
+perséverer	BDEm	7
+persévérer	BDFh	BH
+perte	BDGo	d
+pertinence	BDHF	u
+perturber	BDHz	+
+pervenche	BDIx	t
+perçant	BDJe	Bf
+pesanteur	BDK9	r
+peser	BDLo	Y
+pessimisme	BDMA	r
+pessimiste	BDMr	l
+pestilentiel	BDNQ	r
+pet	BDN7	Z
+petit	BDOU	u
+petit déjeuner	BDPC	0
+petit pain	BDP2	n
+petit poucet	GnG	o
+petit à petit	BDQd	/
+petitfils	BDRc	v
+peu de	BDSL	i
+peu à peu	BDSt	3
+peuple	BDTk	u
+peuplier	BDUS	k
+peur	BDU2	o
+peureux	BDVe	5
+peutêtre	BDWX	BP
+phare	BDXm	y
+pharmacie	BDYY	4
+pharmacien	BDZQ	o
+phase	BDZ4	i
+philippin	BDaa	n
+philippin	Gnu	j
+philippine	GoR	q
+philippines	Go7	6
+philosophie	BDbB	r
+phonographe	BDbs	BW
+phoque	BDdC	m
+phosphore	BDdo	q
+photo	BDeS	h
+photographe	BDez	p
+photographie	BDfc	v
+photographier	BDgL	r
+phrase	BDg2	h
+physique	BDhX	i
+phénix	BDh5	h
+phénomène	BDia	t
+piaf	BDjH	i
+piailler	BDjp	t
+piano	BDkW	e
+pichet	BDk0	n
+pie	BDlb	Z
+pierre	BDl0	g
+pieu	BDmU	y
+pieuvre	BDnG	j
+pieux	BDnp	Z
+pigeon	BDoC	p
+pile	BDor	Bn
+piler	BDqS	e
+pilier	BDqw	o
+piller	BDrY	f
+pilote de ligne	BDr3	4
+piloter	BDsv	c
+pilule	BDtL	d
+piment	BDto	p
+pin	BDuR	m
+pinceau	BDu3	n
+pincer	BDve	b
+pinces	BDv5	r
+pinson	BDwk	o
+pintade	BDxM	o
+pintarde	BDx0	p
+pioche	BDyd	i
+pionnier	BDy/	l
+pipe	BDzk	Z
+piquant	BDz9	t
+piquer	BD0q	4
+piqûre	BD1i	v
+pirate	BD2R	h
+pirate de lair	BD2y	/
+pire	BD3x	Y
+pis	BD4J	Z
+piscine	BD4i	8
+pissenlit	BD5e	q
+pisser	BD6I	a
+piste	BD6i	BU
+piste cyclable	BD72	x
+pistil	BD8n	h
+pistolet	BD9I	x
+piston	BD95	j
+pitance	BD+c	h
+pitié	BD+9	p
+pittoresque	BD/m	r
+pivot	BEAR	d
+pièce	BEAu	Bf
+pièce de théâtre	BECN	BB
+piège	BEDO	m
+piétiner	BED0	q
+piéton	BEEe	o
+placard	BEFG	BV
+place	BEGb	BX
+placer	BEHy	h
+placer dargent	BEIT	t
+plafond	BEJA	l
+plage	BEJl	d
+plaider	BEKC	h
+plaie	BEKj	0
+plaindre	BELX	y
+plaine	BEMJ	e
+plainte	BEMn	BO
+plaire	BEN1	b
+plaisir	BEOQ	r
+plan	BEO7	/
+planche	BEP6	8
+plancher	BEQ2	l
+planer	BERb	z
+plante	BESO	r
+plante du pied	BES5	s
+planter	BETl	d
+planète	BEUC	j
+plaque	BEUl	q
+plastique	BEVP	i
+plat	BEVx	r
+plat	BEWc	o
+platane	BEXE	3
+plateau	BEZN	s
+platebande	BEX7	p
+plateforme	BEYk	p
+platine	BEZ5	k
+platon	Gp1	c
+plein	BEad	a
+pleur	BEa3	e
+pleurer	BEbV	s
+pleuvoir	BEcB	e
+pli	BEcf	Z
+plier	BEc4	W
+plinthe	BEdO	q
+plomb	BEd4	e
+plombier	BEeW	n
+plonger	BEe9	l
+plongé dans	BEfi	w
+ployer	BEgS	Z
+pluie	BEgr	c
+plume	BEhH	e
+plupart	BEhl	x
+plus	BEiW	2
+plus loin	BEjM	v
+plusieurs	BEj7	e
+plusieurs fois	BEkZ	p
+pluton	GqR	c
+plutonium	BElC	r
+plutôt	BElt	BL
+poche	BEm4	e
+poids	BEnW	d
+poids lourd	BEnz	t
+poignet	BEog	i
+poignée	BEpC	w
+poignée de main	BEpy	1
+poil	BEqn	b
+poil danimal	BErC	2
+poilu	BEr4	i
+poing	BEsa	e
+point	BEs4	3
+point culminant	BEtv	y
+point de contact	BEuh	/
+point de vue	BEvg	v
+point du jour	BEwP	3
+pointe	BExG	z
+pointu	BEx5	o
+pointure	BEyh	k
+poinçon	BEzF	t
+poire	BEzy	c
+poireau	BE0O	h
+poirier	BE0v	l
+pois	BE1U	Y
+poison	BE1s	j
+poisson	BE2P	i
+poitrail	BE2x	m
+poitrine	BE3X	y
+poivre	BE4J	h
+poivron	BE4q	x
+poli	BE5b	BL
+police	BE6m	g
+policier	BE7G	o
+polir	BE7u	b
+politesse	BE8J	q
+politique	BE8z	v
+pollution atmosphérique	BE9i	BK
+pologne	Gqt	d
+polonais	BE+s	h
+polonais	GrK	d
+polonaise	Grn	n
+polynésie	GsO	l
+polynésien	BE/N	p
+polynésien	Gsz	t
+polémique	BE/2	r
+pommade	BFAh	q
+pomme	BFBL	c
+pomme de pin	BFBn	q
+pomme de terre	BFCR	u
+pommier	BFC/	m
+pompe	BFDl	BF
+pomper	BFEq	a
+pompette	BFFE	h
+pompier	BFFl	l
+poméranie	Gtg	m
+ponceuse	BFGK	2
+ponctualité	BFHA	z
+ponctuation	BFHz	BC
+ponctuel	BFI1	BB
+pont	BFJ2	p
+pont aérien	BFKf	4
+ponteuxine	GuG	5
+populaire	BFLX	k
+population	BFL7	u
+porc	BFMp	y
+port	BFNb	7
+porte	BFOW	d
+porte document	BFQX	6
+porteclés	BFOz	r
+portefenêtre	BFPe	5
+portefeuille dactions	BFSI	BH
+portemonnaie	BFRR	3
+porter	BFTP	h
+porter plainte	BFTw	t
+porteur	BFUd	m
+portion	BFVD	1
+porto	Gu/	b
+portrait	BFV4	o
+portugais	BFWg	9
+portugais	Gva	s
+portugaise	GwG	z
+portugal	Gw5	p
+poser	BFXd	CH
+poser une question	BFZk	+
+poseur	BFai	x
+positif	BFbT	h
+position	BFb0	o
+possession	BFcc	BQ
+possible	BFds	h
+posséder	BFeN	k
+poste	BFex	i
+poste	BFfT	0
+poste aérienne	BFgH	x
+pot	BFg4	v
+potable	BFhn	h
+potage	BFiI	e
+potassium	BFim	p
+poteau	BFjP	1
+potiron	BFkE	3
+pou	BFk7	Z
+pouah	BFlU	S
+poubelle	BFlm	w
+pouce	BFmW	c
+poudre	BFmy	w
+poudre à canon	BFni	z
+poulailler	BFoV	j
+poule	BFo4	j
+poulet	BFpb	m
+poulpe	BFqB	g
+pouls	BFqh	b
+poumon	BFq8	g
+poupée	BFrc	l
+pour	BFsB	t
+pour ainsi dire	BFsu	t
+pour combien de temps	BFtb	1
+pour la plus part	BFuQ	BK
+pour que	BFva	f
+pour toutes sortes de raisons	BFv5	BL
+pourboire	BFxE	j
+pourcentage	BFxn	6
+pourchasser	BFyh	BA
+pourpre	BFzh	f
+pourquoi	BF0A	e
+pourrir	BF0e	j
+poursuivre	BF1B	Bk
+pourtant	BF2l	7
+pourvoir	BF3g	p
+pousser	BF4J	BK
+pousser à	BF5T	BN
+poussette	BF6g	n
+poussin	BF7H	r
+poussière	BF7y	k
+poutre	BF8W	m
+pouvoir	BF88	h
+poème	BF9d	e
+poète	BF97	e
+poésie	BF+Z	h
+poêle	BF+6	v
+prague	Gxi	a
+prairie	BF/p	j
+pratique	BGAM	l
+pratiquer	BGAx	1
+premier	BGBm	f
+premier acompte	BGCF	Bo
+prendre	BGDt	5
+prendre dans les bras	BGEm	6
+prendre fin	BGFg	BG
+prendre la crémaillère	BGHm	BS
+prendre linitiative	BGGm	BA
+prendre part	BGI4	BA
+prendre à bail	BGJ4	x
+prescription	BGKp	BQ
+prescrire	BGL5	z
+presque	BGOH	BI
+presquîle	BGNc	r
+presse	BGPP	f
+presser	BGPu	By
+presser le pas	BGRg	8
+pression	BGSc	p
+pression atmosphérique	BGTF	BI
+prestation	BGUN	z
+prestige	BGVA	6
+preuve	BGV6	s
+prier	BGWm	9
+primaire	BGXj	x
+prime	BGYU	x
+primeur	BGZF	m
+primevère	BGZr	s
+prince	BGaX	j
+princesse	BGa6	q
+principal	BGbk	Bh
+principalement	BGdF	Bi
+principe	BGen	q
+printemps	BGfR	2
+prise	BGgH	3
+prise de courant	BGg+	9
+prise de courant femelle	BGh7	BM
+prise de courant mâle	BGjH	BT
+prise téléphonique	BGka	BB
+prison	BGlb	6
+prisonnier	BGmV	r
+privation	BGnA	BH
+privilège	BGoH	t
+privilégié	BGo0	t
+privé	BGph	e
+prix	BGp/	x
+prière	BGqw	j
+probablement	BGrT	u
+problème	BGsB	x
+procession	BGsy	v
+processus	BGth	o
+prochain	BGuJ	5
+prochaine	BGvC	2
+proche	BGv4	x
+procheorient	Gx8	0
+proches	BGwp	x
+proclamer	BGxa	q
+procuration	BGyE	BG
+procurer	BGzK	By
+procureur	BG08	1
+procès	BG1x	s
+procèsverbal	BG2d	BH
+procéder	BG3k	m
+procédé	BG4K	Bh
+prodigieux	BG5r	5
+prodiguer	BG6k	f
+production	BG7D	v
+produire	BG7y	w
+produit	BG8i	Bn
+produit agricole	BG+J	BE
+professeur	BG/N	u
+profession	BG/7	v
+profit	BHAq	n
+profiter	BHBR	f
+profond	BHBw	p
+profondeur	BHCZ	r
+prognostic	BHDE	3
+programme	BHD7	q
+progresser	BHEl	v
+progrès	BHFU	+
+proie	BHGS	c
+projectile	BHGu	1
+projet	BHHj	BD
+projeter	BHIm	+
+projeter un liquide	BHJk	1
+projeter une image	BHKZ	z
+prologue	BHLM	o
+prolonger	BHL0	n
+prolétaire	BHMb	x
+promenade	BHNM	9
+promeneur	BHOJ	x
+promesse	BHO6	z
+promettre	BHPt	j
+promoteur	BHQQ	5
+promotion	BHRJ	u
+promouvoir	BHR3	v
+prompt	BHSm	7
+pronom	BHTh	m
+prononcer	BHUH	m
+prononciation	BHUt	6
+propagande	BHVn	5
+propager	BHWg	u
+prophète	BHXO	n
+propice	BHX1	BI
+proportion	BHY9	4
+propos	BHZ1	z
+proposition	BHao	BU
+propre	BHb8	+
+proprement	BHc6	CA
+propreté	BHe6	1
+propriétaire	BHfv	BF
+propriété	BHg0	Bc
+propriété foncière	BHiQ	BW
+prospectus	BHjm	v
+prospérer	BHkV	y
+prospérité	BHlH	5
+prostituer	BHmA	n
+prostitution	BHmn	1
+prostituée	BHnc	BB
+protagoniste	BHod	u
+protecteur	BHpL	BA
+protection	BHqL	w
+protestant	BHq7	w
+protestation	BHrr	x
+protester	BHsc	j
+protocole	BHs/	z
+proton	BHty	k
+prototype	BHuW	q
+protée	Gyw	e
+protéger	BHvA	BM
+protéine	BHwM	m
+prouver	BHwy	b
+provenir	BHxN	BD
+proverbe	BHyQ	v
+province	BHy/	o
+provision	BHzn	p
+provisoire	BH0Q	2
+provoquer	BH1G	w
+prudence	BH12	BB
+prudent	BH23	BQ
+prune	BH4H	c
+prusse	GzO	b
+prussien	BH4j	h
+prussien	Gzp	l
+près	BH5E	t
+près de	BH5x	BD
+pré	BH60	d
+précaution	BH7R	Bb
+précieux	BH8s	i
+précipitation	BH9O	4
+précipiter	BH+G	8
+précis	BH/C	p
+précisément	BH/r	3
+précoce	BIAi	g
+précédement	BIBC	3
+précédent	BIB5	BP
+précéder	BIDI	i
+prédire	BIDq	1
+préface	BIEf	l
+préfixe	BIFE	l
+préférer	BIFp	i
+préjudice	BIGL	8
+préjugé	BIHH	r
+prélever	BIHy	s
+prématuré	BIIe	n
+prénom	BIJF	+
+préoccuper	BIKD	s
+préparatif	BIKv	BF
+préparation	BIL0	0
+préparer	BIMo	i
+préposition	BINK	z
+présence	BIN9	p
+présent	BIOm	BB
+présentation	BIPn	BB
+présenter	BGMs	w
+présenter	BIQo	BJ
+préservatif	BIRx	BK
+préserver	BIS7	8
+président	BIT3	3
+présider	BIUu	h
+prétendre à	BIVP	8
+prétexte	BIWL	p
+prétexter	BIW0	4
+prévenir	BIXs	j
+prévisible	BIYP	3
+prévoir	BIZG	BH
+prêcher	BIaN	f
+prêt	BIas	t
+prêter	BIbZ	p
+prêter attention à	BIcC	Bp
+prêter serment	BIdr	u
+prêtre	BIeZ	6
+prôner	BIfT	f
+psaume	BIfy	e
+pseudonyme	BIgQ	s
+psychiatre	BIg8	u
+psychiatrie	BIhq	t
+psychique	BIiX	i
+psychisme	BIi5	m
+psychologie	BIjf	t
+psychologue	BIkM	v
+ptolémée	G0O	i
+public	BIk7	h
+publicité	BIlc	BK
+publier	BImm	BM
+puce	BIny	Z
+puis	BIoL	r
+puiser	BIo2	Z
+puisque	BIpP	BK
+puissance	BIqZ	BN
+puissant	BIrm	x
+puits	BIsX	c
+puits de mine	BIsz	3
+pullover	BItq	4
+pulpe	BIui	b
+puma	BIu9	y
+punaise	BIvv	m
+punir	BIwV	a
+punition	BIwv	q
+pupitre	BIxZ	3
+pur	BIyQ	BV
+purifier	BIzl	6
+purin	BI0f	8
+purée	BI1b	q
+pus	BI2F	X
+putain	BI2c	0
+puzzle	BI3Q	w
+pygmée	BI4A	g
+pyjama	BI4g	i
+pyramide	BI5C	l
+pâle	BI5n	f
+pâlir	BI6G	Z
+pâquerette	BI6f	o
+pâques	G0w	Z
+pâris	G1J	Z
+pâte	BI7H	i
+pâtisserie	BI7p	BH
+pâtre	BI8w	i
+pâturage	BI9S	w
+pâture	BI+C	5
+pâté	BI+7	i
+père	BI/d	f
+père adoptif	BI/8	2
+père et mère	BJAy	p
+pécher	BJBb	k
+péché	BJB/	t
+pédale	BJCs	f
+pédale daccélération	BJDL	BZ
+pégase	G1i	c
+pékin	G1+	l
+pélargonium	BJEk	w
+pélican	BJFU	n
+pénible	BJF7	4
+péniblement	BJGz	BZ
+péniche	BJIM	u
+péninsule	BJI6	r
+péninsule ministikawatin	G2j	BU
+pénis	BJJl	e
+pénélope	G33	j
+pénétrer	BJKD	k
+pépier	BJKn	p
+pépin	BJLQ	v
+périlleux	BJL/	BK
+période	BJNJ	k
+périr	BJNt	c
+pérou	G4a	Y
+pérégriner	BJOJ	w
+pétale	BJO5	g
+péter	BJPZ	X
+pétrir	BJPw	d
+pétrole	BJQN	1
+pêche	BJRC	e
+pêcher	BJRg	a
+pêcheur	BJR6	p
+pêcheur à la ligne	BJSj	5
+pôle	BJTc	b
+qu	BJT3	S
+quai	BJUx	r
+qualifier	BJVc	g
+qualifié	BJV8	4
+qualité	BJW0	t
+quand	BJXh	a
+quant à	BJX7	8
+quant à moi	BJY3	y
+quantité	BJZp	o
+quarante	BJaR	h
+quart	BJay	e
+quartier	BJbQ	+
+quartz	BJcO	n
+quatorze	BJc1	j
+quatorzième	BJdY	t
+quatre	BJeF	a
+quatrevingtdix	BJef	4
+quatrevingts	BJfX	n
+quatrième	BJf+	k
+que	BJgi	f
+quel	BJhB	c
+quelconque	BJhd	r
+quelle	BJiI	S
+quelle heure	BJia	i
+quelle heure estil	BJi8	8
+quelles	BJj4	f
+quelque	BJlZ	j
+quelque chose	BJl8	u
+quelque part	BJmq	t
+quelquefois	BJnX	y
+quelques uns	BJoJ	l
+quelquun	BJkX	BC
+quels	BJou	d
+querelle	BJpL	l
+questce qui	BJUJ	o
+question	BJpw	o
+queue	BJrO	s
+qui	BJr6	Y
+qui a raison	BJsS	o
+qui reste	BJs6	0
+quiet	BJtu	f
+quinze	BJuN	e
+quittance	BJur	n
+quitter	BJvS	5
+quoi	BJwL	X
+quoique	BJwi	n
+quotidien	BJxJ	9
+quotidien	BJyG	p
+quotidiennement	BJyv	v
+québec	G4y	c
+quête	BJqY	2
+rabais	BJze	2
+rabbin	BJ0U	i
+rabot	BJ02	e
+raccommoder	BJ1U	7
+raccourcir	BJ2P	6
+race	BJ3J	h
+racine	BJ3q	e
+raconter	BJ4I	w
+radeau	BJ44	e
+radiateur	BJ5W	r
+radical	BJ6B	BP
+radio	BJ7Q	o
+radis	BJ74	e
+radium	BJ8W	j
+radon	BJ85	h
+raffiner	BJ9a	e
+rafle	BJ94	c
+rafler	BJ+U	Z
+rafraîchir	BJ+t	o
+rage	BJ/V	d
+ragoût	BJ/y	n
+raide	BKAZ	1
+raidir	BKBO	m
+raie	BKB0	BQ
+raifort	BKDE	4
+rail	BKD8	b
+railler	BKEX	j
+rainure	BKE6	h
+raisin	BKFb	j
+raison	BKF+	2
+raisonnable	BKG0	B6
+rajouter	BKIu	d
+ralentir	BKJL	l
+ramadan	BKJw	n
+ramasser	BKKX	Be
+rame	BKL1	l
+rameau	BKMa	d
+rameaux	G5O	g
+ramer	BKM3	W
+rammasser	BKNN	1
+rampe	BKOC	BB
+ramper	BKPD	j
+rancune	BKPm	5
+rand	BKQf	d
+randonnée	BKQ8	BG
+rang	BKSC	BH
+rangement	BKTJ	0
+ranger	BKT9	z
+rangée	BKUw	5
+rançon	BKVp	m
+rapide	BKWP	4
+rapidement	BKXH	BI
+rapides deschênes	BKYP	6
+rapides norman	BKZJ	y
+rapides remic	BKZ7	v
+rapidité	BKaq	l
+rapiécer	BKbP	w
+rappeler	BKb/	e
+rapper	BKcd	X
+rapport	BKc0	BF
+rapporter	BKd5	z
+rapporter des propos	BKes	6
+rapprochement	BKfm	6
+rapprocher	BKgg	BG
+rapsodie	BKhm	m
+rapt	BKiM	t
+rare	BKi5	n
+rarement	BKjg	k
+raser	BKkE	Y
+rasoir	BKkc	i
+rassasié	BKk+	0
+rassembler	BKly	By
+rassis	BKnk	b
+rassurer	BKn/	BJ
+rat	BKpI	Y
+rat musqué	BKpg	0
+rater	BKqU	X
+ration	BKqr	i
+rationnel	BKrN	m
+ratisbonne	G5u	l
+raton laveur	BKrz	BB
+rattraper	BKs0	2
+rauque	BKtq	b
+ravage	BKuF	m
+ravager	BKur	x
+ravin	BKvc	i
+ravir	BKv+	4
+ravissant	BKw2	/
+ravisseur	BKx1	o
+ravitaillement	BKyd	BU
+rayer	BKzx	p
+rayon	BK0a	8
+rayon de rangement	BK1W	BB
+rayon de soleil	BK2X	4
+rayonnement	BK3P	/
+rayonner	BK4O	h
+rayure	BK4v	BD
+rebelle	BK5y	BF
+rebondir	BK63	l
+recensement	BK7c	0
+receptionniste	BK8Q	3
+recette	BK9H	Bm
+recevabilité	BK+t	4
+recevoir	BK/l	BL
+recevoir des visiteurs	BLAw	BI
+recevoir officiellement	BLB4	BJ
+recevoir solennellement	BLDB	BG
+recherche	BLEH	Bb
+rechercher	BLFi	BH
+recommandable	BLGp	0
+recommandation	BLHd	Bm
+recommander	BLJD	z
+recommandé	BLJ2	t
+recommencer	BLKj	n
+reconduire	BLLK	BL
+reconnaissance	BLMV	CQ
+reconnaissant	BLOl	u
+reconnaître	BLPT	B1
+record	BLRI	k
+recourir à	BLRs	o
+recours	BLSU	u
+recouvrer	BLTC	j
+recouvrir	BLTl	s
+recruter	BLUR	i
+rectangle	BLUz	3
+rectifier	BLVq	BT
+recueiller	BLW9	6
+recueillir	BLX3	BE
+reculer	BLY7	CH
+redire	BLbC	d
+redoubler	BLbf	/
+redoutable	BLce	o
+redouter	BLdG	BB
+redresser	BLeH	k
+redresser un jugement	BLer	BK
+refaire	BLf1	k
+reflet	BLgZ	m
+refléter	BLg/	j
+reformer	BLhi	i
+refroidir	BLiE	v
+refuge	BLiz	BM
+refuser	BLj/	m
+regagner	BLkl	BD
+regard	BLlo	h
+regarder	BLmJ	BH
+regarder bouche bée	BLnQ	0
+regarder un spectacle	BLoE	6
+regret	BLo+	k
+regretter	BLpi	Bw
+reims	G6T	a
+rein	BLrS	f
+reine	BLrx	d
+reins	BLsO	d
+rejeter	BLsr	BX
+rejeter de la nourriture	BLuC	BI
+rejeter par intolérance	BLvK	BI
+rejoindre	BLwS	0
+relatif	BLxG	j
+relatif à la maison	BLxp	5
+relation	BLyi	CB
+relativ	BL0j	j
+relativement	BL1G	/
+relier	BL2F	9
+religieux	BL3C	o
+religion	BL3q	r
+reliquat	BL4V	m
+relire	BL47	7
+rellier	BL52	k
+relâcher	BL6a	v
+remaniement	BL7J	BM
+remarquable	BL8V	4
+remarque	BL9N	/
+remarquer	BL+M	j
+rembourrer	BL+v	z
+rembourser	BL/i	k
+remerciement	BMAG	8
+remercier	BMBC	j
+remise	BMBl	BF
+remonter	BMCq	r
+remorque	BMDV	n
+remplacement	BMD8	3
+remplacer	BMEz	BI
+remplaçant	BMF7	BE
+remplir	BMG/	Bv
+remporter	BMIu	Bc
+remuer	BMKK	BN
+remède	BMLX	Bb
+remédier	BMMy	r
+renard	BMNd	g
+renarde	BMN9	j
+rencontre	BMOg	BS
+rencontrer	BMPy	Bp
+rendezvous	BMRb	BF
+rendre	BMSg	+
+rendre confus	BMTe	Bf
+rendre plus beau	BMU9	w
+rendre trouble	BMVt	Bf
+renfermer	BMXM	5
+rennomée	BMYF	BO
+renommée	BMZT	z
+renoncer	BMaG	+
+renouvelable	BMbE	4
+renouveler	BMb8	j
+renseignement	BMcf	CF
+renseigner	BMek	3
+rentable	BMfb	n
+rente	BMgC	o
+rentrée	BMgq	n
+renverser	BMhR	BA
+renvoyer	BMiR	CF
+repas	BMkW	e
+repasser	BMk0	r
+reporter	BMlf	l
+repos	BMmE	CL
+repoussant	BMoP	l
+repousser	BMo0	B6
+reprendre	BMqu	Bp
+reprise	BMsX	j
+reproche	BMs6	q
+reprocher	BMtk	BF
+représentant	BMup	Bc
+représentatif	BMwF	y
+représentation	BMw3	+
+représenter	BMx1	BY
+requin	BMzN	j
+requérir	BMzw	q
+requête	BM0a	t
+respect	BM1H	l
+respecter	BM1s	BM
+respectif	BM24	q
+respiration	BM3i	BB
+respirer	BM4j	i
+respondre	BM5F	1
+responsable	BM56	8
+ressembler	BM62	z
+ressentir	BM7p	q
+ressort	BM8T	l
+ressource	BM84	5
+restant	BM9x	6
+restaurant	BM+r	x
+restaurer	BM/c	o
+reste	BNAE	u
+rester	BNAy	t
+rester en arrière	BNBf	BS
+retard	BNCx	i
+retarder	BNDT	z
+retenir	BNEG	Cp
+retirer	BNGv	BF
+retomber	BNH0	z
+retour	BNIn	j
+retourner	BNJK	Bd
+retraite	BNKn	z
+retraité	BNLa	w
+retrancher	BNMK	Bm
+revanche	BNNw	z
+revendication	BNOj	7
+revenir	BNPe	s
+revenir toujours sur la même chapitre	BNQK	CM
+revenir à	BNSW	j
+revenu	BNS5	s
+revoir	BNTl	u
+revolver	BNUT	p
+revue	BNU8	1
+revêtir	BNVx	BT
+rezdechaussée	BNXE	+
+reçu	BNYC	y
+rhin	G6t	Y
+rhinocéros	BNY0	2
+rhododendron	BNZq	BF
+rhodésie	G7F	h
+rhubarbe	BNav	l
+rhum	BNbU	b
+rhumatisme	BNbv	s
+rhume	BNcb	q
+rhénan	BNdF	n
+rhénanie	G7m	i
+rhône	G8I	Y
+ricaner	BNds	c
+richard	G8g	f
+riche	BNeI	2
+richesse	BNe+	BH
+ride	BNgF	m
+rideau	BNgr	h
+rider	BNhM	i
+ridicule	BNhu	l
+rien	BNiT	r
+rigide	BNi+	k
+rigoureux	BNji	x
+rime	BNkT	b
+rincer	BNku	k
+rire	BNlS	X
+risque	BNlp	m
+risque daccident	BNmP	2
+risquer	BNnF	r
+rite	BNnw	b
+rival	BNoL	f
+rivaliser	BNoq	p
+rivet	BNpT	f
+rivière	BNpy	k
+rivière again	BNqW	2
+rivière atabasca	BNrM	5
+rivière bujeault	BNsF	9
+rivière churchill	G8/	BG
+rivière de la paix	BOIi	9
+rivière des outaouais	BOJf	BB
+rivière du détour	BOKg	+
+rivière du petit mécatina	BOLe	BW
+rivière harricana	BNtC	BB
+rivière joir	BNuD	0
+rivière kachekaosipou	BNu3	BL
+rivière kedgwick	BNwC	BK
+rivière madawaska	BNxM	BB
+rivière magusi	BNyN	3
+rivière mercereau	BNzE	BD
+rivière napetipi	BN0H	/
+rivière natashquan	BN1G	BE
+rivière natashquan est	BN2K	BQ
+rivière patapédia	BN3a	BC
+rivière piscapecassy	BN4c	BL
+rivière rigaud	BN5n	3
+rivière rigaud est	BN6e	BE
+rivière rimouski	BN7i	+
+rivière ristigouche	BN8g	BG
+rivière saguenay	BN9m	/
+rivière saintaugustin	BN+l	BH
+rivière saintfrançois	BN/s	BJ
+rivière saintjean	BOA1	BQ
+rivière saintpaul	BOCF	BQ
+rivière saskachewan nord	BODV	Bu
+rivière saskachewan sud	BOFD	Br
+rivière turcotte	BOGu	+
+rivière verte	BOHs	2
+rivière à la pluie	BOM0	+
+riz	BONy	Z
+robe	BOOL	o
+robinet	BOOz	p
+robot	BOPc	e
+robuste	BOP6	u
+roc	BOQo	b
+rocher	BORD	u
+roder	BORx	x
+rognon	BOSi	y
+roi	BOTU	a
+romain	G+F	c
+roman	BOTu	h
+romantique	BOUP	o
+rome	G+h	W
+rompre	BOU3	d
+rond	BOVU	f
+ronde	BOWx	t
+rondpoint	BOVz	+
+ronfler	BOXe	e
+ronger	BOX8	k
+ronronner	BOYg	n
+rose	BOZH	m
+roseau	BOZt	k
+rosier	BOaR	t
+rosse	BOa+	j
+rosse	BObh	j
+rosser	BOcE	a
+rossignol	BOce	t
+rosée	BOdL	c
+roter	BOdn	f
+roucouler	BOeG	d
+roudin	BOej	j
+roue	BOfG	a
+rouge	BOfg	Y
+rouget	BOf4	i
+rougir	BOga	c
+rouille	BOg2	d
+rouleau	BOhT	f
+rouler	BOhy	z
+roulure	BOil	p
+roumain	BOjO	s
+roumain	G+3	g
+roumaine	G/X	m
+roumanie	G/9	f
+rouspéter	BOj6	i
+route	BOkc	+
+route aérienne	BOla	v
+routine	BOmJ	i
+royal	BOmr	j
+royaume	BOnO	k
+ruban	BOny	i
+rubicon	HAc	h
+rubidium	BOoU	o
+rubrique	BOo8	s
+ruche	BOpo	f
+rucher	BOqH	b
+rude	BOqi	n
+rue	BOrJ	a
+ruelle	BOrj	l
+ruine	BOsI	d
+ruiner	BOsl	a
+ruisseau	BOs/	k
+ruisseau armstrong	BOtj	/
+ruisseau benedict	BOui	3
+ruisseau burwash	BOvZ	1
+ruisseau cedar	BOwO	w
+ruisseau chanion	BOw+	2
+ruisseau chisholm	BOx0	4
+ruisseau julian	BOys	0
+ruisseau mcdiarmid	BOzg	6
+ruisseau pollard	BO0a	0
+ruisseau pontiac	BO1O	2
+ruisseau pontleroy	BO2E	/
+ruisseau prices	BO3D	w
+ruisseau quigley	BO3z	z
+ruisseau saugeen	BO4m	y
+ruisseau sisson	BO5Y	y
+ruisseau states nord	BO6K	BG
+ruisseau sunday	BO7Q	x
+ruisseau sunrise	BO8B	z
+ruisseau teed	BO80	p
+ruisselet	BO9d	6
+ruminer	BO+X	j
+rupture	BO+6	p
+rural	BO/j	c
+russe	BO//	t
+russe	HA9	t
+russie	HBq	a
+rustique	BPAs	BI
+rusé	BPB0	w
+rythme	BPCk	g
+rythmique	BPDE	j
+rythmé	BPDn	g
+râler	BPEH	i
+râpe	BPEp	r
+râper	BPFU	f
+râteau	BPFz	f
+râteler	BPGS	d
+règle	BPGv	q
+règlement	BPHZ	Br
+règne	BPJE	BX
+réacteur	BPLF	6
+réaction	BPKb	q
+réaliser	BPL/	Be
+réalité	BPNd	2
+récemment	BPOT	n
+réception	BPO6	Bf
+récif	BPQZ	f
+réciproque	BPQ4	z
+récit	BPRr	4
+réciter	BPSj	e
+réclamation	BPTB	x
+réclame	BPTy	2
+réclamer	BPUo	n
+récolte	BPVP	l
+récolter	BPV0	i
+récompense	BPWW	1
+récompenser	BPXL	2
+réconcilier	BPYB	s
+réconforter	BPYt	t
+récréation	BPZa	BT
+récupérer	BPat	v
+récurer	BPbc	c
+rédaction	BPb4	0
+rédiger	BPcs	d
+réduction	BPdJ	Bf
+réduction de texte	BPeo	Bd
+réduire	BPgF	g
+réduire en miettes	BPgl	/
+réel	BPhk	4
+réellement	BPic	BD
+réfectoire	BPjf	8
+réflexion	BPkb	5
+réfléchir	BPlU	BL
+réformer	BPmf	BF
+réfrigérateur	BPnk	8
+réfugier	BPog	n
+réfugié	BPpH	o
+réfuter	BPpv	e
+régaler	BPqN	o
+régime	BPq1	j
+régiment	BPrY	r
+région	BPsD	l
+réglage	BPso	o
+régler	BPtQ	Bm
+régner	BPu2	1
+régulier	BPvr	p
+régulièrement	BPwU	1
+réjouir	BPxJ	j
+rénover	BPxs	p
+répandre	BPyV	CI
+réparer	BP0d	k
+répartir	BP1B	n
+répercussion	BP1o	w
+répersussion	BP2Y	BD
+répertoire	BP3b	BQ
+répondre	BP4r	t
+réponse	BP5Y	s
+réponse dun problème	BP6E	8
+réprimander	BP7A	BK
+réprimer	BP8K	Bn
+républic dominicaine	HCE	5
+république	BP9x	q
+répulsion	BP+b	BD
+réputation	BP/e	Bu
+répéter	BQBM	f
+réseau	BQBr	n
+réserve	BQCS	BM
+réserver	BQDe	j
+réserver pour	BQEB	w
+résident	BQEx	q
+résigner	BQFb	8
+résine	BQGX	g
+résistance	BQG3	v
+résistance à lair	BQHm	BC
+résister	BQIo	r
+résolution	BQJT	BI
+résonner	BQKb	z
+résoudre	BQLO	y
+résultat	BQMA	9
+résulter	BQM9	g
+résumer	BQNd	r
+rétif	BQOI	q
+rétorquer	BQOy	t
+réunion	BQPf	+
+réunir	BQQd	BO
+réussir	BQRr	g
+réveil	BQSL	u
+réveiller	BQUA	3
+réveilmatin	BQS5	BH
+réviser	BQU3	e
+révolte	BQVV	3
+révolution	BQWM	x
+révéler	BQW9	o
+rêve	BQXl	r
+rêver	BQYQ	a
+rêver éveillé	BQYq	6
+rôder	BQZk	g
+rôle	BQaE	i
+rôti	BQam	q
+rôtir	BQbQ	i
+sa	BRTt	d
+sabaisser	BQby	B8
+sabattre	BQdu	/
+sable	BRUK	c
+sabonner	BQet	w
+sabot	BRUm	c
+saboucher avec	BQfd	r
+sabouler	BQgI	c
+sabriter	BQgk	BU
+sabsenter	BQh4	r
+sabstenir	BQij	l
+sabstenir de	BQjI	BD
+sabâtardir	BQkL	r
+sabêtir	BQk2	m
+sabîmer	BQlc	v
+sac	BRVC	e
+sac tyrolien	BRVg	y
+sacclimater	BQmL	0
+saccorder	BQm/	p
+saccoter	BQno	d
+saccoupler	BQoF	Bj
+saccoutumer	BQpo	3
+saccoître	BQqf	s
+saccroître	BQrL	r
+sacidifier	BQr2	1
+sacoche	BRWS	q
+sacré	BRW8	j
+sadapter	BQsr	BC
+sadjoindre des aides	BQtt	3
+sadosser	BQuk	c
+sadresser à	BQvA	BI
+saffilier	BQwI	r
+sagace	BRXf	r
+sage	BRYK	BM
+sagefemme	BRZW	BG
+sagement	BRac	x
+sagenouiller	BQwz	l
+sagesse	BRbN	i
+sagglutiner	BQxY	j
+sagittaire	HC9	o
+sahara	HDl	b
+saignant	BRbv	x
+saigrir	BQx7	y
+saillant	BRcg	w
+sain	BRdQ	h
+saint	BRdx	h
+saintehélène	HHp	z
+saintevierge	HIc	v
+saintmarin	HEA	v
+saintnicolas	HEv	BB
+saintpétersbourg	HFw	BA
+saintsylvestre	HGw	5
+saisie	BReS	g
+saisir	BRey	Cg
+saison	BRhS	v
+sajuster	BQyt	BD
+salade	BRiB	e
+salaire	BRif	w
+salami	BRjP	h
+sale	BRjw	3
+saler	BRkn	j
+salir	BRlK	z
+salive	BRl9	f
+salle	BRmc	j
+salle de bains	BRm/	q
+salle à manger	BRnp	v
+sallumer	BQzw	BA
+salon	BRoY	/
+salon de réception	BRpX	Bi
+saluer	BRq5	h
+salut	BRra	BC
+salutation	BRsc	s
+samarie	HJL	e
+samedi	BRtI	k
+samoindrir	BQ0w	BH
+samuser	BQ13	d
+sanction	BRts	q
+sandale	BRuW	j
+sandwich	BRu5	q
+sang	BRvj	d
+sanglier	BRwA	p
+sanglot	BRwp	u
+sangsue	BRxX	h
+sans	BRx4	c
+sans doute	BRyU	y
+sans détour	BRzG	6
+sans faute	BR0A	BB
+santé	BR1B	h
+saper	BR1i	k
+sapercevoir	BQ2U	0
+sapeur	BR2G	h
+sapeurpompier	BR2n	2
+sapin	BR3d	e
+sapitoyer	BQ3I	0
+sappeler	BQ38	i
+sapprocher	BQ4e	BH
+sarcler	BR37	l
+sardaigne	HJp	x
+sarde	HKa	c
+sardine	BR4g	j
+sarrêter	BQ5l	1
+sarrêter à	BQ6a	m
+satan	HK2	j
+satellite	BR5D	p
+satisfaction	BR5s	0
+satisfaire	BR6g	v
+satisfaisant	BR7P	BB
+satisfait	BR8Q	5
+sattabler	BQ7A	BB
+saturer	BR9J	f
+saturne	HLZ	d
+sauce	BR9o	i
+saucer	BR+K	q
+saucisse	BR+0	i
+sauf	BR/W	6
+sauge	BSAQ	b
+saule	BSAr	d
+saumon	BSBI	i
+saut	BSBq	f
+sauter	BSCJ	l
+sauter à labordage	BSCu	+
+sauterelle	BSDs	1
+sauteur	BSEh	BJ
+sauteuse	BSFq	m
+sautiller	BSGQ	b
+sauvage	BSGr	k
+sauvegarder	BSHP	0
+sauver	BSID	l
+savancer	BQ8B	2
+savant	BSIo	u
+saveur	BSJW	i
+savoir	BSJ4	k
+savon	BSKc	f
+savourer	BSK7	e
+savoureux	BSLZ	3
+saxe	HL2	d
+saxon	HMT	a
+saxophone	BSMQ	q
+scandale	BSM6	y
+scandinave	BSNs	s
+scandinave	HMt	BD
+scandinavie	HNw	r
+scaphandre autonome	BSOY	5
+scarabée	BSPR	m
+sceau	BSP3	n
+sceller	BSQe	Z
+sceptique	BSQ3	k
+schah	BSRb	a
+schéma	BSR1	x
+scie	BSSm	X
+science	BSS9	j
+scier	BSTg	U
+scintiller	BST0	5
+score	BSUt	f
+scorpion	BSVM	r
+scrupule	BSV3	m
+sculpture	BSWd	o
+scylla	HOb	Z
+scène	BSXF	d
+scénario	BSXi	m
+se bagarrer	BSYI	3
+se baigner	BSY/	u
+se battre	BSZt	z
+se comporter	BSag	BA
+se conduire	BSbg	5
+se conformer	BScZ	s
+se coucher	BSdF	z
+se disputer	BSd4	BD
+se dorer	mQD	m
+se douter de	BSe7	y
+se dresser	BSft	i
+se débattre	BSgP	5
+se délecter	BShI	m
+se démener	BShu	B7
+se déplacer	BSjp	8
+se dépêcher	BSkl	0
+se dépêcher	BSlZ	m
+se déshabiller	BSl/	x
+se dévouer	BSmw	y
+se faner	BSni	k
+se fatiguer	BSoG	m
+se fier	BSos	2
+se fier à	BSpi	Bl
+se lamenter	BSrH	s
+se lever	BSrz	m
+se marier	BSsZ	5
+se masturber	BStS	r
+se mettre daccord	BSt9	/
+se mettre en tranvers	BSu8	5
+se mettre en travers	BSv1	+
+se mettre à labri	BSwz	z
+se mettre à labri de	BSxm	BI
+se moquer	BSza	r
+se méfier	BSyu	s
+se parler	BS0F	4
+se perdre	BS09	u
+se plaindre	BS1r	o
+se porter	BS2T	g
+se presser	BS2z	i
+se promener	BS3V	1
+se précipiter	BS4K	t
+se quereller	BS43	x
+se racornir	BS5o	1
+se rappeler	BS6d	6
+se ratatiner	BS7X	z
+se recommander	BS8K	4
+se relâcher	BS9C	m
+se rendre compte	BS9o	7
+se repentir	BS+j	q
+se reposer	BS/N	q
+se retirer	BS/3	z
+se retrancher	BTAq	BP
+se réfugier	BTB5	7
+se réjouir	BTC0	/
+se réserver	BTDz	p
+se résigner	BTEc	5
+se résoudre à	BTFV	BH
+se réveiller	BTGc	t
+se révolter	BTHJ	u
+se servir de	BTH3	8
+se soucier de	BTIz	Bb
+se soulever	BTKO	BG
+se souvenir	BTLU	7
+se suicider	BTMP	7
+se surveiller	BTNK	x
+se taire	BTN7	h
+se terminer	BTOc	BD
+se tromper	BTPf	y
+se trouver	BTQR	+
+seau	BTRP	h
+sec	BTRw	V
+second	BTSF	f
+secondaire	BTSk	BE
+seconde	BTTo	k
+secouer	BTUM	r
+secourir	BTU3	BE
+secours	BTV7	m
+secret	BTWh	j
+secrétaire	BTXE	w
+secte	BTX0	c
+secteur	BTYQ	l
+section	BTY1	m
+sectionner	BTZb	k
+sefforcer	BQ83	n
+seigle	BTZ/	d
+seigneur	BTac	o
+seigneurie	BTbE	BA
+sein	BTcE	s
+seine	HO0	W
+seize	BTcw	b
+sel	BTdL	a
+selle	BTdl	d
+selon	BTeC	7
+semaine	BTe9	g
+semblable	BTfd	y
+semblable	BTgP	8
+sembler	BThL	y
+semelle	BTh9	x
+semence	BTiu	u
+semer	BTjc	W
+semoule	BTjy	j
+sen aller	BQ9e	8
+senfuir	BQ+a	j
+sengager	BQ+9	r
+senivrer	BQ/o	x
+sennuyer	BRAZ	8
+senrhumer	BRBV	p
+sens	BTkV	n
+sensible	BTk8	BZ
+sensé	BTmV	t
+sentence	BTnC	BL
+sentier	BToN	i
+sentiment	BTov	BM
+sentinelle	BTp7	p
+sentir	BTqk	BT
+sentremettre	BRB+	3
+sept	BTr3	Y
+septembre	BTsP	s
+septique	BTs7	q
+serbe	BTtl	d
+serbe	HPK	Y
+serbie	HPi	c
+serein	BTuC	s
+sergent	BTuu	p
+serment	BTvX	k
+sermon	BTv7	l
+sermonner	BTwg	BS
+serpe	BTxy	f
+serpent	BTyR	u
+serrer	BTy/	CW
+serrer plus fort	BT1V	6
+serrure	BT2P	h
+servage	BT2w	w
+servante	BT3g	v
+serveur	BT4P	m
+serveuse	BT41	n
+serviable	BT5c	s
+service	BT6I	Bz
+serviette	BT77	z
+serviette de table	BT8u	y
+servir	BT9g	d
+serviteur	BT99	w
+session	BT+t	l
+seuil	BT/S	n
+seul	BT/5	u
+seulement	BUAn	2
+sexcuser	BRC1	6
+sexe	BUBd	n
+sexuel	BUCE	h
+seyant	BUCl	h
+seychelles	HP+	l
+shabiller	BRDv	r
+shah	BUDG	Y
+sharmoniser	BREa	s
+shumilier	BRFG	3
+shérif	BUDe	k
+si	BUEC	CM
+siam	HQj	f
+siamois	BUGO	l
+sibérie	HRC	f
+sibérien	BUGz	j
+sicile	HRh	a
+sicilien	BUHW	h
+sicilien	HR7	l
+sicilienne	HSg	v
+sida	BUH3	b
+sifflement	BUIS	1
+siffler	BUJH	n
+sifflet	BUJu	j
+signal	BUKR	0
+signaler	BULF	z
+signature	BUL4	p
+signe	BUMh	8
+signer	BUNd	Y
+signification	BUN1	7
+signifier	BUOw	u
+sil vous plaît	BRF9	i
+silence	BUPe	l
+silencieux	BUQD	2
+silex	BUQ5	o
+silhouette	BURh	y
+sillon	BUST	2
+simple	BUTJ	v
+simplement	BUT4	3
+simulacre	BUUv	o
+sincliner	BRGf	i
+sincère	BUVX	x
+sincérité	BUWI	u
+sindigner	BRHB	p
+sindigner de	BRHq	BN
+sinformer	BRI3	w
+singaporien	BUW2	u
+singapour	HTP	m
+singapourien	HT1	y
+singe	BUXk	m
+singulier	BUYK	CG
+sinistre	BUaQ	Bn
+sinsurger	mPN	2
+sintéresser	BRJn	+
+sirop	BUb3	e
+sirène	BUcV	h
+situation	BUc2	BF
+situer	BUd7	BO
+sitôt	BUfJ	BG
+six	BUgP	U
+siècle	BUgj	v
+siège	BUhS	0
+sièger	BUiG	a
+ski	BUig	Y
+slave	BUi4	a
+slave	HUn	W
+slavon	BUjS	i
+slavon	HU9	g
+slip	BUj0	p
+slip de bain	BUkd	w
+slovaque	BUlN	f
+slovaque	HVd	w
+slovaquie	HWN	h
+slovène	BUls	j
+slovène	HWu	q
+slovénie	HXY	h
+sobre	BUmP	5
+sobstiner	BRKl	9
+soccuper	BRLi	BJ
+soccuper	BRMr	5
+soccuper de	BRNk	2
+social	BUnI	d
+socialisme	BUnl	r
+société	BUoQ	m
+sodium	BUo2	i
+soie	BUpY	Z
+soif	BUpx	c
+soigner	BUqN	BW
+soigneux	BUrj	/
+soin	BUsi	m
+soir	BUtI	f
+soirée	BUtn	i
+soit	BUuJ	m
+soit soit	BUuv	l
+soixante	BUvU	h
+soixantedix	BUv1	q
+soixantième	BUwf	s
+sol	BUxL	i
+solaire	BUxt	u
+soldat	BUyb	o
+solde	BUzD	g
+sole	BUzj	a
+soleil	BUz9	f
+solennel	BU0c	y
+solidaire	BU1O	3
+solidarité	BU2F	v
+solide	BU20	i
+solliciter	BU3W	3
+solvable	BU4N	i
+somalie	HX5	d
+somalien	BU4v	p
+somalien	HYW	t
+sombre	BU5Y	CJ
+sommation	BU7h	BH
+somme	BU8o	j
+somme	BU9L	i
+sommeil	BU9t	h
+sommer	BU+O	+
+sommet	BU/M	BO
+somnambule	BVAa	x
+son	BVBL	q
+sondage	BVB1	r
+sonder	BVCg	u
+songe	BVDO	g
+songer	BVDu	BO
+sonner	BVE8	BI
+sonner à la porte	BVGE	BJ
+sonnette	BVHN	w
+sonore	BVH9	2
+sophie	HZD	Y
+sorcier	BVIz	BM
+sorcière	BVJ/	n
+sort	BVKm	BF
+sorter	BVLr	i
+sortie	BVMN	4
+sortilège	BVNF	s
+sortir	BVNx	p
+sortir de	BVOa	t
+sot	BVPH	2
+souci	BVP9	+
+soucoupe	BVQ7	h
+soudain	BVRc	n
+soudainement	BVSD	9
+soudan	HZb	b
+soudanais	BVTA	j
+soudanais	HZ2	h
+soude	BVTj	i
+souder	BVUF	Z
+souffle	BVUe	y
+souffler	BVVQ	a
+souffler sur	BVVq	n
+souffrir	BVWR	BB
+soufre	BVXS	s
+souhait	BVX+	BH
+souhaiter	BVZF	v
+souiller	BVZ0	p
+soulager	BVad	i
+soulever	BVa/	q
+soulier	BVbp	e
+souligner	BVcH	BD
+soumettre	BVdK	z
+soupe	BVd9	a
+souper	BVeX	t
+soupirant	BVfE	0
+soupirer	BVf4	t
+souple	BVgl	u
+souplesse	BVhT	5
+soupçonner	BViM	j
+source	BViv	x
+sourcil	BVjg	q
+sourd	BVkK	Y
+sourdmuet	BVki	r
+sourire	BVlN	c
+souris	BVlp	e
+sous	BVmH	z
+sousentendu	BVm6	BI
+sousmarin	BVoC	s
+soussol	BVou	l
+soustraction	BVpT	z
+soustraire	BVqG	l
+soutenir	BVqr	n
+souterrain	BVrS	/
+souterrain	BVsR	r
+soutien	BVs8	l
+soutiengorge	BVth	u
+souvenir	BVuP	BM
+souvent	BVvb	1
+souverain	BVwQ	BV
+soyeux	BVxl	z
+sparte	HaX	b
+speaker	BVyY	+
+spectacle	BVzW	Bo
+spectacle de variété	BV0+	BP
+spectateur	BV2N	u
+sperme	BV27	h
+sphère	BV3c	n
+spirale	BV4D	i
+spirituel	BV4l	s
+spitzberg	Hay	o
+splendeur	BV5R	x
+splendide	BV6C	k
+spontané	BV6m	p
+sport	BV7P	f
+spécial	BV7u	t
+spécialement	BV8b	9
+spécialité	BV9Y	Bk
+spécimen	BV+8	x
+squelette	BV/t	4
+stable	BWAl	k
+stade	BWBJ	m
+stagner	BWBv	e
+stand	BWCN	s
+standard	BWC5	j
+star	BWDc	m
+station	BWEC	y
+stationner	BWE0	g
+statistique	BWFU	s
+statue	BWGA	f
+stature	BWGf	j
+statut	BWHC	3
+steppe	BWH5	d
+stimuler	BWIW	x
+stock	BWJH	e
+store	BWJl	m
+store vénitien	BWKL	4
+strasbourg	Hba	n
+stratégie	BWLD	q
+strict	BWLt	d
+strident	BWMK	j
+strontium	BWMt	u
+strophe	BWNb	i
+structure	BWN9	q
+stuc	BWOn	e
+studio	BWPF	BC
+stupeur	BWQH	x
+stupide	BWQ4	9
+stupidement	BWR1	r
+stupéfaction	BWSg	9
+stupéfait	BWTd	3
+stupéfiant	BWUU	p
+stupéfier	BWU9	3
+style	BWV0	d
+stylo	BWWR	z
+stylo à bille	BWXE	BT
+styrie	HcB	b
+styx	Hcc	U
+suave	BWYX	1
+subir	BWZM	Ba
+subit	BWam	i
+subitement	BWbI	6
+subordonné	BWcC	8
+subsister	BWc+	q
+substance	BWdo	5
+substituer	BWeh	v
+substitut	BWfQ	q
+subtil	BWf6	c
+subvention	BWgW	t
+suc	BWhD	f
+successeur	BWhi	4
+succession	BWia	p
+successivement	BWjD	Bt
+succulent	BWkw	o
+succursale	BWlY	/
+succès	BWmX	w
+succédané	BWnH	t
+sucer	BWn0	W
+sucette	BWoK	BH
+sucre	BWpR	e
+sucré	BWpv	y
+sud	BWqh	a
+sudafricain	BWq7	2
+sudafricain	Hcw	z
+sudaméricain	BWrx	y
+sudest asiatique	Hdj	7
+suer	BWsj	V
+sueur	BWs4	u
+suffire	BWtm	d
+suffisamment	BWuD	BF
+suffisant	BWvI	v
+suffixe	BWv3	t
+suffoquer	BWwk	6
+suggérer	BWxe	r
+suie	BWyJ	a
+suisse	BWyj	b
+suisse	Hee	r
+suite	BWy+	Cn
+suivant	BW1l	BB
+suivre	BW2m	6
+suivre un régime	BW3g	4
+sujet	BW4Y	0
+sujet secondaire	BW5M	BE
+summon	BW6Q	v
+superbe	BW6/	s
+superficiel	BW7r	7
+superstition	BW8m	2
+supplément	BW9c	r
+supplémentaire	BW+H	BL
+supporter	BW/S	z
+supposer	BXAF	3
+supposé que	BXA8	o
+supprimer	BXBk	Cv
+suprême	BXET	i
+supérieur	BXE1	v
+sur	BXFk	BX
+sur la recommandation de	BXG7	BX
+surdoué	BXIw	w
+sureau	BXIS	e
+surface	BXJg	j
+surgir	BXKD	BT
+surinam	HfJ	f
+surinamien	BXLW	o
+surinamien	Hfo	3
+surinamienne	Hgf	2
+surmonter	BXL+	BQ
+surplombant	BXNO	t
+surprendre	BXN7	p
+surprise	BXOk	n
+sursauter	BXPL	BD
+sursis	BXQO	s
+surtout	BXQ6	Bp
+surveiller	BXSj	Co
+survie	BXVL	i
+survivre	BXVt	o
+suspecter	BXWV	i
+suspendre	BXW3	Bi
+suspense	BXYZ	o
+sussurer	BXZB	l
+suède	HhV	a
+suédois	BXZm	g
+suédois	Hhv	c
+svp	BRTV	Y
+symbole	BXaG	l
+sympa	BXar	i
+sympathie	BXbN	o
+sympathique	BXb1	r
+syndicat	BXcg	BE
+syndicat agricole	BXdk	BA
+synthèse	BXek	3
+synthétique	BXfb	r
+syrie	HiL	b
+syrien	BXgG	f
+syrien	Him	j
+système	BXgl	k
+sèchement	BXhJ	p
+sève	BXhy	h
+séance	BXiT	BB
+sébattre	BROa	g
+séchapper	BRO6	n
+sécher	BXjU	Y
+sécurité	BXjs	x
+séditieux	BXkd	p
+séisme	BXlG	l
+séjour	BXlr	h
+sélancer	BRPh	r
+séminaire	BXmM	p
+sémite	HjJ	b
+sémitique	BXm1	j
+sénat	BXnY	f
+sénégal	Hjk	g
+sénégalais	HkE	o
+séparer	BXn3	2
+série	BXot	k
+sérieux	BXpR	x
+sériger en	BRQM	h
+sétendre	BRQt	l
+sétonner	BRRS	z
+sévanouir	BRSF	p
+séveiller	BRSu	n
+séville	Hks	d
+sévère	BXqC	o
+sûr	BXqq	BM
+sûrement	BXr2	BT
+sœur	BXtJ	e
+t	BXtn	n
+ta	BXuO	N
+tabac	BXub	4
+table	BXvT	c
+tableau	BXvv	7
+tableau daffichage	BXwq	BI
+tablette	BXxy	i
+tablier	BXyU	h
+tabouret	BXy1	k
+tache	BXzZ	i
+tact	BXz7	p
+tactique	BX0k	r
+tage	HlJ	W
+taie	BX1P	r
+taille	BX16	Bl
+taillehaie	BX3f	BG
+tailler	BX4l	BW
+tailleur	BX57	k
+taire	BX6f	3
+talmud	Hlf	a
+talon	BX7W	f
+talon dachille	BX71	4
+tambour	BX8t	j
+tamise	Hl5	a
+tamiser	BX9Q	a
+tampon	BX9q	t
+tandis que	BX+X	BD
+tanger	HmT	e
+tank	BX/a	d
+tant	BX/3	s
+tantale	Hmx	g
+tante	BYAj	d
+tanzanie	HnR	i
+tanzanien	BYBA	m
+tanzanien	Hnz	q
+taon	BYBm	2
+taper	BYCc	l
+tapis	BYDB	e
+tapisser	BYDf	x
+tapisserie	BYEQ	5
+taquiner	BYFJ	c
+tard	BYFl	X
+tarder	BYF8	c
+tarif	BYGY	y
+tarif postal	BYHK	z
+tarte	BYH9	h
+tas	BYIe	BQ
+tasse	BYJu	Z
+tasser	BYKH	m
+tatare	BYKt	f
+tatare	Hod	b
+taupe	BYLM	b
+taureau	BYLn	f
+taxe	BYMG	Z
+taxe doctroi	BYMf	1
+taxer	BYNU	r
+taxi	BYN/	c
+taïlandais	BYOb	l
+taïs	BYPA	X
+tchad	Ho4	W
+tchèque	BYPX	u
+tchèque	HpO	u
+tchécoslovaque	BYQF	BD
+tchécoslovaque	Hp8	BB
+tchécoslovaquie	Hq9	0
+te	BYRI	p
+technique	BYRx	x
+teindre	BYSi	h
+teint	BYTD	j
+teinte	BYTm	BE
+tel	BYUq	s
+tellement	BYVW	t
+tempe	BYWD	g
+temple	BYWj	i
+temporaire	BYXF	BA
+temps	BYYF	y
+température	BYY3	z
+tempête	BYZq	k
+tenace	BYaO	q
+tenailles	BYa4	1
+tendance	BYbt	p
+tendon	BYcW	l
+tendon dachille	BYc7	+
+tendre	BYd5	CD
+tendre un piège	BYf8	BF
+tendresse	BYhB	s
+tenir	BYht	k
+tenir place de	BYiR	2
+tension	BYjH	w
+tentation	BYj3	u
+tente	BYkl	d
+tenter	BYlC	j
+tenue	BYll	BC
+terme	BYmn	v
+terminer	BYnW	BI
+terminus	BYoe	BE
+terrain	BYpi	3
+terrasse	BYqZ	k
+terre	BYq9	2
+terreneuve	Hrx	t
+terrer	BYrz	z
+terrestre	BYsm	8
+terreur	BYti	8
+terrible	BYue	BK
+territoire	BYvo	t
+territoire du yukon	BYwV	BF
+territoires du nordouest	BYxa	BJ
+terrorisme	BYyj	t
+testament	BYzQ	y
+tester	BY0C	Z
+testicule	BY0b	p
+texan	Hse	a
+texane	Hs4	h
+texas	HtZ	Z
+texte	BY1E	l
+textile	BY1p	t
+thaï	Hty	V
+thaïlandais	BY2W	p
+thaïlandais	HuH	k
+thaïlandaise	Hur	s
+thaïlande	HvX	q
+thermomètre	BY2/	z
+thon	BY3y	u
+thym	BY4g	d
+thème	BY49	u
+thèse	BY5r	l
+thé	BY6Q	Y
+théière	BY6o	y
+théocratie	BY7a	r
+théorie	BY8F	j
+théâtre	BY8o	l
+tibet	HwB	Y
+tibre	HwZ	Y
+tibère	Hwx	f
+tibétain	BY9N	l
+tibétain	HxQ	j
+ticket	BY9y	5
+tien	BY+r	W
+tiers	BY/B	Y
+tige	BY/Z	h
+tigre	BY/6	d
+tigre	Hxz	Z
+tilleul	BZAX	y
+timbre	BZBJ	9
+timbre de poste aérienne	BZCG	BO
+timbreposte	BZDU	4
+timide	BZEM	t
+tinter	BZE5	1
+tique	BZFu	a
+tir	BZGI	j
+tirebouchon	BZGr	BE
+tirer	BZHv	BA
+tirer au sort	BZIv	q
+tirer un trait	BZJZ	4
+tiroir	BZKR	j
+tisser	BZK0	7
+tissu	BZLv	n
+titane	BZMW	i
+titre	BZM4	BU
+tiède	BZOM	e
+toboggan	BZOq	n
+togo	HyM	f
+toi	BZPR	U
+toile	BZPl	c
+toilette	BZQB	j
+toit	BZQk	a
+toiture	BZQ+	v
+tokyo	Hyr	Z
+tolerance	BZRt	s
+tolérer	BZSZ	2
+tomate	BZTP	f
+tombe	BZTu	l
+tomber	BZUT	g
+tomber amoureux de	BZUz	+
+ton	BZVx	c
+ton aigre	BZWN	g
+tondre	BZWt	n
+tonne	BZXU	y
+tonneau	BZYG	g
+tonnelle	BZYm	h
+tonner	BZZH	b
+tonnerre	BZZi	m
+toquade	BZaI	l
+toque	BZat	a
+torche	BZbH	g
+torchon	BZbn	1
+tordre	BZcc	l
+torpiller	BZdB	1
+torrent	BZd2	t
+torse	BZej	f
+tort	BZfC	p
+tortue	BZfr	i
+torture	BZgN	y
+total	BZg/	x
+totalement	BZhw	BA
+touche	BZiw	c
+touche de clavier	BZjM	q
+toucher	BZj2	BA
+toucher à	BZk2	g
+touffu	BZlW	f
+toujours	BZl1	m
+toujours plus	BZmb	9
+tour	BZnY	BG
+tourbe	BZoe	d
+tourbilloner	BZo7	k
+tourisme	BZpf	l
+tourmenter	BZqE	1
+tournage	BZq5	n
+tourner	BZrg	9
+tournevis	BZsd	s
+tourterelle	BZtJ	w
+tous	BZt5	P
+tous les jours	BZuI	y
+tous près de	BZu6	s
+toussaint	HzE	1
+tousser	BZvm	Z
+tout	BZv/	Bw
+tout au plus	BZxv	e
+tout dabord	BZyN	Bk
+tout de même	BZzx	6
+tout de suite	BZ0r	BT
+tout le	BZ1+	Y
+tout le monde	BZ2W	7
+tout à coup	BZ3R	1
+tout à lheure	BZ4G	g
+toute espèce de	BZ4m	0
+toute sorte de	BZ5a	x
+toutes	BZ6L	S
+toutes les fois	BZ6d	u
+trace	BZ7L	k
+trachée	BZ7v	l
+tracteur	BZ8U	o
+tradition	BZ88	s
+traduire	BZ9o	k
+trafic	BZ+M	j
+tragique	BZ+v	h
+tragédie	BZ/Q	n
+trahir	BZ/3	c
+train	BaAT	g
+traire	BaAz	a
+trait	BaBN	n
+traitement	BaB0	BM
+traiter	BaDA	v
+trajectoire	BaDv	x
+tramer	BaEg	a
+tramway	BaE6	t
+tranchant	BaFn	m
+tranche	BaGN	j
+trancher	BaGw	l
+tranquille	BaHV	0
+transformation	BaIJ	DP
+transformer	BaLY	s
+transitif	BaME	q
+transition	BaMu	w
+transmission	BaNe	y
+transpirer	BaOQ	l
+transport	BaO1	+
+transporter	BaPz	s
+transylvanie	Hz5	v
+travail	BaQf	t
+travailler	BaRM	f
+traîner	BaRr	h
+traître	BaSM	3
+treize	BaTD	f
+treizième	BaTi	p
+tremble	BaUL	k
+tremblement de terre	BaUv	7
+trembler	BaVq	y
+trempage	BaWc	y
+tremper	BaXO	BA
+trente	BaYO	f
+tresser	BaYt	z
+triangle	BaZg	p
+triangulaire	BaaJ	w
+tribu	Baa5	e
+tribunal	BabX	o
+tribune	Bab/	4
+tribut	Bac3	i
+tricher	BadZ	7
+tricoter	BaeU	e
+trier	Baey	j
+triomphe	BafV	n
+triompher	Baf8	k
+triste	Bagg	v
+trivial	BahP	1
+troie	H0o	X
+trois	BaiE	a
+trombone	Baie	q
+trompe	BajI	t
+tromper	Baj1	Bu
+trompette	Balj	p
+tronc	BamM	m
+tronçon	Bamy	q
+trop	Banc	g
+tropical	Ban8	k
+trotter	Baog	b
+trottoir	Bao7	y
+trou	Bapt	b
+trouble	BaqI	i
+troubler	Baqq	BM
+troupe	Bar2	BV
+troupeau	BatL	o
+trouver	Batz	a
+troyen	H0/	b
+troène	BauN	j
+trucs	Bauw	m
+truelle	BavW	i
+truie	Bav4	c
+truite	BawU	g
+très	Baw0	r
+trèves	H1a	c
+trébucher	Baxf	j
+trésor	BayC	n
+trésorier	Bayp	r
+trêve	BazU	BY
+tu	Ba0s	Z
+tube	Ba1F	x
+tuer	Ba12	l
+tuile	Ba2b	c
+tunesie	H12	e
+tungstène	Ba23	o
+tunis	H2U	X
+tunnel	Ba3f	h
+turc	H2r	W
+turin	H3B	b
+turkménistan	H3c	x
+turque	H4N	v
+turquie	H48	c
+tutorat	Ba4A	BO
+tutoyer	Ba5O	k
+tuyau	Ba5y	0
+tylenchus	Ba6m	o
+type	Ba7O	a
+typhus	Ba7o	g
+typique	Ba8I	e
+typiquement	Ba8m	p
+tyran	Ba9P	i
+tzigane	Ba9x	n
+tâche	Ba+Y	v
+tâter	Ba/H	z
+tâtonner	Ba/6	n
+té	8H	f
+télécharger	BbAh	q
+télécopie	BbBL	x
+télégramme	BbB8	s
+télégraphe	BbCo	t
+téléphone	BbDV	r
+téléphoner	BbEA	n
+télévision	BbEn	z
+témoignage	BbFa	Bu
+témoigner	BbHI	7
+témoin	BbID	l
+ténèbres	BbIo	o
+ténères	BbJQ	s
+tête	BbJ8	b
+tête dail	BbKX	r
+tête de bétail	BbLC	z
+têtu	BbL1	o
+tôle	BbMd	s
+tôt	BbNJ	W
+ukraine	H5Y	r
+ukrainien	BbNf	l
+ukrainien	H6D	p
+ukrainienne	H6s	z
+ulcère	BbOE	o
+ultérieurement	BbOs	9
+ulysse	H7f	a
+un	BbPp	BI
+un jour	BbQx	3
+unanime	BbRo	h
+une	BbSJ	V
+une	BbSe	T
+une certaine quantité	BbSx	Bf
+uni	BbUQ	t
+uniforme	BbU9	n
+union européenne	H75	6
+unique	BbVk	b
+unir	BbV/	d
+unité	BbWc	p
+univers	BbXF	m
+université	BbXr	v
+uranium	BbYa	m
+urgent	BbZA	g
+uriner	BbZg	c
+uruguay	H8z	f
+user	BbZ8	t
+user de	Bbap	u
+usine	BbbX	k
+ustensile	Bbb7	/
+usurper	Bbc6	c
+utile	BbdW	o
+utilisateur	Bbd+	q
+utérus	Bbeo	o
+vacance	BbfQ	7
+vacances	BbgL	o
+vacciner	Bbgz	h
+vache	BbhU	a
+vachement	Bbhu	s
+vaciller	Bbia	m
+vagin	BbjA	i
+vague	Bbj8	BE
+vague	Bbji	a
+vaguer	BblA	f
+vaillant	Bblf	BC
+vain	Bbmh	z
+vaincre	BbnU	o
+vaisseau	Bbn8	i
+valable	Bboe	1
+valachie	H9S	r
+valence	H99	g
+valeur	BbpT	n
+valise	Bbp6	h
+vallée	Bbqb	f
+valoir	Bbq6	e
+valve	BbrY	g
+vaniteux	Bbr4	p
+vanité	Bbsh	h
+vapeur	BbtC	v
+varier	Bbtx	Z
+variété	BbuK	1
+varsovie	H+d	f
+vase	Bbu/	i
+vase	Bbvh	Y
+vaste	Bbv5	l
+vatican	H+8	t
+vautour	Bbwe	j
+veau	BbxB	k
+vedette	Bbxl	BK
+veille	Bbyv	r
+veiller sur	Bbza	u
+veiller à	Bb0I	0
+veine	Bb08	BN
+velours	Bb2J	j
+velu	Bb2s	h
+venaison	Bb3N	n
+vendre	Bb30	t
+vendre doccasion	Bb4h	BE
+vendredi	Bb5l	p
+venger	Bb6O	t
+venimeux	Bb67	k
+venin	Bb7f	i
+venir	Bb8B	Z
+venise	H/p	b
+vent	Bb8a	c
+vente aux enchères	Bb82	5
+ventiler	Bb9v	j
+ventre	Bb+S	y
+venue	Bb/E	f
+ver	Bb/j	b
+ver de terre	Bb/+	v
+verbe	BcAt	e
+verdict	BcBL	0
+verger	BcB/	k
+verlan	BcCj	Be
+vernis	BcEB	v
+verrat	BcEw	f
+verre	BcFP	e
+verrouiller	BcFt	o
+verrue	BcGV	e
+vers	BcGz	s
+vers	BcHf	n
+verseau	IAE	f
+versement	BcIG	s
+versement initial	BcIy	Bl
+verser	BcKX	+
+verser un premier acompte	BcLV	Bf
+vert	BcM0	Z
+vertical	BcNN	l
+vertu	BcNy	q
+vertèbre	BcOc	q
+vertébral	BcPG	r
+vessie	BcPx	o
+veste	BcQZ	e
+vestiaire	BcQ3	r
+veston	BcRi	j
+veto	BcSF	b
+veuf	BcSg	e
+veuillez mexcuser	BcS+	u
+veuve	BcTs	c
+viande	BcUI	f
+vibrer	BcUn	c
+vicaire	BcVD	i
+vice	BcVl	BP
+victime	BcW0	h
+victoria	IAj	j
+vide	BcXV	+
+vider	BcYT	X
+vie	BcYq	X
+vieillard	BcZB	n
+vieille	BcZo	BQ
+vienne	IBG	f
+viennois	Bca4	q
+viennois	IBl	g
+viennoise	ICF	o
+vierge	Bcbi	i
+vierge	BccE	8
+vietnamien	BcdA	o
+vietnamien	ICt	s
+vietnamienne	IDZ	2
+vieux	Bcdo	BN
+vif	Bce1	y
+vigilant	Bcfn	+
+vigne	Bcgl	m
+vignoble	BchL	j
+vigueur	Bchu	/
+viking	IEP	b
+vilain	Bcit	j
+villa	BcjQ	c
+village	Bcjs	j
+villageois	BckP	o
+ville	Bck3	g
+vin	BclX	b
+vinaigre	Bcly	m
+vingt	BcmY	b
+vingtième	Bcmz	o
+viol	Bcnb	s
+violence	BcoH	o
+violer	Bcov	BK
+violet	Bcp5	d
+violette	BcqW	j
+violon	Bcq5	j
+violoncelle	Bcrc	r
+virement	BcsH	v
+virer	Bcs2	a
+virginal	BctQ	t
+virgule	Bct9	h
+virus	Bcue	f
+vis	Bcu9	Y
+visa	Bcwh	i
+visage	BcxD	f
+viser	Bcxi	d
+visible	Bcx/	f
+visigoth	IEq	h
+vision	Bcye	i
+visite	BczA	e
+visiter	Bcze	x
+visiteur	Bc0P	v
+vistule	IFL	d
+visàvis	BcvV	BM
+vite	Bc0+	o
+vitesse	Bc1m	g
+vitre	Bc2G	d
+vitrine	Bc2j	2
+vivacité	Bc3Z	z
+vivant	Bc4M	d
+vive sollicitation	Bc4p	BK
+vivre	Bc5z	h
+viêtnam	IFo	j
+vocabulaire	Bc6U	v
+vodka	Bc7D	d
+voici	Bc7g	8
+voie	Bc8c	x
+voile	Bc9N	b
+voile	Bc9o	c
+voiler	Bc+E	Y
+voilà	Bc+c	BQ
+voir	Bc/s	V
+voisin	BdAB	m
+voisinage	BdAn	BI
+voiture	BdBv	z
+voix	BdCi	a
+volage	BdC8	z
+volant	BdDv	r
+volcan	BdEa	l
+voler	BdE/	i
+volga	IGL	Z
+volontaire	BdFh	p
+volontaire	BdGK	u
+volontiers	BdG4	BC
+volonté	BdH6	3
+volt	BdIx	c
+volta noire	IGk	q
+voltiger	BdJN	u
+volume	BdJ7	g
+volupté	BdKb	y
+vomir	BdLN	u
+vosges	IHO	a
+vote	BdL7	b
+votre	BdMW	U
+vouloir	BdMq	w
+vous	BdNa	m
+voyage	BdOA	x
+voyager	BdOx	e
+voyager au loin	BdPP	BK
+voyageur	BdQZ	r
+voyant	BdRE	BY
+voyant	BdSc	k
+voyante	BdTA	p
+voyelle	BdTp	h
+voûte	BdUK	z
+vrai	BdU9	i
+vraiment	BdVf	BI
+vraisamblable	BdWn	BC
+vraisemblable	BdXp	3
+vrille	BdYg	d
+vrombir	BdY9	g
+vu que	BdZd	BI
+vue	Bdal	1
+vulcain	IHo	e
+vulgaire	Bdba	BO
+vulgate	IIG	d
+végétalien	Bdco	p
+végéter	BddR	h
+véhicule	Bddy	l
+vélo	BdeX	s
+vélomoteur	BdfD	9
+vénus	IIj	r
+véreux	BdgA	r
+vérifier	Bdgr	BG
+véritable	Bdhx	i
+vérité	BdiT	t
+vésicule	BdjA	t
+vétérinaire	Bdjt	5
+vêtement	Bdkm	8
+vêtements	Bdli	5
+vêtir	Bdmb	j
+vôtre	Bdm+	c
+vœu	Bdna	k
+wagon	Bdn+	BD
+wallon	BdpB	f
+wallonie	IJt	f
+watt	Bdpg	a
+wc	IJO	f
+weekend	Bdp6	m
+westphalie	IKM	m
+whisky	Bdqg	p
+wisigoth	IKy	h
+xylophone	BdrJ	r
+xénon	Bdr0	i
+xérès	BdsW	k
+yacht	Bds6	d
+yaourt	BdtX	s
+yen	BduD	Z
+yoga	Bduc	c
+yoghourt	Bdu4	w
+yogourt	Bdvo	u
+yougoslave	BdwW	y
+yougoslave	ILT	BF
+yougoslavie	IMY	s
+ypres	INE	X
+yukon	INb	n
+yémen	IOC	a
+yéménite	IOc	z
+zambie	IPP	c
+zambien	BdxI	g
+zambien	IPr	k
+zanzibar	IQP	k
+zapper	Bdxo	W
+zaïre	IQz	a
+zeus	IRN	U
+zigzag	Bdx+	h
+zimbabwe	IRh	h
+zinc	Bdyf	d
+zip	Bdy8	b
+zob	BdzX	g
+zone	Bdz3	Z
+zoo	Bd0Q	Z
+zoulou	ISC	X
+zèbre	Bd0p	g
+zèle	Bd1J	t
+zélandais	Bd12	m
+zélandais	ISZ	m
+zélande	IS/	g
+zéro	Bd2c	6
+à	Bd3W	Cy
+à cause de	Bd6I	BU
+à cause de rien	Bd7c	y
+à condition que	Bd8O	v
+à deux	Bd89	v
+à droite	Bd9s	x
+à elles	Bd+d	h
+à eux	Bd++	i
+à forfait	Bd/g	f
+à haute voix	Bd//	k
+à la hâte	BeD5	BA
+à la mode	BeE5	w
+à la vôtre	BeFp	w
+à labri	BeAj	m
+à lheure	BeBJ	1
+à linstant	BeB+	p
+à lunamité	BeCn	q
+à létranger	BeDR	o
+à merveille	BeGZ	s
+à partir de	BeHF	p
+à peine	BeHu	9
+à personne	BeIr	p
+à peu près	BeJU	z
+à pic	BeKH	l
+à propos	BeKs	l
+à propos de	BeLR	q
+à proprement parler	BeL7	BS
+à temps	BeNN	2
+à toi	BeOD	BB
+à tout le monde	BePE	o
+à travers	BePs	j
+à volonté	BeQP	x
+à votre santé	BeRA	0
+à vous	BeR0	k
+àpropos	BeSY	p
+âcre	BeTB	k
+âcreté	BeTl	7
+âge	BeUg	Z
+âgé	BeU5	Y
+âme	BeVR	Z
+âne	BeVq	g
+ânesse	BeWK	t
+ânier	BeW3	o
+éboueur	BeXf	y
+ébouriffer	BeYR	s
+ébouriffé	BeY9	BH
+ébranlement	Beam	BJ
+ébranler	BeaE	i
+ébriété	Bebv	BG
+ébullition	Bec1	w
+écaille	Bedl	g
+échalas	BeeF	3
+échalote	Bee8	m
+échanger	Befi	u
+échapper	BegQ	k
+échapper comme une anguille	Beg0	BH
+écharde	Beh7	l
+échauder	Beig	d
+échec	Bei9	BA
+échelle	Bej9	t
+écho	Bekq	b
+échoppe	BelF	t
+éclair	Bely	BU
+éclat	BenG	r
+écluse	Benx	n
+école	BeoY	f
+école dagriculture	Beo3	7
+économat	Bepy	+
+économie	Beqw	n
+économiser	BerX	q
+écorce	BesB	z
+écouter	Bes0	c
+écran	BetQ	s
+écrevisse	Bet8	p
+écrire	Beul	t
+écrou	BevS	d
+écueil	Bevv	f
+écume	BewO	j
+écureuil	Bewx	o
+écurie	BexZ	t
+écœurer	BeyG	i
+éditer	Beyo	j
+édredon	BezL	r
+éduquer	Bez2	2
+égal	Be0s	m
+également	Be1S	l
+égalité	Be13	l
+église	Be2c	BV
+égout	Be3x	d
+élan	Be4O	k
+élastique	Be4y	j
+élavage	Be5V	6
+électricité	Be6P	z
+électrique	Be7C	o
+électron	Be7q	s
+élever	Be8W	BA
+élevé	Be9w	w
+éloquent	Be+g	l
+élève	Be9W	a
+élément	Be/F	n
+éléphant	Be/s	p
+émaner	BfAV	l
+éminent	BfA6	m
+émotion	BfBg	m
+émouvoir	BfCG	BU
+ému	BfDa	l
+énergie	BfD/	l
+énergique	BfEk	m
+énerver	BfFK	7
+énorme	BfGF	BL
+énérve	BfHQ	8
+épais	BfIM	w
+épargner	BfI8	m
+épaule	BfJi	h
+épi	BfKD	Z
+épice	BfKc	d
+épicéa	BfK5	u
+épier	BfLn	q
+épigraphe	BfMR	1
+épiler	BfNG	x
+épinard	BfN3	l
+épine	BfOc	p
+épingle	BfPF	q
+éponge	BfPv	j
+époque	BfQS	i
+épouse	BfQ0	d
+épouvantable	BfRR	Bp
+époux	BfS6	8
+épuisant	BfT2	o
+épuiser	BfUe	p
+équipe	BfVH	u
+équiper	BfV1	c
+équivalent	BfWR	q
+érable	BfW7	r
+érotique	BfXm	i
+éscharpe	BfYI	k
+établi	BfYs	8
+établi	BfZo	9
+étage	Bfal	u
+étagère	BfbT	l
+étain	Bfb4	c
+étal	q5h	m
+étaler	BfcU	r
+étalon	Bfc/	m
+étang	Bfdl	d
+étape	BfeC	m
+état	Bfeo	n
+éteindre	BffP	v
+étendard	Bff+	w
+étendre	Bfgu	Ci
+étendu	BfjQ	BH
+éternel	BfkX	k
+éternuer	Bfk7	j
+étincelle	Bfle	n
+étoffe	BfmF	p
+étoile	Bfmu	e
+étonner	BfnM	d
+étouffant	Bfnp	BD
+étouffer	Bfos	5
+étourdi	Bfpl	t
+étrange	BfqS	z
+étranger	Bfr8	v
+étranger	BfrF	3
+étroit	Bfsr	e
+étude	BftJ	d
+étudiant	Bftm	o
+étudier	BfuO	c
+étui	q6H	d
+été	Bfuq	d
+évaluer	BfvH	w
+éventuel	Bfv3	0
+éventuellement	Bfwr	BB
+évidemment	Bfxs	1
+évident	Bfyh	r
+évier	BfzM	n
+éviter	Bfzz	h
+évoluer	Bf0U	p
+événement	Bf09	p
+évêque	Bf1m	i
+être	Bf2I	V
+être accro	Bf2d	o
+être accroupi	Bf3F	2
+être assis	Bf37	m
+être bon à	Bf4h	8
+être composé de	Bf5d	x
+être couché	Bf6O	BF
+être davis	Bf7T	BI
+être de service	Bf8b	5
+être debout	Bf9U	o
+être différent	Bf98	BE
+être décent	Bf/A	2
+être efficace	Bf/2	BJ
+être en colère	BgA/	y
+être en feu	BgBx	5
+être en relation avec	BgCq	BE
+être en retard	BgDu	0
+être fou	BgEi	BE
+être habitué à	BgFm	BN
+être indulgent	BgGz	BD
+être joyeux	BgH2	BP
+être lumineux	BgJF	v
+être présent	BgJ0	BD
+être situé	BgK3	x
+être spectateur de	BgLo	+
+être urgent	BgMm	2
+être vacant	BgNc	5
+île	BgOV	a
+île maurice	BgOv	u
+îles canaries	BgPd	4
+îles sorlingues	BgQV	4
+ôter	BgRN	Be
+œdipe	BgSr	q
+œillet	BgTV	x
+œuvre	BgUG	w
